@@ -2,39 +2,45 @@
 
 body {
   font-family: 'Noto Sans JP', sans-serif;
-  background: linear-gradient(120deg, #e8f0fe, #f7f7f7);
+  background: linear-gradient(135deg, #cbe7ff, #f8fcff);
   margin: 0;
   padding: 0;
   color: #2c3e50;
 }
 
+/* 共通ボックススタイル */
 .container, .login-container {
-  max-width: 800px;
-  margin: 3rem auto;
+  max-width: 420px;
+  margin: 5rem auto;
   padding: 2rem;
   background: white;
   border-radius: 16px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 0.5s ease-in;
 }
 
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 見出し */
 h1 {
   text-align: center;
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #2c3e50;
+  color: #0077cc;
 }
 
-h2 {
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
-}
-
+/* パラグラフ（説明文など） */
 p {
   font-size: 1rem;
   color: #555;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
+/* パスワード入力欄 */
 input[type="password"] {
   width: 100%;
   padding: 0.9rem 1rem;
@@ -42,15 +48,19 @@ input[type="password"] {
   border: 1px solid #ccc;
   border-radius: 8px;
   margin-bottom: 1rem;
-  transition: border-color 0.3s;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  background: #f8faff url('https://img.icons8.com/ios-glyphs/30/lock--v1.png') no-repeat 10px center;
+  background-size: 20px 20px;
+  padding-left: 40px;
 }
 
 input[type="password"]:focus {
   outline: none;
-  border-color: #007bff;
-  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.2);
+  border-color: #3399ff;
+  box-shadow: 0 0 0 3px rgba(51, 153, 255, 0.2);
 }
 
+/* ボタン */
 button {
   display: block;
   width: 100%;
@@ -58,23 +68,24 @@ button {
   font-size: 1.1rem;
   border: none;
   border-radius: 8px;
-  background: #007bff;
+  background: linear-gradient(to right, #3399ff, #0077cc);
   color: white;
   font-weight: bold;
   cursor: pointer;
-  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.2);
-  transition: background 0.3s, transform 0.1s;
+  box-shadow: 0 4px 14px rgba(0, 119, 204, 0.3);
+  transition: background 0.3s ease, transform 0.1s ease;
 }
 
 button:hover {
-  background: #0056b3;
-  transform: translateY(-1px);
+  background: linear-gradient(to right, #0077cc, #3399ff);
+  transform: translateY(-2px);
 }
 
 button:active {
   transform: scale(0.98);
 }
 
+/* ボタン：正解/不正解時 */
 button.correct {
   background: #4caf50;
   color: white;
@@ -85,11 +96,6 @@ button.incorrect {
   color: white;
 }
 
-.feedback {
-  margin-top: 0.5rem;
-  font-weight: bold;
-}
-
 #error {
   color: #e74c3c;
   font-size: 0.9rem;
@@ -97,22 +103,31 @@ button.incorrect {
   text-align: center;
 }
 
+/* リンクなど */
 a {
   display: inline-block;
   margin-top: 1rem;
   font-weight: bold;
   color: #007bff;
   text-decoration: none;
+  text-align: center;
 }
 
 a:hover {
   text-decoration: underline;
 }
 
+/* クイズブロック */
 .question-block {
-  background: #fdfdfd;
+  background: #fefefe;
   border-radius: 12px;
   padding: 1.2rem;
   margin-bottom: 1.5rem;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+}
+
+/* 回答フィードバック */
+.feedback {
+  margin-top: 0.5rem;
+  font-weight: bold;
 }
