@@ -3,7 +3,7 @@ function checkPassword() {
   const correctPassword = "teitanjusei"; // 🔒 ←ここで設定！
 
   if (password === correctPassword) {
-    window.location.href = "index.html";
+    window.location.href = "home.html";
   } else {
     document.getElementById("error").textContent = "パスワードが違います";
   }
