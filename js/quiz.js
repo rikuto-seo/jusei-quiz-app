@@ -1,5 +1,7 @@
 // グローバル変数で問題全体を保持
 let allQuestions = [];
+let correctCount = 0;
+let answeredCount = 0;
 
 // URLクエリからフィルターを取得
 const params = new URLSearchParams(window.location.search);
@@ -47,10 +49,28 @@ function shuffleArray(array) {
   return arr;
 }
 
+// 正答数表示関数
+function showResult() {
+  let resultDiv = document.getElementById("quiz-result");
+  if (!resultDiv) {
+    resultDiv = document.createElement("div");
+    resultDiv.id = "quiz-result";
+    resultDiv.style.marginTop = "20px";
+    resultDiv.style.fontSize = "1.2em";
+    resultDiv.style.fontWeight = "bold";
+    document.getElementById("quiz-container").appendChild(resultDiv);
+  }
+  resultDiv.textContent = `正答数: ${correctCount} / ${answeredCount} 問`;
+}
+
 // クイズ表示
 function renderQuiz(questions) {
   const container = document.getElementById("quiz-container");
   container.innerHTML = "";
+
+  // カウント初期化
+  correctCount = 0;
+  answeredCount = 0;
 
   questions.forEach((q, index) => {
     const qDiv = document.createElement("div");
@@ -62,6 +82,8 @@ function renderQuiz(questions) {
     const questionNo = q.questionNumber || index + 1;
 
     title.textContent = `【問${questionNo}】 ${q.question}（${q.year}年・${examNum}・問${questionNo}・${q.subject}）`;
+
+    qDiv.appendChild(title);
 
     const shuffledChoices = shuffleArray(
       q.choices.map((choice, i) => ({ choice, originalIndex: i }))
@@ -76,6 +98,9 @@ function renderQuiz(questions) {
         qDiv.dataset.answered = "true";
 
         const isCorrect = originalIndex === q.answer;
+        if (isCorrect) correctCount++;
+        answeredCount++;
+
         btn.classList.add(isCorrect ? "correct" : "incorrect");
 
         const feedback = document.createElement("div");
@@ -93,6 +118,11 @@ function renderQuiz(questions) {
             b.classList.add("disabled-btn");
           }
         });
+
+        // 全問回答済みなら結果表示
+        if (answeredCount === questions.length) {
+          showResult();
+        }
       };
 
       qDiv.appendChild(btn);
@@ -108,7 +138,6 @@ async function loadQuiz() {
     const targetYear = filter.year || new Date().getFullYear();
     const session = params.get("session"); // "am", "pm" または null
 
-    // JSONファイルの読み込み先
     const paths = [];
 
     if (session === "am" || session === "pm") {

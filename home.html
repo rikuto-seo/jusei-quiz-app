@@ -5,23 +5,53 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>柔整ランド</title>
   <link rel="stylesheet" href="css/style.css" />
+  <style>
+    .accordion {
+      margin-bottom: 1em;
+    }
+
+    .accordion summary {
+      cursor: pointer;
+      font-weight: bold;
+      padding: 0.5em;
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+
+    .accordion ul {
+      padding-left: 1.5em;
+    }
+
+    .accordion[open] summary {
+      background-color: #e0e0e0;
+    }
+  </style>
 </head>
 <body>
   <div class="container">
     <h1>柔整ランド</h1>
     <p>過去問クイズ（選択して開始）</p>
 
-    <h2>年度別で解く（1993年〜）</h2>
-    <ul id="year-list"></ul>
+    <details class="accordion" open>
+      <summary>年度別で解く（1993年〜）</summary>
+      <ul id="year-list"></ul>
+    </details>
 
-    <h2>科目別で解く（全年度対象）</h2>
-    <ul id="subject-list"></ul>
+    <details class="accordion">
+      <summary>科目別で解く（全年度対象）</summary>
+      <ul id="subject-list"></ul>
+    </details>
 
-    <h2>年度＋科目別で解く</h2>
-    <ul id="year-subject-list"></ul>
+    <details class="accordion">
+      <summary>年度＋科目別で解く</summary>
+      <ul id="year-subject-list"></ul>
+    </details>
 
-    <h2>年度＋時間帯別で解く</h2>
-    <ul id="session-list"></ul>
+    <details class="accordion">
+      <summary>年度＋時間帯別で解く</summary>
+      <ul id="session-list"></ul>
+    </details>
   </div>
 
   <script>
@@ -34,16 +64,15 @@
     const yearSubjectList = document.getElementById("year-subject-list");
     const sessionList = document.getElementById("session-list");
 
-    // 年度別リンク生成
     for (let y = currentYear; y >= firstYear; y--) {
       const examNum = y - firstYear + 1;
 
-      // 年度だけ
+      // 年度のみ
       const li = document.createElement("li");
       li.innerHTML = `<a href="quiz.html?year=${y}">${y}年（第${examNum}回）の問題を解く</a>`;
       yearList.appendChild(li);
 
-      // 年度 + 午前午後
+      // 午前・午後
       const sessionLi = document.createElement("li");
       sessionLi.innerHTML = `
         ${y}年（第${examNum}回）
@@ -53,7 +82,7 @@
         </ul>`;
       sessionList.appendChild(sessionLi);
 
-      // 年度 + 各科目
+      // 年度＋科目
       subjects.forEach(subject => {
         const ysLi = document.createElement("li");
         ysLi.innerHTML = `<a href="quiz.html?year=${y}&subject=${encodeURIComponent(subject)}">${y}年（第${examNum}回） ${subject}の問題を解く</a>`;
@@ -61,7 +90,7 @@
       });
     }
 
-    // 科目別リンク（全年度対象）
+    // 科目だけ（全年度）
     subjects.forEach(subject => {
       const li = document.createElement("li");
       li.innerHTML = `<a href="quiz.html?subject=${encodeURIComponent(subject)}">${subject}の問題を解く</a>`;
