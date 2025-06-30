@@ -7,12 +7,25 @@ const yearParam = params.get("year");
 const subjectParam = params.get("subject");
 const tagsParam = params.getAll("tag"); // 複数可: ?tag=基礎&tag=応用
 
-// ユーザーが選択したフィルター状態
+// フィルター状態を設定
 let filter = {
   year: yearParam ? parseInt(yearParam) : null,
   subject: subjectParam || null,
   tags: tagsParam.length > 0 ? tagsParam : []
 };
+
+// 試験回数を計算
+function getExamNumber(year) {
+  const firstYear = 1993;
+  return `第${year - firstYear + 1}回`;
+}
+
+// 午前・午後表示を取得（例: "am" → "午前"）
+function getSessionLabel(session) {
+  if (session === "am") return "午前";
+  if (session === "pm") return "午後";
+  return "";
+}
 
 // フィルターで問題絞り込み
 function filterQuestions() {
@@ -34,18 +47,21 @@ function shuffleArray(array) {
   return arr;
 }
 
-// クイズ表示関数
+// クイズ表示
 function renderQuiz(questions) {
   const container = document.getElementById("quiz-container");
-  container.innerHTML = ""; // 初期化
+  container.innerHTML = "";
 
   questions.forEach((q, index) => {
     const qDiv = document.createElement("div");
     qDiv.className = "question-block";
 
     const title = document.createElement("h2");
-    title.textContent = `【問${q.number || index + 1}】 ${q.question} （${q.year}年・${q.subject}）`;
-    qDiv.appendChild(title);
+    const examNum = getExamNumber(q.year);
+    const sessionLabel = getSessionLabel(q.session);
+    const questionNo = q.questionNumber || index + 1;
+
+    title.textContent = `【問${questionNo}】 ${q.question}（${q.year}年・${examNum}・問${questionNo}・${q.subject}）`;
 
     const shuffledChoices = shuffleArray(
       q.choices.map((choice, i) => ({ choice, originalIndex: i }))
@@ -90,28 +106,27 @@ function renderQuiz(questions) {
 async function loadQuiz() {
   try {
     const targetYear = filter.year || new Date().getFullYear();
-    const session = params.get("session"); // 省略された場合は null
+    const session = params.get("session"); // "am", "pm" または null
 
-    // 読み込むJSONファイルのパスを決定
+    // JSONファイルの読み込み先
     const paths = [];
 
     if (session === "am" || session === "pm") {
-      // 指定があればその時間帯だけ
       paths.push(`data/questions_${targetYear}_${session}.json`);
     } else {
-      // sessionが指定されていない場合 → 午前と午後の両方読み込む
       paths.push(`data/questions_${targetYear}_am.json`);
       paths.push(`data/questions_${targetYear}_pm.json`);
     }
 
-    // 複数ファイルを非同期で読み込んで結合
-    const filePromises = paths.map(path => fetch(path).then(res => {
-      if (!res.ok) throw new Error(`ファイル取得失敗: ${path}`);
-      return res.json();
-    }));
+    const filePromises = paths.map(path =>
+      fetch(path).then(res => {
+        if (!res.ok) throw new Error(`ファイル取得失敗: ${path}`);
+        return res.json();
+      })
+    );
 
     const results = await Promise.all(filePromises);
-    allQuestions = results.flat(); // 結合
+    allQuestions = results.flat();
 
     const filtered = filterQuestions();
     renderQuiz(filtered);
@@ -122,13 +137,12 @@ async function loadQuiz() {
   }
 }
 
-
-// フィルターを更新して再描画（必要ならUIから呼び出し）
+// フィルター更新＆再描画
 function updateFilter(newFilter) {
   filter = { ...filter, ...newFilter };
   const filtered = filterQuestions();
   renderQuiz(filtered);
 }
 
-// ページ読み込み時に実行
+// 初期化
 loadQuiz();

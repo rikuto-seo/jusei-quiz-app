@@ -11,49 +11,62 @@
     <h1>柔整ランド</h1>
     <p>過去問クイズ（選択して開始）</p>
 
-    <h2>年度別で解く</h2>
-    <ul>
-      <li><a href="quiz.html?year=2025">2025年の問題を解く</a></li>
-      <li><a href="quiz.html?year=2024">2024年の問題を解く</a></li>
-      <li><a href="quiz.html?year=2023">2023年の問題を解く</a></li>
-    </ul>
+    <h2>年度別で解く（1993年〜）</h2>
+    <ul id="year-list"></ul>
 
     <h2>科目別で解く（全年度対象）</h2>
-    <ul>
-      <li><a href="quiz.html?subject=解剖学">解剖学の問題を解く</a></li>
-      <li><a href="quiz.html?subject=生理学">生理学の問題を解く</a></li>
-      <li><a href="quiz.html?subject=柔道整復師法">柔道整復師法の問題を解く</a></li>
-    </ul>
+    <ul id="subject-list"></ul>
 
     <h2>年度＋科目別で解く</h2>
-    <ul>
-      <li><a href="quiz.html?year=2025&subject=解剖学">2025年 解剖学の問題を解く</a></li>
-      <li><a href="quiz.html?year=2025&subject=生理学">2025年 生理学の問題を解く</a></li>
-      <li><a href="quiz.html?year=2025&subject=柔道整復師法">2025年 柔道整復師法の問題を解く</a></li>
-      <!-- 他の年度も同様に追加可能 -->
-    </ul>
+    <ul id="year-subject-list"></ul>
 
     <h2>年度＋時間帯別で解く</h2>
-    <ul>
-      <li>2025年
-        <ul>
-          <li><a href="quiz.html?year=2025&session=am">午前問題を解く</a></li>
-          <li><a href="quiz.html?year=2025&session=pm">午後問題を解く</a></li>
-        </ul>
-      </li>
-      <li>2024年
-        <ul>
-          <li><a href="quiz.html?year=2024&session=am">午前問題を解く</a></li>
-          <li><a href="quiz.html?year=2024&session=pm">午後問題を解く</a></li>
-        </ul>
-      </li>
-      <li>2023年
-        <ul>
-          <li><a href="quiz.html?year=2023&session=am">午前問題を解く</a></li>
-          <li><a href="quiz.html?year=2023&session=pm">午後問題を解く</a></li>
-        </ul>
-      </li>
-    </ul>
+    <ul id="session-list"></ul>
   </div>
+
+  <script>
+    const firstYear = 1993;
+    const currentYear = new Date().getFullYear();
+    const subjects = ["解剖学", "生理学", "柔道整復師法"]; // 必要に応じて追加
+
+    const yearList = document.getElementById("year-list");
+    const subjectList = document.getElementById("subject-list");
+    const yearSubjectList = document.getElementById("year-subject-list");
+    const sessionList = document.getElementById("session-list");
+
+    // 年度別リンク生成
+    for (let y = currentYear; y >= firstYear; y--) {
+      const examNum = y - firstYear + 1;
+
+      // 年度だけ
+      const li = document.createElement("li");
+      li.innerHTML = `<a href="quiz.html?year=${y}">${y}年（第${examNum}回）の問題を解く</a>`;
+      yearList.appendChild(li);
+
+      // 年度 + 午前午後
+      const sessionLi = document.createElement("li");
+      sessionLi.innerHTML = `
+        ${y}年（第${examNum}回）
+        <ul>
+          <li><a href="quiz.html?year=${y}&session=am">午前問題を解く</a></li>
+          <li><a href="quiz.html?year=${y}&session=pm">午後問題を解く</a></li>
+        </ul>`;
+      sessionList.appendChild(sessionLi);
+
+      // 年度 + 各科目
+      subjects.forEach(subject => {
+        const ysLi = document.createElement("li");
+        ysLi.innerHTML = `<a href="quiz.html?year=${y}&subject=${encodeURIComponent(subject)}">${y}年（第${examNum}回） ${subject}の問題を解く</a>`;
+        yearSubjectList.appendChild(ysLi);
+      });
+    }
+
+    // 科目別リンク（全年度対象）
+    subjects.forEach(subject => {
+      const li = document.createElement("li");
+      li.innerHTML = `<a href="quiz.html?subject=${encodeURIComponent(subject)}">${subject}の問題を解く</a>`;
+      subjectList.appendChild(li);
+    });
+  </script>
 </body>
 </html>
