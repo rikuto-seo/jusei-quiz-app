@@ -1,11 +1,17 @@
 // グローバル変数で問題全体を保持
 let allQuestions = [];
 
-// ユーザーが選択したフィルター状態（例：UI連動用に今は固定）
+// URLクエリからフィルターを取得
+const params = new URLSearchParams(window.location.search);
+const yearParam = params.get("year");
+const subjectParam = params.get("subject");
+const tagsParam = params.getAll("tag"); // 複数可: ?tag=基礎&tag=応用
+
+// ユーザーが選択したフィルター状態
 let filter = {
-  year: null,          // 例: 2023 または null で全年度
-  subject: null,       // 例: "柔道整復師法" または null で全教科
-  tags: []             // 例: ["基礎", "応用"] 複数選択可能。空配列は全て含む
+  year: yearParam ? parseInt(yearParam) : null,
+  subject: subjectParam || null,
+  tags: tagsParam.length > 0 ? tagsParam : []
 };
 
 // フィルターで問題絞り込み
@@ -13,10 +19,7 @@ function filterQuestions() {
   return allQuestions.filter(q => {
     if (filter.year && q.year !== filter.year) return false;
     if (filter.subject && q.subject !== filter.subject) return false;
-    if (filter.tags.length > 0) {
-      // タグが1つも一致しなければ除外
-      if (!filter.tags.some(tag => q.tags.includes(tag))) return false;
-    }
+    if (filter.tags.length > 0 && !filter.tags.some(tag => q.tags.includes(tag))) return false;
     return true;
   });
 }
@@ -34,17 +37,16 @@ function shuffleArray(array) {
 // クイズ表示関数
 function renderQuiz(questions) {
   const container = document.getElementById("quiz-container");
-  container.innerHTML = ""; // クリア
+  container.innerHTML = ""; // 初期化
 
   questions.forEach((q, index) => {
     const qDiv = document.createElement("div");
     qDiv.className = "question-block";
 
     const title = document.createElement("h2");
-    title.textContent = `【問${index + 1}】（${q.year}年・${q.subject}） ${q.question}`;
+    title.textContent = `【問${q.number || index + 1}】（${q.year}年・${q.subject}）${q.question}`;
     qDiv.appendChild(title);
 
-    // 選択肢を元のインデックス付きでシャッフル
     const shuffledChoices = shuffleArray(
       q.choices.map((choice, i) => ({ choice, originalIndex: i }))
     );
@@ -54,9 +56,7 @@ function renderQuiz(questions) {
       btn.textContent = choice;
 
       btn.onclick = () => {
-        // 一度回答したら何もしない
         if (qDiv.dataset.answered) return;
-
         qDiv.dataset.answered = "true";
 
         const isCorrect = originalIndex === q.answer;
@@ -64,17 +64,13 @@ function renderQuiz(questions) {
 
         const feedback = document.createElement("div");
         feedback.className = "feedback";
-        if (isCorrect) {
-          feedback.textContent = "✅ 正解！";
-        } else {
-          feedback.textContent = `❌ 不正解。正解は「${q.choices[q.answer]}」`;
-        }
+        feedback.textContent = isCorrect
+          ? "✅ 正解！"
+          : `❌ 不正解。正解は「${q.choices[q.answer]}」`;
         qDiv.appendChild(feedback);
 
-        // すべてのボタンを無効化して回答確定状態にする
         qDiv.querySelectorAll("button").forEach(b => {
           b.disabled = true;
-          // 正解ボタンは緑に、間違いは灰色にする
           if (b.textContent === q.choices[q.answer]) {
             b.classList.add("correct");
           } else {
@@ -92,27 +88,26 @@ function renderQuiz(questions) {
 
 // 初期ロード関数
 async function loadQuiz() {
-  try {
-    const res = await fetch("data/sample_questions.json");
-    allQuestions = await res.json();
+  const targetYear = filter.year || new Date().getFullYear();
+  const jsonPath = `data/questions_${targetYear}.json`;
 
-    // 最初はフィルターなし（全部表示）
+  try {
+    const res = await fetch(jsonPath);
+    allQuestions = await res.json();
     const filtered = filterQuestions();
     renderQuiz(filtered);
-
   } catch (err) {
-    console.error("問題の読み込みに失敗しました:", err);
-    const container = document.getElementById("quiz-container");
-    container.textContent = "問題の読み込みに失敗しました。";
+    console.error("問題の読み込みに失敗:", err);
+    document.getElementById("quiz-container").textContent = "問題の読み込みに失敗しました。";
   }
 }
 
-// フィルターを更新して再描画する関数（UIで呼ぶ用）
+// フィルターを更新して再描画（必要ならUIから呼び出し）
 function updateFilter(newFilter) {
   filter = { ...filter, ...newFilter };
   const filtered = filterQuestions();
   renderQuiz(filtered);
 }
 
-// ページロード時に問題読み込み
+// ページ読み込み時に実行
 loadQuiz();
