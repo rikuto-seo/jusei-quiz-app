@@ -60,3 +60,52 @@ button.incorrect {
   margin-top: 0.5rem;
   font-weight: bold;
 }
+
+/* ===== ログインページ専用スタイル ===== */
+
+.login-container {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 400px;
+  margin: 5rem auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.login-container h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.login-container p {
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+  color: #555;
+}
+
+#password {
+  width: 100%;
+  padding: 0.8rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.login-container button {
+  background-color: #2c3e50;
+  color: white;
+  font-weight: bold;
+}
+
+.login-container button:hover {
+  background-color: #1a252f;
+}
+
+#error {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
