@@ -40,7 +40,7 @@ p {
   text-align: center;
 }
 
-/* パスワード入力欄 */
+/* パスワード入力欄の修正 */
 input[type="password"] {
   width: 100%;
   padding: 0.9rem 1rem;
@@ -48,7 +48,7 @@ input[type="password"] {
   border: 1px solid #ccc;
   border-radius: 8px;
   margin-bottom: 1rem;
-  transition: border-color 0.3s, box-shadow 0.3s;
+  box-sizing: border-box;
   background: #f8faff url('https://img.icons8.com/ios-glyphs/30/lock--v1.png') no-repeat 10px center;
   background-size: 20px 20px;
   padding-left: 40px;
@@ -87,13 +87,15 @@ button:active {
 
 /* ボタン：正解/不正解時 */
 button.correct {
-  background: #4caf50;
-  color: white;
+  background: #4caf50 !important;
+  color: white !important;
+  border: none;
 }
 
 button.incorrect {
-  background: #f44336;
-  color: white;
+  background: #f44336 !important;
+  color: white !important;
+  border: none;
 }
 
 #error {
@@ -101,6 +103,22 @@ button.incorrect {
   font-size: 0.9rem;
   margin-top: 0.5rem;
   text-align: center;
+}
+
+/* 選択肢用ボタン（クイズ） */
+.question-block button {
+  background: #ffffff;
+  border: 1px solid #ccc;
+  color: #333;
+  font-size: 1rem;
+  font-weight: normal;
+  box-shadow: none;
+  margin: 0.4rem 0; /* ボタン間に少しだけ間隔 */
+  transition: background 0.2s ease;
+}
+
+.question-block button:hover {
+  background: #f1f1f1;
 }
 
 /* リンクなど */
@@ -117,6 +135,23 @@ a:hover {
   text-decoration: underline;
 }
 
+.back-button {
+  margin-top: 1.5rem;
+  background: transparent;
+  color: #0077cc;
+  font-size: 1rem;
+  border: 2px solid #0077cc;
+  border-radius: 6px;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.back-button:hover {
+  background: #0077cc;
+  color: white;
+}
+
 /* クイズブロック */
 .question-block {
   background: #fefefe;
@@ -130,4 +165,26 @@ a:hover {
 .feedback {
   margin-top: 0.5rem;
   font-weight: bold;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .container, .login-container {
+    margin: 2rem 1rem;
+    padding: 1.5rem;
+  }
+
+  button {
+    font-size: 1rem;
+    padding: 0.8rem;
+  }
+
+  input[type="password"] {
+    padding: 0.8rem 1rem;
+    font-size: 1rem;
+    padding-left: 40px;
+  }
 }
