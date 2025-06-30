@@ -1,49 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
 body {
-  font-family: sans-serif;
-  background: #f7f7f7;
+  font-family: 'Noto Sans JP', sans-serif;
+  background: linear-gradient(120deg, #e8f0fe, #f7f7f7);
   margin: 0;
   padding: 0;
+  color: #2c3e50;
 }
 
-.container {
-  padding: 1rem;
+.container, .login-container {
   max-width: 800px;
-  margin: auto;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
 h1 {
   text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
   color: #2c3e50;
 }
 
 h2 {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   margin-bottom: 0.5rem;
 }
 
-.question-block {
-  background: #fff;
-  border-radius: 8px;
-  padding: 1rem;
+p {
+  font-size: 1rem;
+  color: #555;
   margin-bottom: 1rem;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
+
+input[type="password"] {
+  width: 100%;
+  padding: 0.9rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  transition: border-color 0.3s;
+}
+
+input[type="password"]:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.2);
 }
 
 button {
   display: block;
   width: 100%;
-  margin: 0.4rem 0;
-  padding: 0.8rem;
-  font-size: 1rem;
-  border-radius: 6px;
+  padding: 0.9rem;
+  font-size: 1.1rem;
   border: none;
-  background: #e0e0e0;
+  border-radius: 8px;
+  background: #007bff;
+  color: white;
+  font-weight: bold;
   cursor: pointer;
-  transition: background 0.3s;
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.2);
+  transition: background 0.3s, transform 0.1s;
 }
 
 button:hover {
-  background: #d0d0d0;
+  background: #0056b3;
+  transform: translateY(-1px);
+}
+
+button:active {
+  transform: scale(0.98);
 }
 
 button.correct {
@@ -61,51 +90,29 @@ button.incorrect {
   font-weight: bold;
 }
 
-/* ===== ログインページ専用スタイル ===== */
-
-.login-container {
-  background: #ffffff;
-  border-radius: 12px;
-  padding: 2rem;
-  max-width: 400px;
-  margin: 5rem auto;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+#error {
+  color: #e74c3c;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
   text-align: center;
 }
 
-.login-container h1 {
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
-}
-
-.login-container p {
-  font-size: 0.95rem;
-  margin-bottom: 1rem;
-  color: #555;
-}
-
-#password {
-  width: 100%;
-  padding: 0.8rem;
-  font-size: 1rem;
-  margin-bottom: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  box-sizing: border-box;
-}
-
-.login-container button {
-  background-color: #2c3e50;
-  color: white;
+a {
+  display: inline-block;
+  margin-top: 1rem;
   font-weight: bold;
+  color: #007bff;
+  text-decoration: none;
 }
 
-.login-container button:hover {
-  background-color: #1a252f;
+a:hover {
+  text-decoration: underline;
 }
 
-#error {
-  color: red;
-  font-size: 0.9rem;
-  margin-top: 0.5rem;
+.question-block {
+  background: #fdfdfd;
+  border-radius: 12px;
+  padding: 1.2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
