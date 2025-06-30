@@ -89,20 +89,29 @@ function renderQuiz(questions) {
 // 初期ロード関数
 async function loadQuiz() {
   try {
-    // URLのクエリパラメータを取得
-    const params = new URLSearchParams(window.location.search);
-    const targetYear = filter.year || params.get("year") || new Date().getFullYear();
-    const session = params.get("session") || "am";  // デフォルトは午前問題（am）
+    const targetYear = filter.year || new Date().getFullYear();
+    const session = params.get("session"); // 省略された場合は null
 
-    // ファイルパスを動的に設定
-    const jsonPath = `data/questions_${targetYear}_${session}.json`;
+    // 読み込むJSONファイルのパスを決定
+    const paths = [];
 
-    const res = await fetch(jsonPath);
-    allQuestions = await res.json();
+    if (session === "am" || session === "pm") {
+      // 指定があればその時間帯だけ
+      paths.push(`data/questions_${targetYear}_${session}.json`);
+    } else {
+      // sessionが指定されていない場合 → 午前と午後の両方読み込む
+      paths.push(`data/questions_${targetYear}_am.json`);
+      paths.push(`data/questions_${targetYear}_pm.json`);
+    }
 
-    // フィルターを設定（URLパラメータからyearをfilterにセットしても良い）
-    filter.year = targetYear;
-    // 必要ならfilter.subjectやfilter.tagsもここで設定可能
+    // 複数ファイルを非同期で読み込んで結合
+    const filePromises = paths.map(path => fetch(path).then(res => {
+      if (!res.ok) throw new Error(`ファイル取得失敗: ${path}`);
+      return res.json();
+    }));
+
+    const results = await Promise.all(filePromises);
+    allQuestions = results.flat(); // 結合
 
     const filtered = filterQuestions();
     renderQuiz(filtered);
@@ -112,6 +121,7 @@ async function loadQuiz() {
     document.getElementById("quiz-container").textContent = "問題の読み込みに失敗しました。";
   }
 }
+
 
 // フィルターを更新して再描画（必要ならUIから呼び出し）
 function updateFilter(newFilter) {
