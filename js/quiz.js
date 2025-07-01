@@ -1,3 +1,7 @@
+window.addEventListener("DOMContentLoaded", () => {
+  loadQuiz();
+});
+
 // グローバル変数で問題全体を保持
 let allQuestions = [];
 let correctCount = 0;
@@ -161,10 +165,15 @@ async function loadQuiz() {
     renderQuiz(filtered);
 
   } catch (err) {
-    console.error("問題の読み込みに失敗:", err);
-    document.getElementById("quiz-container").textContent = "問題の読み込みに失敗しました。";
-  }
-}
+        console.error("問題の読み込みに失敗:", err);
+        const container = document.getElementById("quiz-container");
+        if (container) {
+            container.textContent = "問題の読み込みに失敗しました。\n" + err.message;
+        } else {
+            alert("quiz-containerが見つかりません");
+        }
+        }
+    }
 
 // フィルター更新＆再描画
 function updateFilter(newFilter) {
@@ -173,5 +182,4 @@ function updateFilter(newFilter) {
   renderQuiz(filtered);
 }
 
-// 初期化
-loadQuiz();
+
