@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,6 +10,7 @@
     .accordion {
       margin-bottom: 1em;
     }
+
     .accordion summary {
       cursor: pointer;
       font-weight: bold;
@@ -17,18 +19,22 @@
       border: 1px solid #ccc;
       border-radius: 6px;
     }
+
     .accordion ul {
       padding-left: 1.5em;
     }
+
     .accordion[open] summary {
       background-color: #e0e0e0;
     }
+
     #filtered-links a {
       display: block;
       margin-bottom: 0.3em;
     }
   </style>
 </head>
+
 <body>
   <div class="container">
     <h1>柔整ランド</h1>
@@ -133,7 +139,7 @@
 
       filteredLinksDiv.innerHTML = "";
 
-      if(year && subject) {
+      if (year && subject) {
         // 両方選択されたら直接リンク１つを表示
         const link = document.createElement("a");
         link.href = `quiz.html?year=${year}&subject=${encodeURIComponent(subject)}`;
@@ -143,7 +149,7 @@
         return;
       }
 
-      if(year) {
+      if (year) {
         // 年度だけ選択 → 科目別リンク一覧表示
         subjects.forEach(sub => {
           const link = document.createElement("a");
@@ -151,9 +157,9 @@
           link.textContent = `${year}年（第${year - firstYear + 1}回） ${sub}の問題を解く`;
           filteredLinksDiv.appendChild(link);
         });
-      } else if(subject) {
+      } else if (subject) {
         // 科目だけ選択 → 年度別リンク一覧表示
-        for(let y = currentYear; y >= firstYear; y--) {
+        for (let y = currentYear; y >= firstYear; y--) {
           const link = document.createElement("a");
           link.href = `quiz.html?year=${y}&subject=${encodeURIComponent(subject)}`;
           link.textContent = `${y}年（第${y - firstYear + 1}回） ${subject}の問題を解く`;
@@ -166,4 +172,5 @@
     subjectSelect.addEventListener("change", updateLinks);
   </script>
 </body>
+
 </html>

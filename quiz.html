@@ -1,70 +1,75 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="ja">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>柔整ランド - クイズ</title>
-  <link rel="stylesheet" href="css/style.css" />
-  <style>
-    .scroll-button {
-      position: fixed;
-      bottom: 20px;
-      width: 50px;
-      height: 50px;
-      border-radius: 50%;
-      border: none;
-      font-size: 1.4em;
-      color: white;
-      background-color: rgba(0, 123, 255, 0.6);
-      cursor: pointer;
-      z-index: 100;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-      transition: background-color 0.3s ease;
-    }
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>柔整ランド - クイズ</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <style>
+        .scroll-button {
+            position: fixed;
+            bottom: 20px;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            border: none;
+            font-size: 1.4em;
+            color: white;
+            background-color: rgba(0, 123, 255, 0.6);
+            cursor: pointer;
+            z-index: 100;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+            transition: background-color 0.3s ease;
+        }
 
-    .scroll-button:hover {
-      background-color: rgba(0, 123, 255, 0.9);
-    }
+        .scroll-button:hover {
+            background-color: rgba(0, 123, 255, 0.9);
+        }
 
-    .scroll-top {
-      left: 20px;
-    }
+        .scroll-top {
+            left: 20px;
+        }
 
-    .scroll-bottom {
-      right: 20px;
-    }
+        .scroll-bottom {
+            right: 20px;
+        }
 
-    .back-button {
-      margin-top: 2em;
-      background-color: #555;
-      color: white;
-      border: none;
-      padding: 0.6em 1.2em;
-      border-radius: 5px;
-      font-size: 1em;
-      cursor: pointer;
-    }
+        .back-button {
+            margin-top: 2em;
+            background-color: #555;
+            color: white;
+            border: none;
+            padding: 0.6em 1.2em;
+            border-radius: 5px;
+            font-size: 1em;
+            cursor: pointer;
+        }
 
-    .back-button:hover {
-      background-color: #333;
-    }
-  </style>
+        .back-button:hover {
+            background-color: #333;
+        }
+    </style>
 </head>
+
 <body>
-  <div class="container">
-    <h1>柔整国試 過去問クイズ</h1>
-    <div id="quiz-container"></div>
+    <div class="container">
+        <h1>柔整国試 過去問クイズ</h1>
+        <div id="quiz-container"></div>
 
-    <button class="back-button" onclick="window.location.href='home.html'">← トップに戻る</button>
-  </div>
+        <button class="back-button" onclick="window.location.href='home.html'">← トップに戻る</button>
+    </div>
 
-  <!-- スクロールボタン -->
-  <button class="scroll-button scroll-top" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" title="一番上へ">⬆</button>
-  <button class="scroll-button scroll-bottom" onclick="window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' })" title="一番下へ">⬇</button>
+    <!-- スクロールボタン -->
+    <button class="scroll-button scroll-top" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })"
+        title="一番上へ">⬆</button>
+    <button class="scroll-button scroll-bottom"
+        onclick="window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' })" title="一番下へ">⬇</button>
 
-  <script src="js/quiz.js"></script>
+    <script src="js/quiz.js"></script>
 </body>
+
 </html>
