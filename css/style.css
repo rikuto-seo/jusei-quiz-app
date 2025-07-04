@@ -121,6 +121,14 @@ button.incorrect {
   background: #f1f1f1;
 }
 
+.question-block button.selected {
+  background-color: #3399ff;
+  border-color: #0077cc;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 0 8px rgba(51, 153, 255, 0.7);
+}
+
 /* リンクなど */
 a {
   display: inline-block;

@@ -86,28 +86,42 @@ function renderQuiz(questions) {
     const correctAnswers = isMultiAnswer ? q.answer.slice().sort() : [q.answer];
 
     if (isMultiAnswer) {
-      // ✅ 複数回答（チェックボックス＋決定ボタン）
-      const checkboxes = [];
+      // 複数選択ボタンに変更
+      const choiceButtons = [];
 
       shuffledChoices.forEach(({ choice, originalIndex }) => {
-        const label = document.createElement("label");
-        label.style.display = "block";
-        const cb = document.createElement("input");
-        cb.type = "checkbox";
-        checkboxes.push({ checkbox: cb, originalIndex });
-        label.appendChild(cb);
-        label.append(` ${choice}`);
-        qDiv.appendChild(label);
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.textContent = choice;
+        btn.dataset.selected = "false";
+
+        btn.onclick = () => {
+          if (qDiv.dataset.answered) return;
+
+          // 選択状態をトグル
+          const selected = btn.dataset.selected === "true";
+          if (selected) {
+            btn.dataset.selected = "false";
+            btn.classList.remove("selected");
+          } else {
+            btn.dataset.selected = "true";
+            btn.classList.add("selected");
+          }
+        };
+
+        qDiv.appendChild(btn);
+        choiceButtons.push({ btn, originalIndex });
       });
 
       const submitBtn = document.createElement("button");
+      submitBtn.type = "button";
       submitBtn.textContent = "決定";
       submitBtn.onclick = () => {
         if (qDiv.dataset.answered) return;
         qDiv.dataset.answered = "true";
 
-        const selected = checkboxes
-          .filter(({ checkbox }) => checkbox.checked)
+        const selected = choiceButtons
+          .filter(({ btn }) => btn.dataset.selected === "true")
           .map(({ originalIndex }) => originalIndex)
           .sort();
 
@@ -123,14 +137,19 @@ function renderQuiz(questions) {
           : `❌ 不正解。正解は「${correctAnswers.map(i => q.choices[i]).join("・")}」`;
         qDiv.appendChild(feedback);
 
-        checkboxes.forEach(({ checkbox }) => checkbox.disabled = true);
+        // ボタンと決定ボタン無効化
+        choiceButtons.forEach(({ btn }) => {
+          btn.disabled = true;
+          btn.classList.remove("selected");
+        });
         submitBtn.disabled = true;
 
         if (answeredCount === questions.length) showResult();
       };
 
       qDiv.appendChild(submitBtn);
-    } else {
+    }
+    else {
       // ✅ 単一回答（ボタン）
       shuffledChoices.forEach(({ choice, originalIndex }) => {
         const btn = document.createElement("button");
