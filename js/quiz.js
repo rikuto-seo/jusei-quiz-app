@@ -2,38 +2,32 @@ window.addEventListener("DOMContentLoaded", () => {
   loadQuiz();
 });
 
-// グローバル変数で問題全体を保持
 let allQuestions = [];
 let correctCount = 0;
 let answeredCount = 0;
 
-// URLクエリからフィルターを取得
 const params = new URLSearchParams(window.location.search);
 const yearParam = params.get("year");
 const subjectParam = params.get("subject");
-const tagsParam = params.getAll("tag"); // 複数可: ?tag=基礎&tag=応用
+const tagsParam = params.getAll("tag");
 
-// フィルター状態を設定
 let filter = {
   year: yearParam ? parseInt(yearParam) : null,
   subject: subjectParam || null,
   tags: tagsParam.length > 0 ? tagsParam : []
 };
 
-// 試験回数を計算
 function getExamNumber(year) {
   const firstYear = 1993;
   return `第${year - firstYear + 1}回`;
 }
 
-// 午前・午後表示を取得（例: "am" → "午前"）
 function getSessionLabel(session) {
   if (session === "am") return "午前";
   if (session === "pm") return "午後";
   return "";
 }
 
-// フィルターで問題絞り込み
 function filterQuestions() {
   return allQuestions.filter(q => {
     if (filter.year && q.year !== filter.year) return false;
@@ -43,7 +37,6 @@ function filterQuestions() {
   });
 }
 
-// シャッフル関数（Fisher-Yates）
 function shuffleArray(array) {
   const arr = array.slice();
   for (let i = arr.length - 1; i > 0; i--) {
@@ -53,7 +46,6 @@ function shuffleArray(array) {
   return arr;
 }
 
-// 正答数表示関数
 function showResult() {
   let resultDiv = document.getElementById("quiz-result");
   if (!resultDiv) {
@@ -67,12 +59,10 @@ function showResult() {
   resultDiv.textContent = `正答数: ${correctCount} / ${answeredCount} 問`;
 }
 
-// クイズ表示
 function renderQuiz(questions) {
   const container = document.getElementById("quiz-container");
   container.innerHTML = "";
 
-  // カウント初期化
   correctCount = 0;
   answeredCount = 0;
 
@@ -86,64 +76,109 @@ function renderQuiz(questions) {
     const questionNo = q.questionNumber || index + 1;
 
     title.textContent = `【問${questionNo}】 ${q.question}（${q.year}年・${examNum}・問${questionNo}・${q.subject}）`;
-
     qDiv.appendChild(title);
 
     const shuffledChoices = shuffleArray(
       q.choices.map((choice, i) => ({ choice, originalIndex: i }))
     );
 
-    shuffledChoices.forEach(({ choice, originalIndex }) => {
-      const btn = document.createElement("button");
-      btn.textContent = choice;
+    const isMultiAnswer = Array.isArray(q.answer);
+    const correctAnswers = isMultiAnswer ? q.answer.slice().sort() : [q.answer];
 
-      btn.onclick = () => {
+    if (isMultiAnswer) {
+      // ✅ 複数回答（チェックボックス＋決定ボタン）
+      const checkboxes = [];
+
+      shuffledChoices.forEach(({ choice, originalIndex }) => {
+        const label = document.createElement("label");
+        label.style.display = "block";
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        checkboxes.push({ checkbox: cb, originalIndex });
+        label.appendChild(cb);
+        label.append(` ${choice}`);
+        qDiv.appendChild(label);
+      });
+
+      const submitBtn = document.createElement("button");
+      submitBtn.textContent = "決定";
+      submitBtn.onclick = () => {
         if (qDiv.dataset.answered) return;
         qDiv.dataset.answered = "true";
 
-        const isCorrect = originalIndex === q.answer;
+        const selected = checkboxes
+          .filter(({ checkbox }) => checkbox.checked)
+          .map(({ originalIndex }) => originalIndex)
+          .sort();
+
+        const isCorrect = JSON.stringify(selected) === JSON.stringify(correctAnswers);
+
         if (isCorrect) correctCount++;
         answeredCount++;
-
-        btn.classList.add(isCorrect ? "correct" : "incorrect");
 
         const feedback = document.createElement("div");
         feedback.className = "feedback";
         feedback.textContent = isCorrect
           ? "✅ 正解！"
-          : `❌ 不正解。正解は「${q.choices[q.answer]}」`;
+          : `❌ 不正解。正解は「${correctAnswers.map(i => q.choices[i]).join("・")}」`;
         qDiv.appendChild(feedback);
 
-        qDiv.querySelectorAll("button").forEach(b => {
-          b.disabled = true;
-          if (b.textContent === q.choices[q.answer]) {
-            b.classList.add("correct");
-          } else {
-            b.classList.add("disabled-btn");
-          }
-        });
+        checkboxes.forEach(({ checkbox }) => checkbox.disabled = true);
+        submitBtn.disabled = true;
 
-        // 全問回答済みなら結果表示
-        if (answeredCount === questions.length) {
-          showResult();
-        }
+        if (answeredCount === questions.length) showResult();
       };
 
-      qDiv.appendChild(btn);
-    });
+      qDiv.appendChild(submitBtn);
+    } else {
+      // ✅ 単一回答（ボタン）
+      shuffledChoices.forEach(({ choice, originalIndex }) => {
+        const btn = document.createElement("button");
+        btn.textContent = choice;
+
+        btn.onclick = () => {
+          if (qDiv.dataset.answered) return;
+          qDiv.dataset.answered = "true";
+
+          const isCorrect = originalIndex === q.answer;
+          if (isCorrect) correctCount++;
+          answeredCount++;
+
+          btn.classList.add(isCorrect ? "correct" : "incorrect");
+
+          const feedback = document.createElement("div");
+          feedback.className = "feedback";
+          feedback.textContent = isCorrect
+            ? "✅ 正解！"
+            : `❌ 不正解。正解は「${q.choices[q.answer]}」`;
+          qDiv.appendChild(feedback);
+
+          qDiv.querySelectorAll("button").forEach(b => {
+            b.disabled = true;
+            if (b.textContent === q.choices[q.answer]) {
+              b.classList.add("correct");
+            } else {
+              b.classList.add("disabled-btn");
+            }
+          });
+
+          if (answeredCount === questions.length) showResult();
+        };
+
+        qDiv.appendChild(btn);
+      });
+    }
 
     container.appendChild(qDiv);
   });
 }
 
-// 初期ロード関数
 async function loadQuiz() {
   try {
     const targetYear = filter.year || new Date().getFullYear();
-    const session = params.get("session"); // "am", "pm" または null
+    const session = params.get("session");
 
     const paths = [];
-
     if (session === "am" || session === "pm") {
       paths.push(`data/questions_${targetYear}_${session}.json`);
     } else {
@@ -165,21 +200,18 @@ async function loadQuiz() {
     renderQuiz(filtered);
 
   } catch (err) {
-        console.error("問題の読み込みに失敗:", err);
-        const container = document.getElementById("quiz-container");
-        if (container) {
-            container.textContent = "問題の読み込みに失敗しました。\n" + err.message;
-        } else {
-            alert("quiz-containerが見つかりません");
-        }
-        }
+    console.error("問題の読み込みに失敗:", err);
+    const container = document.getElementById("quiz-container");
+    if (container) {
+      container.textContent = "問題の読み込みに失敗しました。\n" + err.message;
+    } else {
+      alert("quiz-containerが見つかりません");
     }
+  }
+}
 
-// フィルター更新＆再描画
 function updateFilter(newFilter) {
   filter = { ...filter, ...newFilter };
   const filtered = filterQuestions();
   renderQuiz(filtered);
 }
-
-
