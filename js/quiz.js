@@ -116,6 +116,12 @@ function renderQuiz(questions) {
       const submitBtn = document.createElement("button");
       submitBtn.type = "button";
       submitBtn.textContent = "決定";
+
+      // スタイル追加
+      submitBtn.style.backgroundColor = "green";
+      submitBtn.style.fontWeight = "bold";
+      submitBtn.style.color = "white";
+
       submitBtn.onclick = () => {
         if (qDiv.dataset.answered) return;
         qDiv.dataset.answered = "true";
