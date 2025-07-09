@@ -1,7 +1,7 @@
 [
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "柔道",
         "questionNumber": 1,
         "question": "起倒流の師範はどれか。",
         "choices": [
@@ -11,11 +11,11 @@
             "飯久保恒年"
         ],
         "answer": 3,
-        "tags": []
+        "tags": ["必修"]
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "柔道",
         "questionNumber": 2,
         "question": "柔道の理念で正々堂々を意味するのはどれか。",
         "choices": [
@@ -25,7 +25,7 @@
             "相助相譲"
         ],
         "answer": 2,
-        "tags": []
+        "tags": ["必修"]
     },
     {
         "year": 2023,
@@ -701,7 +701,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 51,
         "question": "骨の組織で正しいのはどれか。",
         "choices": [
@@ -715,7 +715,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 52,
         "question": "生後、大泉門が閉鎖する時期はどれか。",
         "choices": [
@@ -729,7 +729,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 53,
         "question": "橈骨手根関節の構成に関与するのはどれか。",
         "choices": [
@@ -743,7 +743,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 54,
         "question": "上肢帯の筋はどれか。",
         "choices": [
@@ -757,7 +757,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 55,
         "question": "骨盤の右正中断面を図に示す。真結合線はどれか。",
         "choices": [
@@ -771,7 +771,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 56,
         "question": "歩行時に骨盤挙上に働く筋はどれか。",
         "choices": [
@@ -785,7 +785,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 57,
         "question": "右寛骨を内側から見た図を示す。縫工筋の起始はどれか。",
         "choices": [
@@ -799,7 +799,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 58,
         "question": "房室結節があるのはどれか。",
         "choices": [
@@ -813,7 +813,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 59,
         "question": "胎児循環で最も低い酸素飽和度の血液が流れるのはどれか。",
         "choices": [
@@ -827,7 +827,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 60,
         "question": "胃の部位で一番高位にあるのはどれか。",
         "choices": [
@@ -841,7 +841,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 61,
         "question": "オッディの括約筋があるのはどれか。",
         "choices": [
@@ -855,7 +855,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 62,
         "question": "前頭洞の鼻腔への開口部位はどれか。",
         "choices": [
@@ -869,7 +869,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 63,
         "question": "右肺のみにあるのはどれか。",
         "choices": [
@@ -883,7 +883,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 64,
         "question": "縦郭の境界をなすのはどれか。",
         "choices": [
@@ -897,7 +897,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 65,
         "question": "腎臓で正しいのはどれか。",
         "choices": [
@@ -911,7 +911,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 66,
         "question": "男性の尿道括約筋があるのはどれか。",
         "choices": [
@@ -925,7 +925,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 67,
         "question": "男女の生殖器で相同な組み合わせはどれか。",
         "choices": [
@@ -939,7 +939,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 68,
         "question": "子宮の正常位はどれか。",
         "choices": [
@@ -953,7 +953,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 69,
         "question": "ホルモン産生をしないのはどれか。",
         "choices": [
@@ -967,7 +967,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 70,
         "question": "皮質と髄質からなるのはどれか。",
         "choices": [
@@ -981,7 +981,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 71,
         "question": "脳脊髄液で満たされているのはどれか。",
         "choices": [
@@ -995,7 +995,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 72,
         "question": "運動野があるのはどれか。",
         "choices": [
@@ -1009,7 +1009,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 73,
         "question": "視床と接していないのはどれか。",
         "choices": [
@@ -1023,7 +1023,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 74,
         "question": "咀嚼筋を支配するのはどれか。",
         "choices": [
@@ -1037,7 +1037,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 75,
         "question": "腰神経叢の模式図を示す。大腿内転筋群を支配するのはどれか。",
         "choices": [
@@ -1051,7 +1051,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 76,
         "question": "耳下腺を支配しているのはどれか。",
         "choices": [
@@ -1065,7 +1065,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 77,
         "question": "皮膚の内部構造物と部位の組み合わせで正しいのはどれか。",
         "choices": [
@@ -1079,7 +1079,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 78,
         "question": "眼球に付着しないのはどれか。",
         "choices": [
@@ -1093,7 +1093,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 79,
         "question": "平衡斑があるのはどれか。",
         "choices": [

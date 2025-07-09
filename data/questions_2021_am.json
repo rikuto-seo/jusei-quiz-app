@@ -1,7 +1,7 @@
 [
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "柔道",
         "questionNumber": 1,
         "question": "柔道の創始者はだれか。",
         "choices": [
@@ -11,11 +11,11 @@
             "飯久保恒年"
         ],
         "answer": 2,
-        "tags": []
+        "tags": ["必修"]
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "柔道",
         "questionNumber": 2,
         "question": "柔道の坐礼で正しいのはどれか。",
         "choices": [
@@ -25,7 +25,7 @@
             "左足から坐り、左足から立つ。"
         ],
         "answer": 2,
-        "tags": []
+        "tags": ["必修"]
     },
     {
         "year": 2021,
@@ -701,7 +701,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 51,
         "question": "転写の意味で正しいのはどれか。",
         "choices": [
@@ -715,7 +715,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 52,
         "question": "硝子軟骨を有するのはどれか。",
         "choices": [
@@ -729,7 +729,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 53,
         "question": "胸骨角が連結する肋軟骨はどれか。",
         "choices": [
@@ -743,7 +743,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 54,
         "question": "成人の脊柱を構成する骨の数はどれか。",
         "choices": [
@@ -757,7 +757,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 55,
         "question": "上腕骨の小結節稜に停止するのはどれか。",
         "choices": [
@@ -771,7 +771,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 56,
         "question": "写真(別冊No.1)を別に示す。橈骨神経溝はどれか。",
         "choices": [
@@ -785,7 +785,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 57,
         "question": "梨状筋上孔を通る神経で支配されるのはどれか。",
         "choices": [
@@ -799,7 +799,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 58,
         "question": "脛骨粗面に付く筋を支配するのはどれか。",
         "choices": [
@@ -813,7 +813,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 59,
         "question": "リスフラン関節に関係があるのはどれか。",
         "choices": [
@@ -827,7 +827,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 60,
         "question": "上大靜脈注に注ぐのはどれか。",
         "choices": [
@@ -841,7 +841,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 61,
         "question": "有郭乳頭の味覚を支配するのはどれか。",
         "choices": [
@@ -855,7 +855,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 62,
         "question": "壁側腹膜の背側を走行するのはどれか。",
         "choices": [
@@ -869,7 +869,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 63,
         "question": "横紋筋があるのはどれか。",
         "choices": [
@@ -883,7 +883,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 64,
         "question": "気管支にないのはどれか。",
         "choices": [
@@ -897,7 +897,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 65,
         "question": "腎臓皮質の構造物はどれか。",
         "choices": [
@@ -911,7 +911,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 66,
         "question": "男性尿道の4つの部位のうち最も狭いのはどれか。",
         "choices": [
@@ -925,7 +925,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 67,
         "question": "男性生殖器で誤っているのはどれか。",
         "choices": [
@@ -939,7 +939,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 68,
         "question": "卵胞上皮が単層の立方または円柱上皮なのはどれか。",
         "choices": [
@@ -953,7 +953,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 69,
         "question": "濾胞で構成されるのはどれか。",
         "choices": [
@@ -967,7 +967,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 70,
         "question": "副腎から分泌されるホルモンとその産生部位の組合せで正しいのはどれか。",
         "choices": [
@@ -981,7 +981,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 71,
         "question": "中大脳動脈が通るのはどれか。",
         "choices": [
@@ -995,7 +995,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 72,
         "question": "錐体路の構成要素でないのはどれか。",
         "choices": [
@@ -1009,7 +1009,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 73,
         "question": "頸動脈小体および頸動脈洞に関わる脳神経はどれか。",
         "choices": [
@@ -1023,7 +1023,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 74,
         "question": "舌筋の支配神経はどれか。",
         "choices": [
@@ -1037,7 +1037,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 75,
         "question": "腕神経叢が通過するのはどこか。",
         "choices": [
@@ -1051,7 +1051,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 76,
         "question": "下腿の伸筋を支配するのはどれか。",
         "choices": [
@@ -1065,7 +1065,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 77,
         "question": "臍部の皮神経はどれか。",
         "choices": [
@@ -1079,7 +1079,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 78,
         "question": "滑車神経が支配するのはどれか。",
         "choices": [
@@ -1093,7 +1093,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 79,
         "question": "殿筋の注射部位はどれか。",
         "choices": [
@@ -1107,7 +1107,7 @@
     },
     {
         "year": 2021,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 80,
         "question": "頸動脈三角で脈拍が触れるのはどれか。",
         "choices": [

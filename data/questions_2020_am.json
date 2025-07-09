@@ -1,7 +1,7 @@
 [
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "柔道",
         "questionNumber": 1,
         "question": "自他共栄で正しいのはどれか。",
         "choices": [
@@ -11,11 +11,11 @@
             "多数の人と話し合い助け合いながら共同の目的を達成すること。"
         ],
         "answer": 3,
-        "tags": []
+        "tags": ["必修"]
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "柔道",
         "questionNumber": 2,
         "question": "柔道の礼法で正しいのはどれか。",
         "choices": [
@@ -25,7 +25,7 @@
             "正坐から立つときは左足から立つ。"
         ],
         "answer": 1,
-        "tags": []
+        "tags": ["必修"]
     },
     {
         "year": 2020,

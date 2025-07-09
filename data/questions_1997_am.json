@@ -1,7 +1,7 @@
 [
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 1,
         "question": "拮抗筋の組合せはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 2,
         "question": "肺の栄養血管はどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 3,
         "question": "脳神経でないのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 4,
         "question": "体表から触れないのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 5,
         "question": "正中神経と尺骨神経とで支配をうけるのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 6,
         "question": "梨状筋下孔を通過するのはどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 7,
         "question": "左静脈角に注ぐのはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 8,
         "question": "小腸に存在するのはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 9,
         "question": "膀胱について誤っているのはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 10,
         "question": "永久歯の数について誤っている組合せはどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 11,
         "question": "下行性伝導路はどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 12,
         "question": "頸神経叢から出る神経はどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 13,
         "question": "内耳にあるのはどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 14,
         "question": "器官の配列で正しいのはどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 15,
         "question": "心臓の部位と出入する血管との組合せで正しいのはどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 16,
         "question": "副鼻腔と開口部との組合せで正しいのはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 17,
         "question": "女性生殖器について誤っているのはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 18,
         "question": "誤っているのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 19,
         "question": "誤っているのはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject":"解剖学",
         "questionNumber": 20,
         "question": "体表から拍動を触れないのはどれか。",
         "choices": [
@@ -281,7 +281,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 21,
         "question": "上腕骨にないのはどれか。",
         "choices": [
@@ -295,7 +295,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 22,
         "question": "大腿骨にないのはどれか。",
         "choices": [
@@ -309,7 +309,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 23,
         "question": "蛋白質の合成に関係するのはどれか。",
         "choices": [
@@ -323,7 +323,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 24,
         "question": "関節唇があるのはどれか。",
         "choices": [
@@ -337,7 +337,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 25,
         "question": "腎臓について誤っているのはどれか。",
         "choices": [
@@ -351,7 +351,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 26,
         "question": "外分泌腺はどれか。",
         "choices": [
@@ -365,7 +365,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 27,
         "question": "肩甲骨の部位で体表から触れないのはどれか。",
         "choices": [
@@ -379,7 +379,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 28,
         "question": "脳神経について誤っているのはどれか。",
         "choices": [
@@ -393,7 +393,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 29,
         "question": "筋と付着部との組合せで正しいのはどれか。",
         "choices": [
@@ -407,7 +407,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 30,
         "question": "誤っているのはどれか。",
         "choices": [

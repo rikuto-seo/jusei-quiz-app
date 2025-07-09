@@ -1,7 +1,7 @@
 [
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "柔道",
         "questionNumber": 1,
         "question": "柔道の創始年で正しいのはどれか。",
         "choices": [
@@ -11,11 +11,11 @@
             "明治15年"
         ],
         "answer": 3,
-        "tags": []
+        "tags": ["必修"]
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "柔道",
         "questionNumber": 2,
         "question": "精力善用で正しいのはどれか。",
         "choices": [
@@ -25,7 +25,7 @@
             "競争し合って共に向上すること。"
         ],
         "answer": 0,
-        "tags": []
+        "tags": ["必修"]
     },
     {
         "year": 2022,
@@ -701,7 +701,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 51,
         "question": "単層扁平上皮を有するのはどれか。",
         "choices": [
@@ -715,7 +715,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 52,
         "question": "滑車が関与するのはどれか。",
         "choices": [
@@ -729,7 +729,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 53,
         "question": "下顎頸に停止するのはどれか。",
         "choices": [
@@ -743,7 +743,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 54,
         "question": "椎弓間を連結するのはどれか。",
         "choices": [
@@ -757,7 +757,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 55,
         "question": "写真(別冊 No. 1)に別に示す。矢印の部位に付く筋の支配神経はどれか。",
         "choices": [
@@ -771,7 +771,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 56,
         "question": "鼡径管の構成要素でないのはどれか。",
         "choices": [
@@ -785,7 +785,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 57,
         "question": "三角筋下包が接する腱を持つのはどれか。",
         "choices": [
@@ -799,7 +799,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 58,
         "question": "足関節を背屈させるのはどれか。",
         "choices": [
@@ -813,7 +813,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 59,
         "question": "外腸骨動脈の枝はどれか。",
         "choices": [
@@ -827,7 +827,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 60,
         "question": "胸管と連絡しないのはどれか。",
         "choices": [
@@ -841,7 +841,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 61,
         "question": "導管が口腔前庭に開口するのはどれか。",
         "choices": [
@@ -855,7 +855,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 62,
         "question": "十二指腸で胆汁が分泌されるのはどこか。",
         "choices": [
@@ -869,7 +869,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 63,
         "question": "喉頭で複数あるのはどれか。",
         "choices": [
@@ -883,7 +883,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 64,
         "question": "気管が左右の気管支に分岐するのはどこか。",
         "choices": [
@@ -897,7 +897,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 65,
         "question": "腎臓を包む最内側の膜はどれか。",
         "choices": [
@@ -911,7 +911,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 66,
         "question": "射精管開口部位は尿道のどこか。",
         "choices": [
@@ -925,7 +925,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 67,
         "question": "精細管外に位置する細胞はどれか。",
         "choices": [
@@ -939,7 +939,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 68,
         "question": "下垂体で誤っているのはどれか。",
         "choices": [
@@ -953,7 +953,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 69,
         "question": "脳の部位と脳室の組合せで誤っているのはどれか。",
         "choices": [
@@ -967,7 +967,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 70,
         "question": "上行性伝導路はどれか。",
         "choices": [
@@ -981,7 +981,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 71,
         "question": "意識にのぼる深部感覚の伝導路はどれか。",
         "choices": [
@@ -995,7 +995,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 72,
         "question": "中脳の上丘レベルで脳神経核群をもつのはどれか。",
         "choices": [
@@ -1009,7 +1009,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 73,
         "question": "副交感性線維を含む脳神経はいくつか。",
         "choices": [
@@ -1023,7 +1023,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 74,
         "question": "右の反回神経が反回する動脈はどれか。",
         "choices": [
@@ -1037,7 +1037,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 75,
         "question": "仙骨神経由来はどれか。",
         "choices": [
@@ -1051,7 +1051,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 76,
         "question": "外肛門括約筋支配神経はどれか。",
         "choices": [
@@ -1065,7 +1065,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 77,
         "question": "皮脂腺はどれか。",
         "choices": [
@@ -1079,7 +1079,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 78,
         "question": "網膜の浅層から深層の順で正しいのはどれか。",
         "choices": [
@@ -1093,7 +1093,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 79,
         "question": "肺尖の高さはどこか。",
         "choices": [

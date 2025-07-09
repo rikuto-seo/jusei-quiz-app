@@ -213,7 +213,7 @@
     },
     {
         "year": 1995,
-        "subject": "生理学",
+        "subject": "解剖学",
         "questionNumber": 16,
         "question": "心臓に出入りする血管について正しいのはどれか。",
         "choices": [
@@ -227,7 +227,7 @@
     },
     {
         "year": 1995,
-        "subject": "生理学",
+        "subject": "解剖学",
         "questionNumber": 17,
         "question": "脈管の走行について正しいのはどれか。",
         "choices": [
@@ -241,7 +241,7 @@
     },
     {
         "year": 1995,
-        "subject": "生理学",
+        "subject": "解剖学",
         "questionNumber": 18,
         "question": "消化管について誤っているのはどれか。",
         "choices": [
@@ -255,7 +255,7 @@
     },
     {
         "year": 1995,
-        "subject": "生理学",
+        "subject": "解剖学",
         "questionNumber": 19,
         "question": "誤っているのはどれか。",
         "choices": [
@@ -269,7 +269,7 @@
     },
     {
         "year": 1995,
-        "subject": "生理学",
+        "subject": "解剖学",
         "questionNumber": 20,
         "question": "肺について誤っているのはどれか。",
         "choices": [
