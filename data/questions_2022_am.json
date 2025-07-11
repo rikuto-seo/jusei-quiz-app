@@ -1583,7 +1583,7 @@
     },
     {
         "year": 2022,
-        "subject": "運動学",
+        "subject": ["運動学","病理学"],
         "questionNumber": 114,
         "question": "パーキンソン(Parkinson)病でみられるのはどれか。",
         "choices": [
@@ -1597,7 +1597,7 @@
     },
     {
         "year": 2022,
-        "subject": "運動学",
+        "subject": ["運動学","病理学"],
         "questionNumber": 115,
         "question": "ニューロンの髄鞘化が最も早く終了するのはどれか。",
         "choices": [
@@ -1611,7 +1611,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 116,
         "question": "疾病の経過で自覚症状が認められない時期はどれか。",
         "choices": [
@@ -1625,7 +1625,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 117,
         "question": "奇形の原因となるのはどれか。",
         "choices": [
@@ -1639,7 +1639,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 118,
         "question": "疾患の外因と悪性新生物の組合せで誤っているのはどれか。",
         "choices": [
@@ -1653,7 +1653,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 119,
         "question": "脂肪肝の原因であてはまらないのはどれか。",
         "choices": [
@@ -1667,7 +1667,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 120,
         "question": "間接ビリルビンが増加する疾患はどれか。",
         "choices": [
@@ -1681,7 +1681,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 121,
         "question": "肺塞栓症の原因となる血栓ができる部位はどれか。",
         "choices": [
@@ -1695,7 +1695,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 122,
         "question": "血液中の濃度低下が浮腫を引き起こすのはどれか。",
         "choices": [
@@ -1709,7 +1709,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 123,
         "question": "再生能の低い細胞はどれか。",
         "choices": [
@@ -1723,7 +1723,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 124,
         "question": "炎症のケミカルメディエーターで誤っているのはどれか。",
         "choices": [
@@ -1737,7 +1737,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 125,
         "question": "後天性免疫不全症候群(AIDS)で誤っているのはどれか。",
         "choices": [
@@ -1751,7 +1751,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 126,
         "question": "薬剤注射直後に起こり得る副反応の機序はどれか。",
         "choices": [
@@ -1765,7 +1765,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 127,
         "question": "前癌病変でないのはどれか。",
         "choices": [
@@ -1779,7 +1779,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "病理学",
         "questionNumber": 128,
         "question": "扁平上皮癌の好発部位はどれか。",
         "choices": [

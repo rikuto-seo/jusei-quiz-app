@@ -911,7 +911,7 @@
   },
   {
     "year": 1993,
-    "subject": "生理学",
+    "subject": "病理学",
     "questionNumber": 66,
     "question": "悪性貧血の原因として考えられるビタミンの欠乏はどれか。",
     "choices": [
@@ -925,7 +925,7 @@
   },
   {
     "year": 1993,
-    "subject": "微生物学",
+    "subject": "病理学",
     "questionNumber": 67,
     "question": "病原体が細菌である疾患はどれか。",
     "choices": [
@@ -1065,7 +1065,7 @@
   },
   {
     "year": 1993,
-    "subject": "免疫学",
+    "subject": "病理学",
     "questionNumber": 77,
     "question": "免疫について誤っているのはどれか。",
     "choices": [
@@ -1079,7 +1079,7 @@
   },
   {
     "year": 1993,
-    "subject": "遺伝学",
+    "subject": "病理学",
     "questionNumber": 78,
     "question": "先天異常について誤っているのはどれか。",
     "choices": [
