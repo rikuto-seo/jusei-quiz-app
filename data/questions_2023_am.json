@@ -1457,7 +1457,7 @@
     },
     {
         "year": 2023,
-        "subject": "生理学",
+        "subject": ["生理学","運動学"],
         "questionNumber": 105,
         "question": "加齢による変化はどれか。",
         "choices": [
@@ -1471,7 +1471,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 106,
         "question": "関節運動で正しいのはどれか。",
         "choices": [
@@ -1485,7 +1485,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 107,
         "question": "関節運動を起こさない筋収縮はどれか。",
         "choices": [
@@ -1499,7 +1499,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 108,
         "question": "伸張反射で正しいのはどれか。",
         "choices": [
@@ -1513,7 +1513,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 109,
         "question": "肩関節を内旋するのはどれか。",
         "choices": [
@@ -1527,7 +1527,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 110,
         "question": "股関節を伸展するのはどれか。",
         "choices": [
@@ -1541,7 +1541,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 111,
         "question": "一側が収縮することで体幹を反対側に回旋させるのはどれか。",
         "choices": [
@@ -1555,7 +1555,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 112,
         "question": "立位姿勢の重心線が後方を通るのはどれか。",
         "choices": [
@@ -1569,7 +1569,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 113,
         "question": "歩行時の関節運動で正しいのはどれか。",
         "choices": [
@@ -1583,7 +1583,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 114,
         "question": "歩行開始の段階の小児歩行に特徴的なのはどれか。",
         "choices": [
@@ -1597,7 +1597,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 115,
         "question": "記憶の3つの過程の順で正しいのはどれか。",
         "choices": [

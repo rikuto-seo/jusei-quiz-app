@@ -1457,7 +1457,7 @@
     },
     {
         "year": 2022,
-        "subject": "生理学",
+        "subject": ["生理学","運動学"],
         "questionNumber": 105,
         "question": "持久能の運動トレーニングで増加しないのはどれか。",
         "choices": [
@@ -1471,7 +1471,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 106,
         "question": "内耳で回転加速度を感知するのはどれか。",
         "choices": [
@@ -1485,7 +1485,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 107,
         "question": "肩甲骨の上方回旋に関わるのはどれか。",
         "choices": [
@@ -1499,7 +1499,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 108,
         "question": "示指の運動と筋の組合せで正しいのはどれか。",
         "choices": [
@@ -1513,7 +1513,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 109,
         "question": "脛骨の後方への逸脱を防ぐのはどれか。",
         "choices": [
@@ -1527,7 +1527,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 110,
         "question": "足の横アーチを構成するのはどれか。",
         "choices": [
@@ -1541,7 +1541,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 111,
         "question": "縫工筋の股関節に対する作用で誤っているのはどれか。",
         "choices": [
@@ -1555,7 +1555,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 112,
         "question": "重心動揺面積が最小となるのはどれか。",
         "choices": [
@@ -1569,7 +1569,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 113,
         "question": "正常歩行時に重心の位置が最も高くなる時期はどれか。",
         "choices": [
@@ -1583,7 +1583,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 114,
         "question": "パーキンソン(Parkinson)病でみられるのはどれか。",
         "choices": [
@@ -1597,7 +1597,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 115,
         "question": "ニューロンの髄鞘化が最も早く終了するのはどれか。",
         "choices": [

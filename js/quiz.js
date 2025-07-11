@@ -31,7 +31,13 @@ function getSessionLabel(session) {
 function filterQuestions() {
   return allQuestions.filter(q => {
     if (filter.year && q.year !== filter.year) return false;
-    if (filter.subject && q.subject !== filter.subject) return false;
+    if (filter.subject) {
+      if (Array.isArray(q.subject)) {
+        if (!q.subject.includes(filter.subject)) return false;
+      } else {
+        if (q.subject !== filter.subject) return false;
+      }
+    }
     if (filter.tags.length > 0 && !filter.tags.some(tag => q.tags.includes(tag))) return false;
     return true;
   });

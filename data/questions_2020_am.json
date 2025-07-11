@@ -1373,7 +1373,7 @@
     },
     {
         "year": 2020,
-        "subject": "生理学",
+        "subject": ["生理学","運動学"],
         "questionNumber": 99,
         "question": "伝導速度が最も速いのはどれか。",
         "choices": [
@@ -1387,7 +1387,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 100,
         "question": "アドレナリン作動性線維はどれか。",
         "choices": [
@@ -1401,7 +1401,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 101,
         "question": "一次運動野で最も内側に再現されている身体部位はどれか。",
         "choices": [
@@ -1415,7 +1415,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 102,
         "question": "骨格筋の収縮時に長さが変わらないのはどれか。",
         "choices": [
@@ -1429,7 +1429,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 103,
         "question": "ゴルジ腱紡錘(腱器官)を受容器とするのはどれか。",
         "choices": [
@@ -1443,7 +1443,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 104,
         "question": "近くの対象を見るときの眼の調節で正しいのはどれか。",
         "choices": [
@@ -1457,7 +1457,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 105,
         "question": "左下肢の温度覚を伝える線維が上行する部位はどれか。",
         "choices": [
@@ -1471,7 +1471,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 106,
         "question": "解剖学的立位姿勢で正しいのはどれか。",
         "choices": [
@@ -1485,7 +1485,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 107,
         "question": "筋収縮で筋長が長くなっていくのはどれか。",
         "choices": [
@@ -1499,7 +1499,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 108,
         "question": "多シナプス反射はどれか。",
         "choices": [
@@ -1513,7 +1513,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 109,
         "question": "痙性片麻痺で健側下肢を外転させると患側下肢が外転するのはどれか。",
         "choices": [
@@ -1530,7 +1530,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 110,
         "question": "長胸神経麻痺による翼状肩甲の原因となる筋はどれか。",
         "choices": [
@@ -1544,7 +1544,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 111,
         "question": "前腕の回内・回外運動で誤っているのはどれか。",
         "choices": [
@@ -1558,7 +1558,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 112,
         "question": "姿勢の安定性で正しいのはどれか。",
         "choices": [
@@ -1572,7 +1572,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 113,
         "question": "自然歩行周期で遊脚相の占める比率はどれか。",
         "choices": [
@@ -1586,7 +1586,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 114,
         "question": "正常の立脚期で歩行を加速させるのはどれか。",
         "choices": [
@@ -1600,7 +1600,7 @@
     },
     {
         "year": 2020,
-        "subject": "柔道整復学",
+        "subject": "運動学",
         "questionNumber": 115,
         "question": "生後10か月の正常児で認められるのはどれか。",
         "choices": [
