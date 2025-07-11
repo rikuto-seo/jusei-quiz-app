@@ -1518,7 +1518,7 @@
     },
     {
         "year": 2018,
-        "subject": "病理学",
+        "subject": ["病理学","衛生学・公衆衛生学"],
         "questionNumber": 109,
         "question": "症例対照研究と比較した場合のコホート研究の長所はどれか。",
         "choices": [
@@ -1532,7 +1532,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 110,
         "question": "国際疾病分類(ICD)で正しいのはどれか。",
         "choices": [
@@ -1546,7 +1546,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 111,
         "question": "近年の我が国の母子保健の状況で正しいのはどれか。",
         "choices": [
@@ -1560,7 +1560,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 112,
         "question": "学校保健安全法に定められていないのはどれか。",
         "choices": [
@@ -1574,7 +1574,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 113,
         "question": "近年の我が国の女性の部位別にみた悪性新生物の年齢調整死亡率(人口10万対)の推移で、昭和30年代と比較して減少傾向が著しい部位はどれか。",
         "choices": [
@@ -1588,7 +1588,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 114,
         "question": "後期高齢者で正しいのはどれか。",
         "choices": [
@@ -1602,7 +1602,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 115,
         "question": "毒素型食中毒の原因となるのはどれか。",
         "choices": [
@@ -1616,7 +1616,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 116,
         "question": "「精神保健及び精神障害者福祉に関する法律」が定める患者自身の意思による入院はどれか。",
         "choices": [
@@ -1630,7 +1630,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 117,
         "question": "保健所の業務で誤っているのはどれか。",
         "choices": [
@@ -1644,7 +1644,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 118,
         "question": "スタンダード・プリコーションで正しいのはどれか。",
         "choices": [
@@ -1658,7 +1658,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 119,
         "question": "屋内の一酸化炭素の排出源で重要なのはどれか。",
         "choices": [
@@ -1672,7 +1672,7 @@
     },
     {
         "year": 2018,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 120,
         "question": "水道法に基づく水質基準で検出されてはならないのはどれか。",
         "choices": [

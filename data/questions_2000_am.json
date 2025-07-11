@@ -1093,7 +1093,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 79,
         "question": "感染症成立の疫学的条件に含まれないのはどれか。",
         "choices": [
@@ -1107,7 +1107,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 80,
         "question": "ヒトからヒトへ直接伝播しないのはどれか。",
         "choices": [
@@ -1121,7 +1121,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 81,
         "question": "正しい組合せはどれか。",
         "choices": [
@@ -1135,7 +1135,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 82,
         "question": "皮膚の消毒に適切でないのはどれか。",
         "choices": [
@@ -1149,7 +1149,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 83,
         "question": "学校伝染病（第二類）でないのはどれか。",
         "choices": [
@@ -1163,7 +1163,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 84,
         "question": "人口統計で正しいのはどれか。",
         "choices": [
@@ -1177,7 +1177,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 85,
         "question": "労働衛生の3管理に含まれないのはどれか。",
         "choices": [
@@ -1191,7 +1191,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 86,
         "question": "都道府県知事に策定が義務づけられているのはどれか。",
         "choices": [
@@ -1205,7 +1205,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 87,
         "question": "住居環境で誤っているのはどれか。",
         "choices": [
@@ -1219,7 +1219,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 88,
         "question": "環境温度で誤っているのはどれか。",
         "choices": [
@@ -1233,7 +1233,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 89,
         "question": "下水処理で正しいのはどれか。",
         "choices": [
@@ -1247,7 +1247,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 90,
         "question": "精神保健福祉法の立法の目的でないのはどれか。",
         "choices": [
@@ -1260,6 +1260,8 @@
         "tags": []
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 91,
         "question": "柔道整復師の免許で正しいのはどれか。",
         "choices": [
@@ -1271,6 +1273,8 @@
         "answer": 2
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 92,
         "question": "免許を取り消されたときの免許証の返納期間は何日以内か。",
         "choices": [
@@ -1282,6 +1286,8 @@
         "answer": 0
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 93,
         "question": "柔道整復師の業で正しいのはどれか。",
         "choices": [
@@ -1293,6 +1299,8 @@
         "answer": 3
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 94,
         "question": "正しいのはどれか。",
         "choices": [
@@ -1304,6 +1312,8 @@
         "answer": 3
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 95,
         "question": "柔道整復師の応急手当で正しいのはどれか。",
         "choices": [
@@ -1315,6 +1325,8 @@
         "answer": 0
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 96,
         "question": "施術所を開設したときに届け出なければならない期限はどれか。",
         "choices": [
@@ -1326,6 +1338,8 @@
         "answer": 2
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 97,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -1337,6 +1351,8 @@
         "answer": 3
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 98,
         "question": "施術所を直接監督するのはどれか。 ａ．市町村長 ｂ．保健所を設置する市の市長 ｃ．都道府県知事 ｄ．厚生大臣",
         "choices": [
@@ -1348,6 +1364,8 @@
         "answer": 2
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 99,
         "question": "業務独占でないのはどれか。",
         "choices": [
@@ -1359,6 +1377,8 @@
         "answer": 1
     },
     {
+        "year": 2000,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 100,
         "question": "専用の施術室の基準で正しいのはどれか。",
         "choices": [

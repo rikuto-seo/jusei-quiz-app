@@ -1,7 +1,7 @@
 [
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 129,
         "question": "WHO 憲章に述べられている健康で正しいのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 130,
         "question": "プライマリヘルスケアにあてはまらないのはどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 131,
         "question": "疫学研究方法でエビデンスのレベルが最も高いのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 132,
         "question": "総患者数が最も多いのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 133,
         "question": "介護認定審査会で正しいのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 134,
         "question": "衛生行政と所管する官庁の組合せで誤っているのはどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 135,
         "question": "世界保健機関(WHO)の主な活動内容はどれか。2つ選べ。",
         "choices": [
@@ -102,7 +102,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 136,
         "question": "不活化ワクチンはどれか。",
         "choices": [
@@ -116,7 +116,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 137,
         "question": "金属器具に使用できない消毒薬はどれか。",
         "choices": [
@@ -130,7 +130,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 138,
         "question": "手指の消毒で正しいのはどれか。",
         "choices": [
@@ -144,7 +144,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 139,
         "question": "住居の採光と換気で正しいのはどれか。",
         "choices": [
@@ -158,7 +158,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 140,
         "question": "上水で正しいのはどれか。2つ選べ。",
         "choices": [

@@ -1093,7 +1093,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 79,
         "question": "疫学の内容について誤っているのはどれか。",
         "choices": [
@@ -1107,7 +1107,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 80,
         "question": "衛生統計指標で正しいのはどれか。",
         "choices": [
@@ -1121,7 +1121,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 81,
         "question": "母子保健について誤っているのはどれか。",
         "choices": [
@@ -1135,7 +1135,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 82,
         "question": "職業病について誤っているのはどれか。",
         "choices": [
@@ -1149,7 +1149,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 83,
         "question": "食中毒の原因として誤っているのはどれか。",
         "choices": [
@@ -1163,7 +1163,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 84,
         "question": "水道法による水質基準で検出されてはならないのはどれか。",
         "choices": [
@@ -1177,7 +1177,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 85,
         "question": "感染性廃棄物の処理について正しいのはどれか。",
         "choices": [
@@ -1191,7 +1191,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 86,
         "question": "大気汚染に係る国の環境基準値が定められていない物質はどれか。",
         "choices": [
@@ -1205,7 +1205,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 87,
         "question": "住民からの公害に関する苦情件数で最も多いのはどれか。",
         "choices": [
@@ -1219,7 +1219,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 88,
         "question": "正しい組合せはどれか。",
         "choices": [
@@ -1233,7 +1233,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 89,
         "question": "予防接種法による定期予防接種の対象疾病はどれか。",
         "choices": [
@@ -1247,7 +1247,7 @@
     },
     {
         "year": 1998,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 90,
         "question": "消毒について誤っている組合せはどれか。",
         "choices": [
@@ -1260,6 +1260,8 @@
         "tags": []
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 91,
         "question": "柔道整復師として施術を行うことができないのはどれか。",
         "choices": [
@@ -1271,6 +1273,8 @@
         "answer": 4
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 92,
         "question": "柔道整復師名簿の登録事項はどれか。 ａ．試験合格の年月 ｂ．業務の停止の処分 ｃ．年齢 ｄ．卒業した養成施設名",
         "choices": [
@@ -1282,6 +1286,8 @@
         "answer": 1
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 93,
         "question": "柔道整復師名簿の訂正を申請すべきときはどれか。 ａ．本籍地を他の都道府県に変更したとき ｂ．住所を他の都道府県に変更したとき ｃ．開設している施術所の場所を変更したとき ｄ．結婚して改姓したとき",
         "choices": [
@@ -1293,6 +1299,8 @@
         "answer": 2
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 94,
         "question": "柔道整復師免許の取消しについて正しいのはどれか。",
         "choices": [
@@ -1304,6 +1312,8 @@
         "answer": 4
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 95,
         "question": "正しい組合せはどれか。",
         "choices": [
@@ -1315,6 +1325,8 @@
         "answer": 3
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 96,
         "question": "正しいのはどれか。",
         "choices": [
@@ -1326,6 +1338,8 @@
         "answer": 3
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 97,
         "question": "柔道整復の業務で正しいのはどれか。",
         "choices": [
@@ -1337,6 +1351,8 @@
         "answer": 3
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 98,
         "question": "誤っているのはどれか。",
         "choices": [
@@ -1348,6 +1364,8 @@
         "answer": 4
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 99,
         "question": "施術所の名称として使用できるのはどれか。",
         "choices": [
@@ -1359,6 +1377,8 @@
         "answer": 1
     },
     {
+        "year": 1998,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 100,
         "question": "柔道整復師の業務で誤っているのはどれか。",
         "choices": [

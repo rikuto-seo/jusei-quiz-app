@@ -1093,7 +1093,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 79,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -1107,7 +1107,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 80,
         "question": "保健医療における第3次予防はどれか。",
         "choices": [
@@ -1121,7 +1121,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 81,
         "question": "職業病について誤っている組合せはどれか。",
         "choices": [
@@ -1135,7 +1135,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 82,
         "question": "人の感染症と動物との組合せで誤っているのはどれか。",
         "choices": [
@@ -1149,7 +1149,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 83,
         "question": "コレラ患者が使用した食器の消毒法で適切なのはどれか。",
         "choices": [
@@ -1163,7 +1163,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 84,
         "question": "母子保健統計について正しいのはどれか。",
         "choices": [
@@ -1177,7 +1177,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 85,
         "question": "近年の小学生の健康状態について正しいのはどれか。",
         "choices": [
@@ -1191,7 +1191,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 86,
         "question": "気候について正しいのはどれか。",
         "choices": [
@@ -1205,7 +1205,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 87,
         "question": "上水道について正しいのはどれか。",
         "choices": [
@@ -1219,7 +1219,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 88,
         "question": "廃棄物について正しいのはどれか。",
         "choices": [
@@ -1233,7 +1233,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 89,
         "question": "老人保健法に基づく事業の対象について正しいのはどれか。",
         "choices": [
@@ -1247,7 +1247,7 @@
     },
     {
         "year": 1997,
-        "subject": "公衆衛生学",
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 90,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -1260,6 +1260,8 @@
         "tags": []
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 91,
         "question": "柔道整復師免許について正しいのはどれか。",
         "choices": [
@@ -1271,6 +1273,8 @@
         "answer": 1
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 92,
         "question": "正しいのはどれか。　ａ．医師は柔道整復の業務をすることができる。　ｂ．柔道整復師はエックス線写真によって診断することができる。　ｃ．柔道整復師は応急手当として外科手術ができる。　ｄ．柔道整復師の免許は業務独占である。",
         "choices": [
@@ -1282,6 +1286,8 @@
         "answer": 1
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 93,
         "question": "柔道整復師の施術として誤っているのはどれか。",
         "choices": [
@@ -1293,6 +1299,8 @@
         "answer": 0
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 94,
         "question": "柔道整復師が行うことができるのはどれか。",
         "choices": [
@@ -1304,6 +1312,8 @@
         "answer": 2
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 95,
         "question": "医師の同意について誤っているのはどれか。　ａ．医師は患者を診察しなくてもよい。　ｂ．施術者が直接医師から得なければならない。　ｃ．口頭で得てもよい。　ｄ．内科の医師でもよい。",
         "choices": [
@@ -1315,6 +1325,8 @@
         "answer": 0
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 96,
         "question": "施術所について正しいのはどれか。",
         "choices": [
@@ -1326,6 +1338,8 @@
         "answer": 3
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 97,
         "question": "施術所として広告できる事項はどれか。",
         "choices": [
@@ -1337,6 +1351,8 @@
         "answer": 1
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 98,
         "question": "柔道整復師の免許申請で必要なのはどれか。　ａ．戸籍の謄本又は抄本　ｂ．医師の診断書　ｃ．柔道整復師養成施設の卒業証明書　ｄ．住民票",
         "choices": [
@@ -1348,6 +1364,8 @@
         "answer": 0
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 99,
         "question": "免許資格と法律との組合せで誤っているのはどれか。　ａ．作業療法士　───　理学療法士及び作業療法士法　ｂ．薬剤師　　　───　薬事法　ｃ．歯科医師　　───　医師法　ｄ．保健婦　　　───　保健婦助産婦看護婦法",
         "choices": [
@@ -1359,6 +1377,8 @@
         "answer": 2
     },
     {
+        "year": 1997,
+        "subject": "衛生学・公衆衛生学",
         "questionNumber": 100,
         "question": "正しいのはどれか。",
         "choices": [
