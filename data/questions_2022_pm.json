@@ -791,7 +791,7 @@
     },
     {
         "year": 2022,
-        "subject": "外科学概論",
+        "subject": ["外科学概論","整形外科学"],
         "questionNumber": 185,
         "question": "異常歩行と要因の組合せで正しいのはどれか。",
         "choices": [
@@ -805,7 +805,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 186,
         "question": "小児骨折で誤っているのはどれか。",
         "choices": [
@@ -819,7 +819,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 187,
         "question": "急性のスポーツ外傷で正しいのはどれか。",
         "choices": [
@@ -833,7 +833,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 188,
         "question": "骨関節結核で最も多い部位はどれか。",
         "choices": [
@@ -847,7 +847,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 189,
         "question": "骨形成不全症で正しいのはどれか。",
         "choices": [
@@ -861,7 +861,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 190,
         "question": "キーンベック(Kienböck)病で正しいのはどれか。",
         "choices": [
@@ -875,7 +875,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 191,
         "question": "頚椎後縦靱帯骨化症で正しいのはどれか。",
         "choices": [
@@ -889,7 +889,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 192,
         "question": "モンテギア(Monteggia)骨折で正しいのはどれか。",
         "choices": [
@@ -903,7 +903,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 193,
         "question": "手指伸筋腱皮下断裂の原因で誤っているのはどれか。",
         "choices": [
@@ -917,7 +917,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 194,
         "question": "特発性大腿骨頭壊死で正しいのはどれか。",
         "choices": [
@@ -931,7 +931,7 @@
     },
     {
         "year": 2022,
-        "subject": "柔道整復学",
+        "subject": "整形外科学",
         "questionNumber": 195,
         "question": "16歳の女子。バレーボールの試合中、ジャンプで着地した際に左膝に激痛が走った。試合は続行できたが、痛みが引かないため来所した。来所時、ラックマンテストが陽性であった。来所時の対応で誤っているのはどれか。",
         "choices": [

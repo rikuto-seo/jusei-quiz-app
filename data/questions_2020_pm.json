@@ -799,7 +799,7 @@
     },
     {
         "year": 2020,
-        "subject": "救急医学",
+        "subject": "整形外科学",
         "questionNumber": 186,
         "question": "スポーツ中の突然死に関連しないのはどれか。",
         "choices": [
@@ -841,7 +841,7 @@
     },
     {
         "year": 2020,
-        "subject": "遺伝学",
+        "subject": "整形外科学",
         "questionNumber": 189,
         "question": "常染色体劣性の遺伝形式を示すのはどれか。",
         "choices": [
@@ -939,7 +939,7 @@
     },
     {
         "year": 2020,
-        "subject": "整形外科学",
+        "subject": "整形外科",
         "questionNumber": 196,
         "question": "骨折の固有症状はどれか。",
         "choices": [
