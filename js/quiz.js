@@ -117,6 +117,20 @@ function renderQuiz(questions) {
     const sessionLabel = getSessionLabel(q.session);
     const questionNo = q.questionNumber || index + 1;
 
+    const title = document.createElement("h2");
+
+    const questionText = document.createElement("span");
+    questionText.className = "question-main";
+    questionText.textContent = `【問${questionNo}】 ${q.question}`;
+
+    const metaText = document.createElement("div");
+    metaText.className = "question-meta";
+    metaText.textContent = `（${q.year}年・${examNum}・問${questionNo}・${Array.isArray(q.subject) ? q.subject.join("／") : q.subject}）`;
+
+    title.appendChild(questionText);
+    title.appendChild(metaText);
+    qDiv.appendChild(title);
+
     // ------- 問題文上部の画像表示（ポップアップ対応） -------
     if (Array.isArray(q.questionImages) && q.questionImages.length > 0) {
       const btn = document.createElement("button");
@@ -137,20 +151,6 @@ function renderQuiz(questions) {
       };
       qDiv.appendChild(btn);
     }
-
-    const title = document.createElement("h2");
-
-    const questionText = document.createElement("span");
-    questionText.className = "question-main";
-    questionText.textContent = `【問${questionNo}】 ${q.question}`;
-
-    const metaText = document.createElement("div");
-    metaText.className = "question-meta";
-    metaText.textContent = `（${q.year}年・${examNum}・問${questionNo}・${Array.isArray(q.subject) ? q.subject.join("／") : q.subject}）`;
-
-    title.appendChild(questionText);
-    title.appendChild(metaText);
-    qDiv.appendChild(title);
 
     const shuffledChoices = shuffleArray(
       q.choices.map((choice, i) => ({ choice, originalIndex: i }))
