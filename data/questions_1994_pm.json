@@ -1,7 +1,7 @@
 [
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 101,
         "question": "血圧について正しいのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 102,
         "question": "脈拍について正しいのはどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 103,
         "question": "気管支喘息について誤っているのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 104,
         "question": "循環器疾患について正しいのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 105,
         "question": "心筋梗塞について正しいのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 106,
         "question": "糖尿病について誤っているのはどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 107,
         "question": "痛風について誤っているのはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 108,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 109,
         "question": "表在反射はどれか。　ａ．下顎反射　ｂ．腹壁反射　ｃ．肛門反射　ｄ．膝蓋腱反射",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 110,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 111,
         "question": "四肢の筋萎縮の有無の判定で誤っているのはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 112,
         "question": "表在性のリンパ節を触知しやすい部位はどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 113,
         "question": "消化性潰瘍について正しいのはどれか。　ａ．胃酸の過剰分泌により発生する。　ｂ．十二指腸では空腹時に心窩部痛を生じる。　ｃ．十二指腸潰瘍は高齢者に多い。　ｄ．下血は鮮紅色を呈する。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 114,
         "question": "大腸癌について誤っているのはどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 115,
         "question": "悪性貧血について正しいのはどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 116,
         "question": "視診について正しい組合せはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 117,
         "question": "レイノー現象について誤っているのはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 118,
         "question": "慢性関節リウマチについて誤っているのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 119,
         "question": "全身性エリテマトーデスについて誤っているのはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 1994,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 120,
         "question": "ネフローゼ症候群にみられないのはどれか。",
         "choices": [

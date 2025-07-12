@@ -1,7 +1,7 @@
 [
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 101,
     "question": "脈拍について誤っているのはどれか。",
     "choices": [
@@ -15,7 +15,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 102,
     "question": "ＷＨＯの血圧基準で誤っている組合せはどれか。",
     "choices": [
@@ -29,7 +29,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 103,
     "question": "深部反射で誤っているのはどれか。",
     "choices": [
@@ -43,7 +43,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 104,
     "question": "病的反射について正しいのはどれか。",
     "choices": [
@@ -57,7 +57,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 105,
     "question": "腹部の触診で誤っているのはどれか。",
     "choices": [
@@ -71,7 +71,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 106,
     "question": "問診上、家族歴が重要でない傷病はどれか。",
     "choices": [
@@ -85,7 +85,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 107,
     "question": "視診について誤っている組合せはどれか。",
     "choices": [
@@ -99,7 +99,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 108,
     "question": "体表から触れる骨性目標について正しいのはどれか。",
     "choices": [
@@ -113,7 +113,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 109,
     "question": "気管支喘息について誤っているのはどれか。",
     "choices": [
@@ -127,7 +127,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 110,
     "question": "心筋梗塞について正しいのはどれか。　ａ．胸痛の持続は20分以上のことが多い。　ｂ．発症早期の致死的不整脈は少ない。　ｃ．喫煙は発症の危険因子ではない。　ｄ．冠動脈閉塞による心筋壊死を生じる。",
     "choices": [
@@ -141,7 +141,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 111,
     "question": "鉄欠乏性貧血について誤っているのはどれか。",
     "choices": [
@@ -155,7 +155,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 112,
     "question": "バセドウ病の三主徴で誤っているのはどれか。",
     "choices": [
@@ -169,7 +169,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 113,
     "question": "糖尿病について正しいのはどれか。",
     "choices": [
@@ -183,7 +183,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 114,
     "question": "パーキンソン病の症状で誤っているのはどれか。",
     "choices": [
@@ -197,7 +197,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 115,
     "question": "吐血の多い胃疾患で誤っているのはどれか。",
     "choices": [
@@ -211,7 +211,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 116,
     "question": "急性虫垂炎の症状で正しいのはどれか。",
     "choices": [
@@ -225,7 +225,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 117,
     "question": "肝硬変の病因で誤っているのはどれか。",
     "choices": [
@@ -239,7 +239,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 118,
     "question": "全身性エリテマトーデスについて誤っているのはどれか。",
     "choices": [
@@ -253,7 +253,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 119,
     "question": "慢性関節リウマチについて誤っているのはどれか。",
     "choices": [
@@ -267,7 +267,7 @@
   },
   {
     "year": 1993,
-    "subject": "柔道整復学",
+    "subject": "一般臨床医学",
     "questionNumber": 120,
     "question": "ネフローゼ症候群について誤っているのはどれか。",
     "choices": [

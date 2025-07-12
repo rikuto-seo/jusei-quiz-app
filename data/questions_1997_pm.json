@@ -1,7 +1,7 @@
 [
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 101,
         "question": "打診および聴診について誤っているのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 102,
         "question": "生命徴候について正しいのはどれか。　ａ．体温が37.0℃を越えることを発熱という。　ｂ．収縮期血圧と拡張期血圧との差を脈圧という。　ｃ．呼気時に弱くなる脈を奇脈という。　ｄ．深く大きい頻呼吸をチェーン・ストーク呼吸という。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 103,
         "question": "理学的検査について誤っているのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 104,
         "question": "眼瞼下垂を認めるのはどれか。　ａ．動眼神経麻痺　ｂ．重症筋無力症　ｃ．ギラン・バレー症候群　ｄ．ベル麻痺",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 105,
         "question": "振戦を認めないのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 106,
         "question": "表在反射はどれか。　ａ．咽頭反射　ｂ．下顎反射　ｃ．橈骨反射　ｄ．腹壁反射",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 107,
         "question": "意識状態について正しい組合せはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 108,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 109,
         "question": "内臓触知部位について正しい組合せはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 110,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 111,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 112,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 113,
         "question": "肺気腫について誤っているのはどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 114,
         "question": "心筋梗塞について正しいのはどれか。　ａ．一過性の心筋虚血である。　ｂ．糖尿病は危険因子である。　ｃ．発作時に特有の心電図変化がみられる。　ｄ．狭心症に比べて死亡率は低い。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 115,
         "question": "四肢鉛管現象がみられるのはどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 116,
         "question": "食道癌の初発症状はどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 117,
         "question": "ウイルス性肝炎について正しいのはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 118,
         "question": "肝硬変でみられないのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 119,
         "question": "貧血の原因について誤っている組合せはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 1997,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 120,
         "question": "ＡＩＤＳについて誤っているのはどれか。",
         "choices": [

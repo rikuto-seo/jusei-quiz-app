@@ -1,7 +1,7 @@
 [
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 101,
         "question": "健常人の打診上で濁音を認めないのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 102,
         "question": "パーキンソン病にみられる歩行異常はどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 103,
         "question": "振戦について正しいのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 104,
         "question": "痴呆について正しいのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 105,
         "question": "30歳の女性。「夕方になると物が二つに見え、まぶたが垂れてくる」と訴える。考えられるのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 106,
         "question": "心筋梗塞について正しいのはどれか。 ａ．糖尿病は危険因子である。 ｂ．胸痛の持続時間が短い。 ｃ．心筋壊死を伴わない。 ｄ．発症直後の急性心臓死が多い。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 107,
         "question": "肺気腫について正しいのはどれか。 ａ．女性に多い。 ｂ．喫煙は病因となる。 ｃ．労作性呼吸困難がみられる。 ｄ．呼吸不全にはならない。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 108,
         "question": "気管支喘息について誤っているのはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 109,
         "question": "筋萎縮性側索硬化症にみられるのはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 110,
         "question": "視力障害をきたす疾患はどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 111,
         "question": "脳塞栓にみられるのはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 112,
         "question": "ネフローゼ症候群に特徴的でないのはどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 113,
         "question": "腎不全について誤っているのはどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 114,
         "question": "消化性潰瘍の成因でないのはどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 115,
         "question": "肝硬変でみられないのはどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 116,
         "question": "クッシング症候群にみられないのはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 117,
         "question": "糖尿病性多発神経炎でみられないのはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 118,
         "question": "慢性骨髄性白血病でみられないのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 119,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 1999,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 120,
         "question": "正しい組合せはどれか。",
         "choices": [

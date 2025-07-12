@@ -332,7 +332,7 @@
     },
     {
         "year": 2023,
-        "subject": "医療知識",
+        "subject": "一般臨床医学",
         "questionNumber": 152,
         "question": "診療で正しいのはどれか。",
         "choices": [
@@ -346,7 +346,7 @@
     },
     {
         "year": 2023,
-        "subject": "医療知識",
+        "subject": "一般臨床医学",
         "questionNumber": 153,
         "question": "医療面接で正しいのはどれか。",
         "choices": [
@@ -360,7 +360,7 @@
     },
     {
         "year": 2023,
-        "subject": "神経内科",
+        "subject": "一般臨床医学",
         "questionNumber": 154,
         "question": "マン・ウェルニッケ姿勢を呈するのはどれか。",
         "choices": [
@@ -374,7 +374,7 @@
     },
     {
         "year": 2023,
-        "subject": "神経内科",
+        "subject": "一般臨床医学",
         "questionNumber": 155,
         "question": "舞踏運動がみられるのはどれか。",
         "choices": [
@@ -388,7 +388,7 @@
     },
     {
         "year": 2023,
-        "subject": "神経内科",
+        "subject": "一般臨床医学",
         "questionNumber": 156,
         "question": "麻痺すると下垂手を生じるのはどれか。",
         "choices": [
@@ -402,7 +402,7 @@
     },
     {
         "year": 2023,
-        "subject": "循環器学",
+        "subject": "一般臨床医学",
         "questionNumber": 157,
         "question": "健常者で聴取されない心音はどれか。",
         "choices": [
@@ -416,7 +416,7 @@
     },
     {
         "year": 2023,
-        "subject": "腫瘍学",
+        "subject": "一般臨床医学",
         "questionNumber": 158,
         "question": "悪性の皮下腫瘤を触診したときの特徴はどれか。",
         "choices": [
@@ -430,7 +430,7 @@
     },
     {
         "year": 2023,
-        "subject": "神経内科",
+        "subject": "一般臨床医学",
         "questionNumber": 159,
         "question": "下肢の深部腱反射が亢進するのはどれか。",
         "choices": [
@@ -444,7 +444,7 @@
     },
     {
         "year": 2023,
-        "subject": "肝臓学",
+        "subject": "一般臨床医学",
         "questionNumber": 160,
         "question": "肝細胞癌の原因とならないのはどれか。",
         "choices": [
@@ -458,7 +458,7 @@
     },
     {
         "year": 2023,
-        "subject": "感染症学",
+        "subject": "一般臨床医学",
         "questionNumber": 161,
         "question": "空気感染するのはどれか。",
         "choices": [
@@ -472,7 +472,7 @@
     },
     {
         "year": 2023,
-        "subject": "呼吸器学",
+        "subject": "一般臨床医学",
         "questionNumber": 162,
         "question": "慢性閉塞性肺疾患（COPD）で正しいのはどれか。",
         "choices": [
@@ -486,7 +486,7 @@
     },
     {
         "year": 2023,
-        "subject": "生活習慣病",
+        "subject": "一般臨床医学",
         "questionNumber": 163,
         "question": "高血圧に対する生活習慣病の改善で適切でないのはどれか。",
         "choices": [
@@ -500,7 +500,7 @@
     },
     {
         "year": 2023,
-        "subject": "腫瘍学",
+        "subject": "一般臨床医学",
         "questionNumber": 164,
         "question": "悪性リンパ腫で正しいのはどれか。",
         "choices": [
@@ -514,7 +514,7 @@
     },
     {
         "year": 2023,
-        "subject": "腫瘍学",
+        "subject": "一般臨床医学",
         "questionNumber": 165,
         "question": "多発性骨髄腫の所見で誤っているのはどれか。",
         "choices": [
@@ -528,7 +528,7 @@
     },
     {
         "year": 2023,
-        "subject": "内分泌・代謝学",
+        "subject": "一般臨床医学",
         "questionNumber": 166,
         "question": "糖尿病の診断基準で正しいのはどれか。",
         "choices": [
@@ -542,7 +542,7 @@
     },
     {
         "year": 2023,
-        "subject": "リウマチ・膠原病",
+        "subject": "一般臨床医学",
         "questionNumber": 167,
         "question": "関節リウマチで誤っているのはどれか。",
         "choices": [
@@ -556,7 +556,7 @@
     },
     {
         "year": 2023,
-        "subject": "腎臓学",
+        "subject": "一般臨床医学",
         "questionNumber": 168,
         "question": "ネフローゼ症候群の所見で誤っているのはどれか。",
         "choices": [
@@ -570,7 +570,7 @@
     },
     {
         "year": 2023,
-        "subject": "腎臓学",
+        "subject": "一般臨床医学",
         "questionNumber": 169,
         "question": "腎前性急性腎障害（AKI）の原因となるのはどれか。",
         "choices": [
@@ -584,7 +584,7 @@
     },
     {
         "year": 2023,
-        "subject": "循環器学",
+        "subject": "一般臨床医学",
         "questionNumber": 170,
         "question": "心房細動と診断されている患者が施術中に突然失語となった。最も考えられるのはどれか。",
         "choices": [
@@ -598,7 +598,7 @@
     },
     {
         "year": 2023,
-        "subject": "救急医学",
+        "subject": "一般臨床医学",
         "questionNumber": 171,
         "question": "熱中症の治療で補給するのに適切なのはどれか。",
         "choices": [
@@ -612,7 +612,7 @@
     },
     {
         "year": 2023,
-        "subject": "内分泌学",
+        "subject": "一般臨床医学",
         "questionNumber": 172,
         "question": "40歳の女性。1か月前から動悸と手の震えがあり、10日前からしゃがんだときに手すりをつかまないと立ち上がりにくくなった。脈拍112拍/分・整、頸部の腫大と眼球突出がある。 考えられる診断はどれか。",
         "choices": [
@@ -626,7 +626,7 @@
     },
     {
         "year": 2023,
-        "subject": "精神医学",
+        "subject": "一般臨床医学",
         "questionNumber": 173,
         "question": "76歳の男性。1年前から、直前の食事の内容が思い出せないことや物をよく失くしてしまうこと、慣れてない道で迷ってしまうようになったことを家族から指摘されている。物取られ妄想もみられた。この患者でみられるのはどれか。",
         "choices": [

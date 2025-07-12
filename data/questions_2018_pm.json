@@ -287,7 +287,7 @@
     },
     {
         "year": 2018,
-        "subject": "リハビリテーション医学",
+        "subject": ["リハビリテーション医学","一般臨床医学"],
         "questionNumber": 141,
         "question": "43歳の男性。2か月前に高所での作業中に転落し、第5頸椎脱臼骨折をきたし頸髄を損傷した。脱臼骨折は整形外科で観血的整復固定術を施行されている。現在の徒手筋力テストは両肘関節の屈曲が4、手関節の背屈が4および肘関節の伸展が0であり、握力は0kgである。リハビリテーションで正しいのはどれか。",
         "choices": [
@@ -301,7 +301,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 142,
         "question": "生理的な脊柱の弯曲はどれか。",
         "choices": [
@@ -315,7 +315,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 143,
         "question": "関節リウマチでみられる手の変形はどれか。",
         "choices": [
@@ -329,7 +329,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 144,
         "question": "意識障害の評価に用いられるのはどれか。",
         "choices": [
@@ -343,7 +343,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 145,
         "question": "下肢の閉塞性動脈硬化症で認められるのはどれか。",
         "choices": [
@@ -357,7 +357,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 146,
         "question": "皮膚の状態で誤っている組合せはどれか。",
         "choices": [
@@ -371,7 +371,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 147,
         "question": "頸部の状態で正しい組合せはどれか。",
         "choices": [
@@ -385,7 +385,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 148,
         "question": "胸郭の変形と原因の組合せで正しいのはどれか。",
         "choices": [
@@ -399,7 +399,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 149,
         "question": "肺肝境界の位置を決めるのに用いられる身体診察法はどれか。",
         "choices": [
@@ -413,7 +413,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 150,
         "question": "聴診で正しいのはどれか。",
         "choices": [
@@ -427,7 +427,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 151,
         "question": "臓器と触診位置の組合せで正しいのはどれか。",
         "choices": [
@@ -441,7 +441,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 152,
         "question": "マックバーニー点に圧痛を認めるのはどれか。",
         "choices": [
@@ -455,7 +455,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 153,
         "question": "C5レベルの脊髄を含む腱反射はどれか。",
         "choices": [
@@ -469,7 +469,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 154,
         "question": "消化器系症状と疾患の組合せで正しいのはどれか。",
         "choices": [
@@ -483,7 +483,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 155,
         "question": "肺気腫で正しいのはどれか。",
         "choices": [
@@ -497,7 +497,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 156,
         "question": "うっ血性心不全の患者で歩行時に呼吸困難や動棒を生じる NYHA分類はどれか。",
         "choices": [
@@ -511,7 +511,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 157,
         "question": "神経障害が出現するのはどれか。",
         "choices": [
@@ -525,7 +525,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 158,
         "question": "慢性腎不全の原因とならないのはどれか。",
         "choices": [
@@ -539,7 +539,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 159,
         "question": "膀胱炎の症状はどれか。",
         "choices": [
@@ -553,7 +553,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 160,
         "question": "発汗過多、眼球突出、頻脈および手指振戦を示すのはどれか。",
         "choices": [
@@ -567,7 +567,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 161,
         "question": "性行為感染症でないのはどれか。",
         "choices": [
@@ -581,7 +581,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 162,
         "question": "50歳の女性。2か月前から四肢近位筋に対称性の筋力低下と筋肉痛があり、しゃがむと立ち上がることができない。両上眼瞼部に紫紅色の紅斑があり、手指関節、肘関節および膝関節の伸側に落屑を伴う紅斑を認める。関節腫脹はない。考えられる疾患はどれか。",
         "choices": [
@@ -595,7 +595,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 163,
         "question": "65歳の男性。3年前からの歩行障害を主訴に来院した。四肢の振戦、固縮、体の動きにくさ及び姿勢反射障害を認めた。考えられる診断はどれか。",
         "choices": [
@@ -609,7 +609,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 164,
         "question": "熱傷で正しいのはどれか。",
         "choices": [
@@ -623,7 +623,7 @@
     },
     {
         "year": 2018,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 165,
         "question": "治療で誤っている組合せはどれか。",
         "choices": [

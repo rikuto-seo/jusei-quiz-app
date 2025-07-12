@@ -287,7 +287,7 @@
     },
     {
         "year": 2017,
-        "subject": "リハビリテーション医学",
+        "subject": ["リハビリテーション医学","一般臨床医学"],
         "questionNumber": 141,
         "question": "65歳の男性。2年前の高所からの転落で上部胸髄損傷で対麻痺がある。車いすでの日常生活は自立していたが、急に頭痛、顔面紅潮、発汗が出現した。注意するのはどれか。",
         "choices": [
@@ -301,7 +301,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 142,
         "question": "意識障害でジャパン・コーマ・スケールの10はどれか。",
         "choices": [
@@ -315,7 +315,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 143,
         "question": "疾患と異常歩行の組合せで正しいのはどれか。",
         "choices": [
@@ -329,7 +329,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 144,
         "question": "口腔粘膜の視診でコプリック斑がみられるのはどれか。",
         "choices": [
@@ -343,7 +343,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 145,
         "question": "頸部正中付近に硬い腫瘤を触れるのはどれか。",
         "choices": [
@@ -357,7 +357,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 146,
         "question": "腹部に赤色の皮膚線条を認めるのはどれか。",
         "choices": [
@@ -371,7 +371,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 147,
         "question": "腹部の打診で腸管に空気が充満しているときに聴取されるのはどれか。",
         "choices": [
@@ -385,7 +385,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 148,
         "question": "触診で正しいのはどれか。",
         "choices": [
@@ -399,7 +399,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 149,
         "question": "筋肉の診察・所見で正しいのはどれか。2つ選べ。",
         "choices": [
@@ -416,7 +416,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 150,
         "question": "正常な腹部所見はどれか。",
         "choices": [
@@ -430,7 +430,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 151,
         "question": "圧痛を伴うリンパ節腫脹をきたすのはどれか。",
         "choices": [
@@ -444,7 +444,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 152,
         "question": "脈拍で正しいのはどれか。",
         "choices": [
@@ -458,7 +458,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 153,
         "question": "障害部位と障害される感覚の組合せで正しいのはどれか。",
         "choices": [
@@ -472,7 +472,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 154,
         "question": "反射や筋トーヌスの検査で誤っているのはどれか。",
         "choices": [
@@ -486,7 +486,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 155,
         "question": "筋電図検査が診断に有用なのはどれか。",
         "choices": [
@@ -500,7 +500,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 156,
         "question": "潰瘍性大腸炎の症状で多いのはどれか。",
         "choices": [
@@ -514,7 +514,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 157,
         "question": "食道静脈瘤をきたす疾患はどれか。",
         "choices": [
@@ -528,7 +528,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 158,
         "question": "僧帽弁閉鎖不全症で正しいのはどれか。",
         "choices": [
@@ -542,7 +542,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 159,
         "question": "脊椎圧迫骨折を起こしやすいのはどれか。",
         "choices": [
@@ -556,7 +556,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 160,
         "question": "リウマチ熱と関連性が高いのはどれか。",
         "choices": [
@@ -569,6 +569,8 @@
         "tags": []
     },
     {
+        "year": 2017,
+        "subject": "一般臨床医学",
         "questionNumber": 161,
         "question": "腎・尿路疾患で正しいのはどれか。2つ選べ。",
         "choices": [
@@ -583,6 +585,8 @@
         ]
     },
     {
+        "year": 2017,
+        "subject": "一般臨床医学",
         "questionNumber": 162,
         "question": "70歳の女性。5日前から右背部に違和感があり、今朝から火照るような痛みになった。衣服を着替えるときに、右胸から側胸部を通って背中まで身体の右半周に赤い発疹と水疱が出ていることに気付いた。考えられる疾患はどれか。",
         "choices": [
@@ -594,6 +598,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床医学",
         "questionNumber": 163,
         "question": "78歳の男性。高血圧を指摘されていた。脳出血を発症し、3か月のリハビリテーション後に在宅療養を開始した。右上下肢の完全麻痺を呈している。正しい組合せはどれか。",
         "choices": [
@@ -605,6 +611,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床医学",
         "questionNumber": 164,
         "question": "感染症で誤っているのはどれか。",
         "choices": [
@@ -616,6 +624,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床医学",
         "questionNumber": 165,
         "question": "消毒と滅菌で正しいのはどれか。",
         "choices": [
@@ -627,6 +637,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 166,
         "question": "移植で正しいのはどれか。",
         "choices": [
@@ -638,6 +650,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 167,
         "question": "けいれんで誤っているのはどれか。",
         "choices": [
@@ -649,6 +663,8 @@
         "answer": 2
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 168,
         "question": "輸血の副作用と症状の組合せで正しいのはどれか。",
         "choices": [
@@ -660,6 +676,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 169,
         "question": "結紮縫合法で正しいのはどれか。",
         "choices": [
@@ -671,6 +689,8 @@
         "answer": 2
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 170,
         "question": "脊髄くも膜下麻酔で正しいのはどれか。",
         "choices": [
@@ -682,6 +702,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 171,
         "question": "心肺蘇生で誤っている組合せはどれか。",
         "choices": [
@@ -693,6 +715,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 172,
         "question": "頭部打撲で救急搬入時，随意運動なく四肢伸展を認めた。Glasgow Coma Scale(GCS)のうち運動機能の判定で正しいのはどれか。",
         "choices": [
@@ -704,6 +728,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 173,
         "question": "高所からの転落による右第5〜8肋骨の連続多発骨折で奇異呼吸を認める。誤っているのはどれか。",
         "choices": [
@@ -715,6 +741,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 174,
         "question": "70歳の男性。40km/時で乗用車を運転中、前方からの軽自動車のはみ出し走行により正面衝突し、ハンドルで前胸部を強打した。救急搬入時。前胸部痛、頻脈、血圧低下を認めた。最も損傷の可能性が高い臓器はどれか。",
         "choices": [
@@ -726,6 +754,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 175,
         "question": "徒手筋力テストで正しいのはどれか。",
         "choices": [
@@ -737,6 +767,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 176,
         "question": "骨形成不全症でみられないのはどれか。",
         "choices": [
@@ -748,6 +780,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 177,
         "question": "神経疾患の所見で正しい組合せはどれか。",
         "choices": [
@@ -759,6 +793,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 178,
         "question": "化膿性骨髄炎で誤っているのはどれか。",
         "choices": [
@@ -770,6 +806,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 179,
         "question": "関節リウマチの脱臼・変形でないのはどれか。",
         "choices": [
@@ -781,6 +819,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 180,
         "question": "変形性膝関節症にみられないのはどれか。",
         "choices": [
@@ -792,6 +832,8 @@
         "answer": 2
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 181,
         "question": "骨腫瘍の単純エックス線所見で誤っている組合せはどれか。",
         "choices": [
@@ -803,6 +845,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 182,
         "question": "第4・第5腰椎椎間板の突出型ヘルニアの臨床所見で正しいのはどれか。",
         "choices": [
@@ -814,6 +858,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 183,
         "question": "分娩麻痺で正しいのはどれか。",
         "choices": [
@@ -825,6 +871,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 184,
         "question": "アキレス腱周囲炎の所見で誤っているのはどれか。",
         "choices": [
@@ -836,6 +884,8 @@
         "answer": 2
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 185,
         "question": "63歳の女性。特に誘因なく3週前から腰痛が出現したため受診した。単純エックス線写真で第1腰椎の圧迫骨折を認め、骨密度を計測したところ、T値(若年成人の平均値：YAM値)に対する比率は74％であった。誤っているのはどれか。",
         "choices": [
@@ -847,6 +897,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 186,
         "question": "タナ障害が発生しやすいのはどれか。",
         "choices": [
@@ -858,6 +910,8 @@
         "answer": 2
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 187,
         "question": "ベネット(Bennett)損傷でみられないのはどれか。",
         "choices": [
@@ -869,6 +923,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 188,
         "question": "疲労骨折で正しいのはどれか。",
         "choices": [
@@ -880,6 +936,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 189,
         "question": "骨損傷における急性塑性変形で正しいのはどれか，",
         "choices": [
@@ -891,6 +949,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 190,
         "question": "骨折の治癒機序で正しいのはどれか。",
         "choices": [
@@ -902,6 +962,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 191,
         "question": "脱臼で誤っている組合せはどれか。",
         "choices": [
@@ -913,6 +975,8 @@
         "answer": 2
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 192,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -924,6 +988,8 @@
         "answer": 2
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 193,
         "question": "初期評価でないのはどれか。",
         "choices": [
@@ -935,6 +1001,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 194,
         "question": "受傷1週以内に行う指導管理で正しい組合せはどれか。",
         "choices": [
@@ -946,6 +1014,8 @@
         "answer": 1
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 195,
         "question": "胸腰椎移行部圧迫骨折で誤っているのはどれか。",
         "choices": [
@@ -957,6 +1027,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 196,
         "question": "セイヤー絆創膏固定法で正しいのはどれか。",
         "choices": [
@@ -968,6 +1040,8 @@
         "answer": 2
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 197,
         "question": "介達外力によって発生する肩甲骨骨折の部位はどれか。",
         "choices": [
@@ -979,6 +1053,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 198,
         "question": "肩関節前方脱臼に合併する上腕骨頭の陥没部位で正しいのはどれか。",
         "choices": [
@@ -990,6 +1066,8 @@
         "answer": 3
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 199,
         "question": "患者をベッド上で腹臥位とし、患側上肢をベッドの端から下垂させ、重りをつけて牽引し自然整復させる肩関節前方脱臼の整復法はどれか。",
         "choices": [
@@ -1001,6 +1079,8 @@
         "answer": 0
     },
     {
+        "year": 2017,
+        "subject": "一般臨床",
         "questionNumber": 200,
         "question": "上腕骨骨幹部三角筋付着部より遠位部の骨折で正しい組合せはどれか。",
         "choices": [

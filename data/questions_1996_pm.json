@@ -1,7 +1,7 @@
 [
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 101,
         "question": "糖尿病の問診項目として適切でないのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 102,
         "question": "視診について誤っているのはどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 103,
         "question": "正しい組合せはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 104,
         "question": "痛みを伴うリンパ節腫大はどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 105,
         "question": "触診方法で正しいのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 106,
         "question": "体温について正しい組合せはどれか。　ａ．バセドウ病　───　微熱　ｂ．敗血症　　　───　弛張熱　ｃ．マラリア　　───　稽留熱　ｄ．膠原病　　　───　周期的発熱",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 107,
         "question": "速脈がみられないのはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 108,
         "question": "上肢の病的反射はどれか。　ａ．ゴルドン反射　ｂ．ホフマン反射　ｃ．トレムナー反射　ｄ．シェーファー反射",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 109,
         "question": "正しい組合せはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 110,
         "question": "上位運動ニューロン障害でみられないのはどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 111,
         "question": "ギラン・バレー症候群にみられないのはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 112,
         "question": "正しい組合せはどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 113,
         "question": "消化器症状について誤っている組合せはどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 114,
         "question": "腹膜炎でみられないのはどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 115,
         "question": "鉄欠乏性貧血について誤っているのはどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 116,
         "question": "慢性関節リウマチについて正しいのはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 117,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 118,
         "question": "ネフローゼ症候群で低下するのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 119,
         "question": "心不全について正しいのはどれか。　ａ．左心不全では起坐呼吸がみられる。　ｂ．右心不全では静脈圧が低下する。　ｃ．心タンポナーデでは収縮不全がみられる。　ｄ．高血圧性心不全は機械的障害による。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 120,
         "question": "虚血性心疾患について誤っているのはどれか。",
         "choices": [

@@ -289,7 +289,7 @@
     },
     {
         "year": 2019,
-        "subject": "リハビリテーション医学",
+        "subject": ["リハビリテーション医学","一般臨床医学"],
         "questionNumber": 141,
         "question": "45歳の男性。高所からの転落で頸髄損傷を受傷した。職業はパソコン操作によるデスクワークだが、自家用車での通勤が必要である。改造自動車を用いた運転が可能な損傷レベルはどれか。",
         "choices": [
@@ -303,7 +303,7 @@
     },
     {
         "year": 2019,
-        "subject": "神経学",
+        "subject": "一般臨床医学",
         "questionNumber": 142,
         "question": "肘関節の屈曲と頭部前屈による前かがみ姿勢を特徴とするのはどれか。",
         "choices": [
@@ -335,7 +335,7 @@
     },
     {
         "year": 2019,
-        "subject": "神経学",
+        "subject": "一般臨床医学",
         "questionNumber": 144,
         "question": "意識状態で皮膚をつねるなどの強い刺激のみに少し反応するのはどれか。",
         "choices": [
@@ -349,7 +349,7 @@
     },
     {
         "year": 2019,
-        "subject": "神経学",
+        "subject": "一般臨床医学",
         "questionNumber": 145,
         "question": "不随意運動で誤っている組合せはどれか。",
         "choices": [
@@ -363,7 +363,7 @@
     },
     {
         "year": 2019,
-        "subject": "神経学",
+        "subject": "一般臨床医学",
         "questionNumber": 146,
         "question": "一側性の錐体路障害でみられる歩行はどれか。",
         "choices": [
@@ -377,7 +377,7 @@
     },
     {
         "year": 2019,
-        "subject": "栄養学",
+        "subject": "一般臨床医学",
         "questionNumber": 147,
         "question": "爪が薄く弱くなり陥凹している場合に欠乏していると考えられるのはどれか。",
         "choices": [
@@ -391,7 +391,7 @@
     },
     {
         "year": 2019,
-        "subject": "神経学",
+        "subject": "一般臨床医学",
         "questionNumber": 148,
         "question": "特徴的な顔貌について正しい組合せはどれか。",
         "choices": [
@@ -408,7 +408,7 @@
     },
     {
         "year": 2019,
-        "subject": "診断学",
+        "subject": "一般臨床医学",
         "questionNumber": 149,
         "question": "胸水が貯留した胸部の打診音はどれか。",
         "choices": [
@@ -422,7 +422,7 @@
     },
     {
         "year": 2019,
-        "subject": "診断学",
+        "subject": "一般臨床医学",
         "questionNumber": 150,
         "question": "胃潰瘍の圧痛点はどれか。",
         "choices": [
@@ -436,7 +436,7 @@
     },
     {
         "year": 2019,
-        "subject": "一般医学",
+        "subject": "一般臨床医学",
         "questionNumber": 151,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -450,7 +450,7 @@
     },
     {
         "year": 2019,
-        "subject": "一般医学",
+        "subject": "一般臨床医学",
         "questionNumber": 152,
         "question": "生命徴候で異常値はどれか。",
         "choices": [
@@ -464,7 +464,7 @@
     },
     {
         "year": 2019,
-        "subject": "神経学",
+        "subject": "一般臨床医学",
         "questionNumber": 153,
         "question": "脳波検査が必要なのはどれか。",
         "choices": [
@@ -478,7 +478,7 @@
     },
     {
         "year": 2019,
-        "subject": "肝臓学",
+        "subject": "一般臨床医学",
         "questionNumber": 154,
         "question": "肝細胞癌の原因疾患で最も多いのはどれか。",
         "choices": [
@@ -492,7 +492,7 @@
     },
     {
         "year": 2019,
-        "subject": "消化器学",
+        "subject": "一般臨床医学",
         "questionNumber": 155,
         "question": "急性膵炎で誤っているのはどれか。",
         "choices": [
@@ -506,7 +506,7 @@
     },
     {
         "year": 2019,
-        "subject": "呼吸器学",
+        "subject": "一般臨床医学",
         "questionNumber": 156,
         "question": "気管支喘息の治療薬で誤っているのはどれか。",
         "choices": [
@@ -520,7 +520,7 @@
     },
     {
         "year": 2019,
-        "subject": "呼吸器学",
+        "subject": "一般臨床医学",
         "questionNumber": 157,
         "question": "肺癌で正しいのはどれか。",
         "choices": [
@@ -534,7 +534,7 @@
     },
     {
         "year": 2019,
-        "subject": "循環器学",
+        "subject": "一般臨床医学",
         "questionNumber": 158,
         "question": "心不全の症状で誤っているのはどれか。",
         "choices": [
@@ -548,7 +548,7 @@
     },
     {
         "year": 2019,
-        "subject": "内科学",
+        "subject": "一般臨床医学",
         "questionNumber": 159,
         "question": "糖尿病の合併症でないのはどれか。",
         "choices": [
@@ -562,7 +562,7 @@
     },
     {
         "year": 2019,
-        "subject": "腎臓学",
+        "subject": "一般臨床医学",
         "questionNumber": 160,
         "question": "腎前性腎障害の原因となるのはどれか。",
         "choices": [
@@ -576,7 +576,7 @@
     },
     {
         "year": 2019,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 161,
         "question": "認知症を生じるのはどれか。",
         "choices": [
@@ -590,7 +590,7 @@
     },
     {
         "year": 2019,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 162,
         "question": "33歳の女性。5年前から日光過敏を自覚していた。1年前から口内炎を繰り返し、6か月前から両側の手関節の関節痛と脱毛を認めた。1か月前から発熱が持続したため来院した。体温38.2°C。尿所見では、タンパク陽性、潜血陽性。血液検査では、血小板減少、抗二本鎖DNA抗体陽性を認めた。最も考えられる疾患はどれか。",
         "choices": [
@@ -604,7 +604,7 @@
     },
     {
         "year": 2019,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 163,
         "question": "75歳の女性。道ばたで転倒しているのが発見された。症状を尋ねたところ、右手足が動きにくいと訴えたため救急車を要請した。誤っているのはどれか。",
         "choices": [
@@ -618,7 +618,7 @@
     },
     {
         "year": 2019,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 164,
         "question": "機械的損傷はどれか。",
         "choices": [
@@ -632,7 +632,7 @@
     },
     {
         "year": 2019,
-        "subject": "柔道整復学",
+        "subject": "一般臨床医学",
         "questionNumber": 165,
         "question": "Ⅲ度の広範囲熱傷の治療で適切でないのはどれか。",
         "choices": [
