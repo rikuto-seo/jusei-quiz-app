@@ -274,7 +274,7 @@ label {
   margin-bottom: 1em;
 }
 
-.image-modal .close-button {
+.image-modal {
   position: absolute;
   top: 0.2em;
   right: 0.5em;

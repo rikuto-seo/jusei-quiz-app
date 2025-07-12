@@ -4,7 +4,7 @@ window.addEventListener("DOMContentLoaded", () => {
   const overlay = document.getElementById("image-overlay");
   if (overlay) {
     overlay.addEventListener("click", (e) => {
-      if (e.target === overlay || e.target.classList.contains("close-button")) {
+      if (e.target === overlay) {
         overlay.style.display = "none";
       }
     });
@@ -90,13 +90,6 @@ function showImageModal(imageSources) {
     img.style.marginBottom = "1em";
     modal.appendChild(img);
   });
-
-  const closeBtn = document.createElement("button");
-  closeBtn.textContent = "閉じる";
-  closeBtn.onclick = () => overlay.remove();
-  closeBtn.style.marginTop = "1em";
-  closeBtn.style.padding = "0.5em 1em";
-  modal.appendChild(closeBtn);
 
   overlay.appendChild(modal);
   document.body.appendChild(overlay);
