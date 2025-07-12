@@ -207,22 +207,41 @@ function renderQuiz(questions) {
 
 async function loadQuiz() {
   try {
-    const targetYear = filter.year || new Date().getFullYear();
     const session = params.get("session");
 
     const paths = [];
-    if (session === "am" || session === "pm") {
-      paths.push(`data/questions_${targetYear}_${session}.json`);
+
+    if (filter.year) {
+      // 年度指定あり：その年だけ
+      if (session === "am" || session === "pm") {
+        paths.push(`data/questions_${filter.year}_${session}.json`);
+      } else {
+        paths.push(`data/questions_${filter.year}_am.json`);
+        paths.push(`data/questions_${filter.year}_pm.json`);
+      }
     } else {
-      paths.push(`data/questions_${targetYear}_am.json`);
-      paths.push(`data/questions_${targetYear}_pm.json`);
+      // 年度指定なし：全年度（1993年～現在）を対象に読み込み
+      const currentYear = new Date().getFullYear();
+      for (let y = 1993; y <= currentYear; y++) {
+        if (session === "am" || session === "pm") {
+          paths.push(`data/questions_${y}_${session}.json`);
+        } else {
+          paths.push(`data/questions_${y}_am.json`);
+          paths.push(`data/questions_${y}_pm.json`);
+        }
+      }
     }
 
     const filePromises = paths.map(path =>
-      fetch(path).then(res => {
-        if (!res.ok) throw new Error(`ファイル取得失敗: ${path}`);
-        return res.json();
-      })
+      fetch(path)
+        .then(res => {
+          if (!res.ok) throw new Error(`ファイル取得失敗: ${path}`);
+          return res.json();
+        })
+        .catch(err => {
+          console.warn(err.message); // 存在しないファイルは警告だけ出してスキップ
+          return [];
+        })
     );
 
     const results = await Promise.all(filePromises);
@@ -240,10 +259,4 @@ async function loadQuiz() {
       alert("quiz-containerが見つかりません");
     }
   }
-}
-
-function updateFilter(newFilter) {
-  filter = { ...filter, ...newFilter };
-  const filtered = filterQuestions();
-  renderQuiz(filtered);
 }
