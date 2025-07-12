@@ -701,7 +701,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 151,
         "question": "重複骨折はどれか。",
         "choices": [
@@ -715,7 +715,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 152,
         "question": "骨折でリモデリングが期待できないのはどれか。",
         "choices": [
@@ -729,7 +729,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 153,
         "question": "小児骨折で正しいのはどれか。 ａ．脱臼に比較して骨折の頻度が高い。 ｂ．治癒過程で骨の過成長が起こる。 ｃ．関節骨折は保存療法が原則である。 ｄ．骨端軟骨損傷は成長障害の発生頻度が高い。",
         "choices": [
@@ -743,7 +743,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 154,
         "question": "ソルター・ハリス（Salter＆Harris）の骨端損傷分類で発生頻度の高いのはどれか。",
         "choices": [
@@ -757,7 +757,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 155,
         "question": "骨折の二次性合併症（後遺症）でないのはどれか。",
         "choices": [
@@ -771,7 +771,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 156,
         "question": "脱臼の整復障害にならないのはどれか。",
         "choices": [
@@ -785,7 +785,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 157,
         "question": "反復性脱臼の発生頻度が低いのはどれか。",
         "choices": [
@@ -799,7 +799,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 158,
         "question": "骨折固定の目的で誤っているのはどれか。",
         "choices": [
@@ -813,7 +813,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 159,
         "question": "温熱療法の適応はどれか。",
         "choices": [
@@ -827,7 +827,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 160,
         "question": "関節の靭帯損傷第１度にみられないのはどれか。",
         "choices": [
@@ -841,7 +841,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 161,
         "question": "肩甲骨骨折で誤っているのはどれか。",
         "choices": [
@@ -855,7 +855,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 162,
         "question": "鎖骨骨折で誤っているのはどれか。",
         "choices": [
@@ -869,7 +869,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 163,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -883,7 +883,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 164,
         "question": "伸展型モンテギア骨折で誤っているのはどれか。",
         "choices": [
@@ -897,7 +897,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 165,
         "question": "ガレアッチ（Galeazzi）骨折で誤っているのはどれか。",
         "choices": [
@@ -911,7 +911,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 166,
         "question": "橈骨骨幹部が円回内筋付着部の遠位で骨折している場合、正しい固定肢位はどれか。",
         "choices": [
@@ -925,7 +925,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 167,
         "question": "上腕骨顆上伸展型骨折で誤っているのはどれか。",
         "choices": [
@@ -939,7 +939,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 168,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -953,7 +953,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 169,
         "question": "手の舟状骨骨折で誤っているのはどれか。",
         "choices": [
@@ -967,7 +967,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 170,
         "question": "ベンネット骨折で正しいのはどれか。",
         "choices": [
@@ -981,7 +981,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 171,
         "question": "中手骨頸部骨折で誤っているのはどれか。",
         "choices": [
@@ -995,7 +995,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 172,
         "question": "中節骨骨幹部が浅指屈筋腱付着部の近位で骨折している場合、最も適切な固定肢位はどれか。",
         "choices": [
@@ -1009,7 +1009,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 173,
         "question": "肩関節脱臼の組合せで誤っているのはどれか。",
         "choices": [
@@ -1023,7 +1023,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 174,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -1037,7 +1037,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 175,
         "question": "月状骨脱臼で正しいのはどれか。",
         "choices": [
@@ -1051,7 +1051,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 176,
         "question": "第１中手指節関節脱臼で誤っているのはどれか。",
         "choices": [
@@ -1065,7 +1065,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 177,
         "question": "棘上筋損傷の症状で正しいのはどれか。",
         "choices": [
@@ -1079,7 +1079,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 178,
         "question": "指の損傷と症状との組合せで誤っているのはどれか。",
         "choices": [
@@ -1093,7 +1093,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 179,
         "question": "図のテスト法で橈骨側方部の疼痛が増強した。該当する腱はどれか。",
         "choices": [
@@ -1107,7 +1107,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 180,
         "question": "腰椎の圧迫骨折の症状はどれか。",
         "choices": [
@@ -1121,7 +1121,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 181,
         "question": "剥離骨折の部位と関与する筋との組合せで正しいのはどれか。",
         "choices": [
@@ -1135,7 +1135,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 182,
         "question": "大腿骨小転子骨折の診断に用いるテストはどれか。",
         "choices": [
@@ -1149,7 +1149,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 183,
         "question": "膝蓋骨に多くみられる骨折型はどれか。",
         "choices": [
@@ -1163,7 +1163,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 184,
         "question": "腓骨頭骨折の後で足関節と足指の伸展が障害された。最も考えられる合併症はどれか。",
         "choices": [
@@ -1177,7 +1177,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 185,
         "question": "スポーツ障害で最も起こりにくいのはどれか。",
         "choices": [
@@ -1191,7 +1191,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 186,
         "question": "膝蓋骨側方脱臼で正しいのはどれか。",
         "choices": [
@@ -1205,7 +1205,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 187,
         "question": "距腿関節脱臼の症状で誤っているのはどれか。",
         "choices": [
@@ -1219,7 +1219,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 188,
         "question": "図のトーマステスト（Thomas test）でみられる拘縮はどれか。",
         "choices": [
@@ -1233,7 +1233,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 189,
         "question": "膝半月損傷で誤っているのはどれか。",
         "choices": [
@@ -1247,7 +1247,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 190,
         "question": "アキレス腱断裂の好発部位はどれか。",
         "choices": [
@@ -1261,7 +1261,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 191,
         "question": "前距腓靭帯損傷時の圧痛点はどれか。",
         "choices": [
@@ -1275,7 +1275,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 192,
         "question": "肩関節前方脱臼後、肩関節自動外転力が弱く、感覚脱失領域が確認された。考えられる神経損傷はどれか。",
         "choices": [
@@ -1289,7 +1289,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 193,
         "question": "肘外傷後、母指と示指の屈曲不能、中指の屈曲力低下があった。考えられる神経損傷はどれか。",
         "choices": [
@@ -1303,7 +1303,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 194,
         "question": "第5中手骨骨折の整復後、適切な固定肢位はどれか。",
         "choices": [
@@ -1317,7 +1317,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 195,
         "question": "腎透析患者で母指球萎縮、対立障害、手掌母指側の疼痛としびれ。考えられる障害はどれか。",
         "choices": [
@@ -1331,7 +1331,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 196,
         "question": "母指の屈伸運動時に疼痛とひっかかり感、腫瘤状の膨隆。最も考えられる障害はどれか。",
         "choices": [
@@ -1345,7 +1345,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 197,
         "question": "11歳の肥満児、柔道中の転倒後、大腿部から膝部にかけての運動痛と股関節内旋時痛。考えられるのはどれか。",
         "choices": [
@@ -1359,7 +1359,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 198,
         "question": "膝の前内側部の圧痛と運動痛、外転運動で激痛、脛骨前方への動揺性。考えられる損傷部位はどれか。",
         "choices": [
@@ -1373,7 +1373,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 199,
         "question": "内側側副靭帯損傷後の初期管理で誤っているのはどれか。",
         "choices": [
@@ -1387,7 +1387,7 @@
     },
     {
         "year": 2000,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 200,
         "question": "足底放散痛、感覚異常、第3・4中足骨骨頭足底部に微小な腫瘤と圧痛。最も考えられる疾患はどれか。",
         "choices": [

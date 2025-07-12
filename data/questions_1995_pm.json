@@ -690,6 +690,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 151,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -701,6 +703,8 @@
         "answer": 3
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 152,
         "question": "骨折治癒の障害となるのはどれか。",
         "choices": [
@@ -712,6 +716,8 @@
         "answer": 0
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 153,
         "question": "正しいのはどれか。",
         "choices": [
@@ -723,6 +729,8 @@
         "answer": 0
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 154,
         "question": "脱臼の症状について正しいのはどれか。　ａ．異常可動性がある。　ｂ．弾発性固定がある。　ｃ．関節腔が空虚になる。　ｄ．関節血腫は生じない。",
         "choices": [
@@ -734,6 +742,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 155,
         "question": "誤っているのはどれか。",
         "choices": [
@@ -745,6 +755,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 156,
         "question": "外傷性脱臼の部位別頻度の第2位はどれか。",
         "choices": [
@@ -756,6 +768,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 157,
         "question": "誤っているのはどれか。",
         "choices": [
@@ -767,6 +781,8 @@
         "answer": 0
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 158,
         "question": "肩甲骨骨折について誤っているのはどれか。",
         "choices": [
@@ -778,6 +794,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 159,
         "question": "定型的鎖骨骨折について誤っているのはどれか。　ａ．中枢骨片は前上方に転位する。　ｂ．鎖骨の中1/3と外1/3との境界部で骨折する。　ｃ．骨片は大胸筋の緊張により転位する。　ｄ．肩鎖靱帯が断裂すると骨癒合が遷延する。",
         "choices": [
@@ -789,6 +807,8 @@
         "answer": 1
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 160,
         "question": "上腕骨上端部の骨折について正しいのはどれか。",
         "choices": [
@@ -800,6 +820,8 @@
         "answer": 1
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 161,
         "question": "上腕骨外科頸骨折について誤っているのはどれか。",
         "choices": [
@@ -811,6 +833,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 162,
         "question": "上腕骨骨幹部骨折について正しいのはどれか。",
         "choices": [
@@ -822,6 +846,8 @@
         "answer": 3
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 163,
         "question": "上腕骨顆上骨折について正しい組合せはどれか。",
         "choices": [
@@ -833,6 +859,8 @@
         "answer": 1
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 164,
         "question": "上腕骨顆上骨折について誤っているのはどれか。",
         "choices": [
@@ -844,6 +872,8 @@
         "answer": 1
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 165,
         "question": "上腕骨顆部骨折で正しいのはどれか。",
         "choices": [
@@ -858,6 +888,8 @@
         ]
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 166,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -869,6 +901,8 @@
         "answer": 1
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 167,
         "question": "肘頭骨折について正しいのはどれか。",
         "choices": [
@@ -880,6 +914,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 168,
         "question": "橈骨骨幹部単独骨折の転位について誤っているのはどれか。",
         "choices": [
@@ -891,6 +927,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 169,
         "question": "定型的橈骨下端骨折について正しいのはどれか。",
         "choices": [
@@ -902,6 +940,8 @@
         "answer": 0
     },
     {
+        "year": 1995,
+        "subject": "柔道整復理論",
         "questionNumber": 170,
         "question": "中手骨骨折の転位について正しい組合せはどれか。",
         "choices": [
@@ -914,7 +954,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 171,
         "question": "見逃しやすい手部の骨折はどれか。",
         "choices": [
@@ -928,7 +968,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 172,
         "question": "槌指について正しいのはどれか。",
         "choices": [
@@ -942,7 +982,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 173,
         "question": "手の舟状骨骨折について誤っているのはどれか。",
         "choices": [
@@ -956,7 +996,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 174,
         "question": "月状骨脱臼について正しいのはどれか。",
         "choices": [
@@ -970,7 +1010,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 175,
         "question": "脊椎の脱臼骨折の好発部位はどれか。　ａ．下部頸椎　ｂ．上部胸椎　ｃ．仙椎　ｄ．胸腰椎移行部",
         "choices": [
@@ -984,7 +1024,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 176,
         "question": "顎関節脱臼について正しいのはどれか。",
         "choices": [
@@ -998,7 +1038,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 177,
         "question": "肩鎖関節脱臼について誤っているのはどれか。",
         "choices": [
@@ -1012,7 +1052,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 178,
         "question": "肩関節脱臼の整復法について誤っている組合せはどれか。",
         "choices": [
@@ -1026,7 +1066,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 179,
         "question": "肩関節脱臼について誤っているのはどれか。",
         "choices": [
@@ -1040,7 +1080,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 180,
         "question": "肘関節後方脱臼について正しいのはどれか。",
         "choices": [
@@ -1054,7 +1094,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 181,
         "question": "肘関節脱臼について誤っているのはどれか。",
         "choices": [
@@ -1068,7 +1108,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 182,
         "question": "手部の脱臼について正しいのはどれか。",
         "choices": [
@@ -1082,7 +1122,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 183,
         "question": "ルドロフ（Ludloff）症候に関係するのはどれか。",
         "choices": [
@@ -1096,7 +1136,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 184,
         "question": "大腿骨骨幹部骨折（中1/3）の定型的転位について正しいのはどれか。［中枢片］［末梢片］",
         "choices": [
@@ -1110,7 +1150,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 185,
         "question": "下腿骨骨幹部骨折の後遺症でないのはどれか。",
         "choices": [
@@ -1124,7 +1164,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 186,
         "question": "踵骨骨折の分類でないのはどれか。",
         "choices": [
@@ -1138,7 +1178,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 187,
         "question": "外傷性股関節後方脱臼でみられないのはどれか。",
         "choices": [
@@ -1152,7 +1192,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 188,
         "question": "外傷性股関節後方脱臼について正しいのはどれか。　ａ．大転子はローゼル・ネラトン線より高位となる。　ｂ．大腿骨頭靭帯の断裂を伴う。　ｃ．下肢は伸展、内転、内旋位を呈する。　ｄ．変形は坐骨脱臼よりも腸骨脱臼が著名である。",
         "choices": [
@@ -1166,7 +1206,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 189,
         "question": "外傷性膝関節前方脱臼について正しいのはどれか。",
         "choices": [
@@ -1180,7 +1220,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 190,
         "question": "膝窩動脈損傷で拍動を調べるのに適切な動脈はどれか。",
         "choices": [
@@ -1194,7 +1234,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 191,
         "question": "習慣性膝蓋骨脱臼の発生要因はどれか。",
         "choices": [
@@ -1208,7 +1248,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 192,
         "question": "習慣性膝蓋骨脱臼の症状でないのはどれか。",
         "choices": [
@@ -1222,7 +1262,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 193,
         "question": "外傷性足関節脱臼の分類でないのはどれか。",
         "choices": [
@@ -1236,7 +1276,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 194,
         "question": "関節の捻挫について正しいのはどれか。",
         "choices": [
@@ -1250,7 +1290,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 195,
         "question": "捻挫について誤っているのはどれか。",
         "choices": [
@@ -1264,7 +1304,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 196,
         "question": "膝部外傷について誤っている組合せはどれか。",
         "choices": [
@@ -1278,7 +1318,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 197,
         "question": "足関節捻挫の初期治療で誤っているのはどれか。",
         "choices": [
@@ -1292,7 +1332,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 198,
         "question": "前距腓靭帯の断裂を示すのはどれか。　ａ．足関節の前方引き出し徴候　ｂ．足関節の過剰背屈性　ｃ．足関節の外旋動揺性　ｄ．外果前方の限局した圧痛",
         "choices": [
@@ -1306,7 +1346,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 199,
         "question": "5歳の女児。手掌をついて転倒した。肘関節部に変形をきたし、疼痛、腫脹共に著明であった。ヒューター線に異常はなかった。応急処置の整復として正しいのはどれか。",
         "choices": [
@@ -1320,7 +1360,7 @@
     },
     {
         "year": 1995,
-        "subject": "柔道整復学",
+        "subject": "柔道整復理論",
         "questionNumber": 200,
         "question": "55歳の女性。5年前に右肩関節周囲炎の既往がある。約1か月前に階段を踏みはずし右肩を強打した。以来、運動痛、夜間痛が持続している。肩関節は他動的に挙上可能であるが、自動的には外側挙上は45度までにとどまる。最も考えられる疾患名はどれか。",
         "choices": [
