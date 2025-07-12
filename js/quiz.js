@@ -76,13 +76,25 @@ function renderQuiz(questions) {
     const qDiv = document.createElement("div");
     qDiv.className = "question-block";
 
-    const title = document.createElement("h2");
     const examNum = getExamNumber(q.year);
     const sessionLabel = getSessionLabel(q.session);
     const questionNo = q.questionNumber || index + 1;
 
-    title.textContent = `【問${questionNo}】 ${q.question}（${q.year}年・${examNum}・問${questionNo}・${q.subject}）`;
+    // ------- タイトル構造を分離 -------
+    const title = document.createElement("h2");
+
+    const questionText = document.createElement("span");
+    questionText.className = "question-main";
+    questionText.textContent = `【問${questionNo}】 ${q.question}`;
+
+    const metaText = document.createElement("div");
+    metaText.className = "question-meta";
+    metaText.textContent = `（${q.year}年・${examNum}・問${questionNo}・${Array.isArray(q.subject) ? q.subject.join("／") : q.subject}）`;
+
+    title.appendChild(questionText);
+    title.appendChild(metaText);
     qDiv.appendChild(title);
+    // -----------------------------------
 
     const shuffledChoices = shuffleArray(
       q.choices.map((choice, i) => ({ choice, originalIndex: i }))
@@ -92,7 +104,6 @@ function renderQuiz(questions) {
     const correctAnswers = isMultiAnswer ? q.answer.slice().sort() : [q.answer];
 
     if (isMultiAnswer) {
-      // 複数選択ボタンに変更
       const choiceButtons = [];
 
       shuffledChoices.forEach(({ choice, originalIndex }) => {
@@ -104,15 +115,9 @@ function renderQuiz(questions) {
         btn.onclick = () => {
           if (qDiv.dataset.answered) return;
 
-          // 選択状態をトグル
           const selected = btn.dataset.selected === "true";
-          if (selected) {
-            btn.dataset.selected = "false";
-            btn.classList.remove("selected");
-          } else {
-            btn.dataset.selected = "true";
-            btn.classList.add("selected");
-          }
+          btn.dataset.selected = selected ? "false" : "true";
+          btn.classList.toggle("selected", !selected);
         };
 
         qDiv.appendChild(btn);
@@ -122,8 +127,6 @@ function renderQuiz(questions) {
       const submitBtn = document.createElement("button");
       submitBtn.type = "button";
       submitBtn.textContent = "決定";
-
-      // スタイル追加
       submitBtn.style.backgroundColor = "green";
       submitBtn.style.fontWeight = "bold";
       submitBtn.style.color = "white";
@@ -149,7 +152,6 @@ function renderQuiz(questions) {
           : `❌ 不正解。正解は「${correctAnswers.map(i => q.choices[i]).join("・")}」`;
         qDiv.appendChild(feedback);
 
-        // ボタンと決定ボタン無効化
         choiceButtons.forEach(({ btn }) => {
           btn.disabled = true;
           btn.classList.remove("selected");
@@ -160,9 +162,7 @@ function renderQuiz(questions) {
       };
 
       qDiv.appendChild(submitBtn);
-    }
-    else {
-      // ✅ 単一回答（ボタン）
+    } else {
       shuffledChoices.forEach(({ choice, originalIndex }) => {
         const btn = document.createElement("button");
         btn.textContent = choice;
@@ -203,6 +203,7 @@ function renderQuiz(questions) {
     container.appendChild(qDiv);
   });
 }
+
 
 async function loadQuiz() {
   try {

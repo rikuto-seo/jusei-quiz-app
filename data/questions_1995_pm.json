@@ -560,6 +560,8 @@
         "tags": []
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 141,
         "question": "脳性麻痺について誤っているのはどれか。",
         "choices": [
@@ -571,6 +573,8 @@
         "answer": 0
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 142,
         "question": "廃用症候群に含まれないのはどれか。",
         "choices": [
@@ -582,6 +586,8 @@
         "answer": 1
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 143,
         "question": "国際的障害分類と解決方法との組合せで誤っているのはどれか。",
         "choices": [
@@ -593,6 +599,8 @@
         "answer": 1
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 144,
         "question": "運動失調の検査法でないのはどれか。",
         "choices": [
@@ -604,6 +612,8 @@
         "answer": 2
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 145,
         "question": "他動運動可動域の制限が起こらないのはどれか。",
         "choices": [
@@ -615,6 +625,8 @@
         "answer": 3
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 146,
         "question": "運動療法の対象とならないのはどれか。",
         "choices": [
@@ -626,6 +638,8 @@
         "answer": 3
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 147,
         "question": "運動と筋力レベル（徒手筋力テスト）との組合せで誤っているのはどれか。",
         "choices": [
@@ -637,6 +651,8 @@
         "answer": 0
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 148,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -648,6 +664,8 @@
         "answer": 1
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 149,
         "question": "物理療法について誤っているのはどれか。",
         "choices": [
@@ -659,6 +677,8 @@
         "answer": 0
     },
     {
+        "year": 1995,
+        "subject": "リハビリテーション医学",
         "questionNumber": 150,
         "question": "身体障害者福祉法で交付されるのはどれか。",
         "choices": [
