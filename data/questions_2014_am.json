@@ -494,6 +494,7 @@
         "subject": "解剖学",
         "questionNumber": 36,
         "question": "図中の矢印の部位を起始とする筋はどれか。",
+        "questionImages": ["images/quiz/2014_1_q36.png"],
         "choices": [
             "大腿二頭筋短頭",
             "大腿直筋",

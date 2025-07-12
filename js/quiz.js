@@ -80,6 +80,19 @@ function renderQuiz(questions) {
     const sessionLabel = getSessionLabel(q.session);
     const questionNo = q.questionNumber || index + 1;
 
+    // ------- 問題文上部の画像表示 -------
+    if (Array.isArray(q.questionImages)) {
+      q.questionImages.forEach(src => {
+        const img = document.createElement("img");
+        img.src = src;
+        img.alt = "問題画像";
+        img.style.display = "block";
+        img.style.maxWidth = "100%";
+        img.style.marginBottom = "0.5em";
+        qDiv.appendChild(img);
+      });
+    }
+
     // ------- タイトル構造を分離 -------
     const title = document.createElement("h2");
 
@@ -94,7 +107,6 @@ function renderQuiz(questions) {
     title.appendChild(questionText);
     title.appendChild(metaText);
     qDiv.appendChild(title);
-    // -----------------------------------
 
     const shuffledChoices = shuffleArray(
       q.choices.map((choice, i) => ({ choice, originalIndex: i }))
@@ -111,6 +123,18 @@ function renderQuiz(questions) {
         btn.type = "button";
         btn.textContent = choice;
         btn.dataset.selected = "false";
+
+        const choiceImage = q.choiceImages?.[originalIndex];
+        if (choiceImage) {
+          const img = document.createElement("img");
+          img.src = choiceImage;
+          img.alt = "選択肢画像";
+          img.style.display = "block";
+          img.style.maxWidth = "100%";
+          img.style.marginTop = "0.3em";
+          btn.appendChild(document.createElement("br"));
+          btn.appendChild(img);
+        }
 
         btn.onclick = () => {
           if (qDiv.dataset.answered) return;
@@ -167,6 +191,18 @@ function renderQuiz(questions) {
         const btn = document.createElement("button");
         btn.textContent = choice;
 
+        const choiceImage = q.choiceImages?.[originalIndex];
+        if (choiceImage) {
+          const img = document.createElement("img");
+          img.src = choiceImage;
+          img.alt = "選択肢画像";
+          img.style.display = "block";
+          img.style.maxWidth = "100%";
+          img.style.marginTop = "0.3em";
+          btn.appendChild(document.createElement("br"));
+          btn.appendChild(img);
+        }
+
         btn.onclick = () => {
           if (qDiv.dataset.answered) return;
           qDiv.dataset.answered = "true";
@@ -204,7 +240,6 @@ function renderQuiz(questions) {
   });
 }
 
-
 async function loadQuiz() {
   try {
     const session = params.get("session");
@@ -212,7 +247,6 @@ async function loadQuiz() {
     const paths = [];
 
     if (filter.year) {
-      // 年度指定あり：その年だけ
       if (session === "am" || session === "pm") {
         paths.push(`data/questions_${filter.year}_${session}.json`);
       } else {
@@ -220,7 +254,6 @@ async function loadQuiz() {
         paths.push(`data/questions_${filter.year}_pm.json`);
       }
     } else {
-      // 年度指定なし：全年度（1993年～現在）を対象に読み込み
       const currentYear = new Date().getFullYear();
       for (let y = 1993; y <= currentYear; y++) {
         if (session === "am" || session === "pm") {
@@ -239,7 +272,7 @@ async function loadQuiz() {
           return res.json();
         })
         .catch(err => {
-          console.warn(err.message); // 存在しないファイルは警告だけ出してスキップ
+          console.warn(err.message);
           return [];
         })
     );
@@ -259,4 +292,10 @@ async function loadQuiz() {
       alert("quiz-containerが見つかりません");
     }
   }
+}
+
+function updateFilter(newFilter) {
+  filter = { ...filter, ...newFilter };
+  const filtered = filterQuestions();
+  renderQuiz(filtered);
 }
