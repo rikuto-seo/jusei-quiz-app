@@ -65,6 +65,34 @@ function showResult() {
   resultDiv.textContent = `正答数: ${correctCount} / ${answeredCount} 問`;
 }
 
+function showImageModal(imageSources) {
+  const overlay = document.createElement("div");
+  overlay.className = "image-overlay";
+
+  const modal = document.createElement("div");
+  modal.className = "image-modal";
+
+  imageSources.forEach(src => {
+    const img = document.createElement("img");
+    img.src = src;
+    img.alt = "問題画像";
+    img.style.maxWidth = "100%";
+    img.style.maxHeight = "80vh";
+    img.style.marginBottom = "1em";
+    modal.appendChild(img);
+  });
+
+  const closeBtn = document.createElement("button");
+  closeBtn.textContent = "閉じる";
+  closeBtn.onclick = () => overlay.remove();
+  closeBtn.style.marginTop = "1em";
+  closeBtn.style.padding = "0.5em 1em";
+  modal.appendChild(closeBtn);
+
+  overlay.appendChild(modal);
+  document.body.appendChild(overlay);
+}
+
 function renderQuiz(questions) {
   const container = document.getElementById("quiz-container");
   container.innerHTML = "";
@@ -80,20 +108,14 @@ function renderQuiz(questions) {
     const sessionLabel = getSessionLabel(q.session);
     const questionNo = q.questionNumber || index + 1;
 
-    // ------- 問題文上部の画像表示 -------
     if (Array.isArray(q.questionImages)) {
-      q.questionImages.forEach(src => {
-        const img = document.createElement("img");
-        img.src = src;
-        img.alt = "問題画像";
-        img.style.display = "block";
-        img.style.maxWidth = "100%";
-        img.style.marginBottom = "0.5em";
-        qDiv.appendChild(img);
-      });
+      const button = document.createElement("button");
+      button.textContent = "画像を見る";
+      button.style.marginBottom = "0.5em";
+      button.onclick = () => showImageModal(q.questionImages);
+      qDiv.appendChild(button);
     }
 
-    // ------- タイトル構造を分離 -------
     const title = document.createElement("h2");
 
     const questionText = document.createElement("span");
@@ -126,19 +148,17 @@ function renderQuiz(questions) {
 
         const choiceImage = q.choiceImages?.[originalIndex];
         if (choiceImage) {
-          const img = document.createElement("img");
-          img.src = choiceImage;
-          img.alt = "選択肢画像";
-          img.style.display = "block";
-          img.style.maxWidth = "100%";
-          img.style.marginTop = "0.3em";
+          const imgBtn = document.createElement("button");
+          imgBtn.textContent = "画像を見る";
+          imgBtn.style.display = "block";
+          imgBtn.style.marginTop = "0.3em";
+          imgBtn.onclick = () => showImageModal([choiceImage]);
           btn.appendChild(document.createElement("br"));
-          btn.appendChild(img);
+          btn.appendChild(imgBtn);
         }
 
         btn.onclick = () => {
           if (qDiv.dataset.answered) return;
-
           const selected = btn.dataset.selected === "true";
           btn.dataset.selected = selected ? "false" : "true";
           btn.classList.toggle("selected", !selected);
@@ -193,14 +213,13 @@ function renderQuiz(questions) {
 
         const choiceImage = q.choiceImages?.[originalIndex];
         if (choiceImage) {
-          const img = document.createElement("img");
-          img.src = choiceImage;
-          img.alt = "選択肢画像";
-          img.style.display = "block";
-          img.style.maxWidth = "100%";
-          img.style.marginTop = "0.3em";
+          const imgBtn = document.createElement("button");
+          imgBtn.textContent = "画像を見る";
+          imgBtn.style.display = "block";
+          imgBtn.style.marginTop = "0.3em";
+          imgBtn.onclick = () => showImageModal([choiceImage]);
           btn.appendChild(document.createElement("br"));
-          btn.appendChild(img);
+          btn.appendChild(imgBtn);
         }
 
         btn.onclick = () => {
