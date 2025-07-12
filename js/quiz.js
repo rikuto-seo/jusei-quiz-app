@@ -1,5 +1,14 @@
 window.addEventListener("DOMContentLoaded", () => {
   loadQuiz();
+
+  const overlay = document.getElementById("image-overlay");
+  if (overlay) {
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay || e.target.classList.contains("close-button")) {
+        overlay.style.display = "none";
+      }
+    });
+  }
 });
 
 let allQuestions = [];
@@ -108,12 +117,25 @@ function renderQuiz(questions) {
     const sessionLabel = getSessionLabel(q.session);
     const questionNo = q.questionNumber || index + 1;
 
-    if (Array.isArray(q.questionImages)) {
-      const button = document.createElement("button");
-      button.textContent = "画像を見る";
-      button.style.marginBottom = "0.5em";
-      button.onclick = () => showImageModal(q.questionImages);
-      qDiv.appendChild(button);
+    // ------- 問題文上部の画像表示（ポップアップ対応） -------
+    if (Array.isArray(q.questionImages) && q.questionImages.length > 0) {
+      const btn = document.createElement("button");
+      btn.textContent = "画像を見る";
+      btn.className = "image-button";
+      btn.style.marginBottom = "0.5em";
+      btn.onclick = () => {
+        const overlay = document.getElementById("image-overlay");
+        const content = document.getElementById("image-modal-content");
+        content.innerHTML = "";
+        q.questionImages.forEach(src => {
+          const img = document.createElement("img");
+          img.src = src;
+          img.alt = "問題画像";
+          content.appendChild(img);
+        });
+        overlay.style.display = "flex";
+      };
+      qDiv.appendChild(btn);
     }
 
     const title = document.createElement("h2");
