@@ -281,7 +281,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 121,
         "question": "消毒・滅菌法について誤っているのはどれか。",
         "choices": [
@@ -295,7 +295,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 122,
         "question": "局所麻酔法でないのはどれか。",
         "choices": [
@@ -309,7 +309,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 123,
         "question": "止血法について誤っているのはどれか。",
         "choices": [
@@ -323,7 +323,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 124,
         "question": "ショックについて正しいのはどれか。",
         "choices": [
@@ -337,7 +337,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 125,
         "question": "創傷について正しいのはどれか。",
         "choices": [
@@ -351,7 +351,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 126,
         "question": "外科的感染症と原因菌との組合せで誤っているのはどれか。",
         "choices": [
@@ -365,7 +365,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 127,
         "question": "頭部外傷について正しいのはどれか。",
         "choices": [
@@ -379,7 +379,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 128,
         "question": "正しい組合せはどれか。",
         "choices": [
@@ -393,7 +393,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 129,
         "question": "交通外傷による腹部鈍的損傷で正しいのはどれか。",
         "choices": [
@@ -407,7 +407,7 @@
     },
     {
         "year": 1996,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 130,
         "question": "胸・腹部複合型外傷で優先して行う処置はどれか。　ａ．気道確保　ｂ．血管確保　ｃ．創部清浄化　ｄ．骨折部処置",
         "choices": [

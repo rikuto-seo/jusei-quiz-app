@@ -632,7 +632,7 @@
     },
     {
         "year": 2008,
-        "subject": "一般臨床医学",
+        "subject": ["一般臨床医学","外科学概論"],
         "questionNumber": 165,
         "question": "腺癌はどれか。",
         "choices": [
@@ -646,7 +646,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 166,
         "question": "麻酔に使用しないのはどれか。",
         "choices": [
@@ -660,7 +660,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 167,
         "question": "同系移植で正しいのはどれか。",
         "choices": [
@@ -674,7 +674,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 168,
         "question": "救急蘇生術のＡＢＣで、誤りはどれか。",
         "choices": [
@@ -688,7 +688,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 169,
         "question": "自動体外式除細動器（ＡＥＤ）の使用上、誤りはどれか。",
         "choices": [
@@ -702,7 +702,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 170,
         "question": "74歳男性。階段で転落し頭部打撲。受傷時、神経学的検査、頭部ＣＴ検査で異常所見を認めなかったが、2ヵ月後歩行がふらつき、尿失禁がみられた。考えられる病態はどれか。",
         "choices": [
@@ -716,7 +716,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 171,
         "question": "交通事故による多発外傷で、誤っている組み合わせはどれか。",
         "choices": [
@@ -730,7 +730,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 172,
         "question": "脳死判定基準として、誤りはどれか。",
         "choices": [
@@ -744,7 +744,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 173,
         "question": "Ｊａｃｋｓｏｎ（ジャクソン）型痙攣発作と関係するのはどれか。",
         "choices": [
@@ -758,7 +758,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 174,
         "question": "腹腔内遊離ガス像を認めるのはどれか。",
         "choices": [
@@ -772,7 +772,7 @@
     },
     {
         "year": 2008,
-        "subject": "柔道整復学",
+        "subject": "外科学概論",
         "questionNumber": 175,
         "question": "軟骨無形成症について、正しいのはどれか。2つ選べ",
         "choices": [

@@ -640,7 +640,7 @@
     },
     {
         "year": 2023,
-        "subject": "外傷学",
+        "subject": "外科学概論",
         "questionNumber": 174,
         "question": "創傷分類と説明の組合せで誤っているのはどれか",
         "choices": [
@@ -654,7 +654,7 @@
     },
     {
         "year": 2023,
-        "subject": "感染症学",
+        "subject": "外科学概論",
         "questionNumber": 175,
         "question": "蜂窩織炎の症状で誤っているのはどれか。",
         "choices": [
@@ -668,7 +668,7 @@
     },
     {
         "year": 2023,
-        "subject": "感染症学",
+        "subject": "外科学概論",
         "questionNumber": 176,
         "question": "感染症で誤っているのはどれか。",
         "choices": [
@@ -682,7 +682,7 @@
     },
     {
         "year": 2023,
-        "subject": "救急医学",
+        "subject": "外科学概論",
         "questionNumber": 177,
         "question": "ショックと原因の組合せで正しいのはどれか。",
         "choices": [
@@ -696,7 +696,7 @@
     },
     {
         "year": 2023,
-        "subject": "輸血医学",
+        "subject": "外科学概論",
         "questionNumber": 178,
         "question": "輸血の副作用で正しいのはどれか。",
         "choices": [
@@ -710,7 +710,7 @@
     },
     {
         "year": 2023,
-        "subject": "消毒・滅菌学",
+        "subject": "外科学概論",
         "questionNumber": 179,
         "question": "消毒と滅菌で誤っているのはどれか。",
         "choices": [
@@ -724,7 +724,7 @@
     },
     {
         "year": 2023,
-        "subject": "外科",
+        "subject": "外科学概論",
         "questionNumber": 180,
         "question": "外出血の部位と症候の組合せで誤っているのはどれか。",
         "choices": [
@@ -738,7 +738,7 @@
     },
     {
         "year": 2023,
-        "subject": "救急医学",
+        "subject": "外科学概論",
         "questionNumber": 181,
         "question": "成人に対する胸骨圧迫心臓マッサージのテンポで適切なのはどれか。",
         "choices": [
@@ -752,7 +752,7 @@
     },
     {
         "year": 2023,
-        "subject": "脳神経内科",
+        "subject": "外科学概論",
         "questionNumber": 182,
         "question": "心原性脳塞栓症の治療に続いて起こり得るのはどれか。",
         "choices": [
@@ -766,7 +766,7 @@
     },
     {
         "year": 2023,
-        "subject": "外傷学",
+        "subject": "外科学概論",
         "questionNumber": 183,
         "question": "胸部外傷で正しいのはどれか。",
         "choices": [
@@ -780,7 +780,7 @@
     },
     {
         "year": 2023,
-        "subject": "スポーツ医学",
+        "subject": "外科学概論",
         "questionNumber": 184,
         "question": "20歳の男性。大学でラグビー部に所属している。練習中、グランドに激しく頭をぶつけて10秒間の意識消失を起こした。1時間後には症状は何もなかった。 正しいのはどれか。",
         "choices": [
