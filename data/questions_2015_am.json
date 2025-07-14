@@ -494,6 +494,7 @@
         "subject": "解剖学",
         "questionNumber": 36,
         "question": "図中の矢印の部位に停止する筋はどれか。",
+        "questionImages": ["images/quiz/2015_1_q36.png"],
         "choices": [
             "上腕二頭筋",
             "烏口腕筋",
@@ -1530,6 +1531,7 @@
         "subject": "衛生学・公衆衛生学",
         "questionNumber": 110,
         "question": "図は1981~2011年の循環器系、呼吸器系、消化器系、筋骨格系の各疾患の外来受療率(人口10万対)を示す。消化器系疾患はどれか。",
+        "questionImages": ["images/quiz/2015_1_q110.png"],
         "choices": [
             "a",
             "b",

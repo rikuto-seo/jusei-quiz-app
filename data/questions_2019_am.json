@@ -466,6 +466,7 @@
         "subject": "解剖学",
         "questionNumber": 34,
         "question": "頭蓋底の孔あるいは裂で正しいのはどれか。",
+        "questionImages": ["images/quiz/2019_1_q34.png"],
         "choices": [
             "aは角膜の感覚に関わる神経が通る。",
             "bは眼球運動に関わる神経が通る。",
@@ -774,6 +775,7 @@
         "subject": "解剖学",
         "questionNumber": 56,
         "question": "鳥口腕筋を貫き、上腕の屈筋群を支配するのはどれか。",
+        "questionImages": ["images/quiz/2019_1_q56.png"],
         "choices": [
             "a",
             "b",

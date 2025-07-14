@@ -704,6 +704,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 151,
         "question": "屈曲転位はどれか。",
+        "questionImages": ["images/quiz/1999_2_q151.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -716,6 +717,7 @@
     {
         "year": 1999,
         "subject": "柔道整復理論",
+        "questionImages": ["images/quiz/1999_2_q152.png"],
         "questionNumber": 152,
         "question": "無腐性骨壊死を起こすのはどれか。",
         "choices": [
@@ -1010,6 +1012,7 @@
     {
         "year": 1999,
         "subject": "柔道整復理論",
+        "questionImages": ["images/quiz/1999_2_q173.png"],
         "questionNumber": 173,
         "question": "舟状骨骨折の圧痛点はどれか。",
         "choices": [

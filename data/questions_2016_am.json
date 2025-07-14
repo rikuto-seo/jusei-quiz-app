@@ -480,6 +480,7 @@
         "subject": "解剖学",
         "questionNumber": 35,
         "question": "写真(別冊No.1)を別に示す。矢印で示す部位はどれか。",
+        "questionImages": ["images/quiz/2016_1_q35.png"],
         "choices": [
             "岬角",
             "恥骨結節",
@@ -732,6 +733,7 @@
         "subject": "解剖学",
         "questionNumber": 53,
         "question": "写真(別冊No.2)を別に示す。尾状核はどれか。",
+        "questionImages": ["images/quiz/2016_1_q53.png"],
         "choices": [
             "a",
             "b",
@@ -1558,6 +1560,7 @@
         "subject": "衛生学・公衆衛生学",
         "questionNumber": 112,
         "question": "図のa、b、c、dはわが国の全死亡者に対する悪性新生物、心疾患、脳血管疾患、肺炎による死亡者の占める割合の推移を示す。脳血管疾患はどれか。",
+        "questionImages": ["images/quiz/2016_1_q112.png"],
         "choices": [
             "a",
             "b",

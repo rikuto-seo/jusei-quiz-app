@@ -962,6 +962,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 197,
         "question": "高所から転落した患者の単純エックス線像(別冊 No. 1)を別に示す。合併症で考えられないのはどれか。",
+        "questionImages": ["images/quiz/2022_2_q197.png"],
         "choices": [
             "椎体圧迫骨折",
             "複合性局所疼痛症候群タイプI",
@@ -1102,6 +1103,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 207,
         "question": "前腕屈筋の牽引で発生する骨折はどれか。",
+        "questionImages": ["images/quiz/2022_2_q207.png"],
         "choices": [
             "1",
             "2",
@@ -1203,6 +1205,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 214,
         "question": "図に示した機序で生じるのはどれか。2つ選べ。",
+        "questionImages": ["images/quiz/2022_2_q214.png"],
         "choices": [
             "チロー(Tillaux)骨折",
             "腓骨裂離骨折",
@@ -1248,6 +1251,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 217,
         "question": "肩鎖関節上方脱臼の発生で外力が加わる部位はどれか。",
+        "questionImages": ["images/quiz/2022_2_q217.png"],
         "choices": [
             "a",
             "b",
@@ -1444,6 +1448,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 231,
         "question": "80歳の女性。玄関で転倒し手を衝き左手首が変形したため来所した。別に外観写真(別冊 No.3 a、b)と手関節背側より長軸方向を観察した超音波画像(別冊 No. 3 c)を示す。施術する際の注意点で誤っているのはどれか。",
+        "questionImages": ["images/quiz/2022_2_q231.png"],
         "choices": [
             "全身状態を確認する。",
             "解剖学的治癒を主眼に置く。",
@@ -1685,6 +1690,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 248,
         "question": "45歳の男性。フットサル中、左下腿下部後面に蹴られたような痛みを自覚し、翌日来所した。来所時の写真を別に示す。本人の希望によって保存的に施術することにした。固定肢位はどれか。",
+        "questionImages": ["images/quiz/2022_2_q248.png"],
         "choices": [
             "膝関節伸展、足関節背屈",
             "膝関節伸展、足関節底屈",
@@ -1699,6 +1705,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 249,
         "question": "20歳の男性。柔道の乱取り中、右足部外返しで踏ん張った際、足関節部の疼痛を自覚し来所した。圧痛部を別に示す。足関節を他動的に背屈、外旋させると疼痛が増強した。考えられるのはどれか。",
+        "questionImages": ["images/quiz/2022_2_q249.png"],
         "choices": [
             "前距腓靭帯損傷",
             "二分靭帯損傷",

@@ -760,6 +760,7 @@
         "subject": "解剖学",
         "questionNumber": 55,
         "question": "骨盤の右正中断面を図に示す。真結合線はどれか。",
+        "questionImages": ["images/quiz/2023_1_q55.png"],
         "choices": [
             "1",
             "2",
@@ -788,6 +789,7 @@
         "subject": "解剖学",
         "questionNumber": 57,
         "question": "右寛骨を内側から見た図を示す。縫工筋の起始はどれか。",
+        "questionImages": ["images/quiz/2023_1_q57.png"],
         "choices": [
             "1",
             "2",

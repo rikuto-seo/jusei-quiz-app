@@ -578,6 +578,7 @@
         "subject": "生理学",
         "questionNumber": 42,
         "question": "肺容積区分を図に示す。正しい組合せはどれか。",
+        "questionImages": ["images/quiz/2005_1_q42.png"],
         "choices": [
             "予備呼気量　　───　ｄ",
             "機能的残気量　───　ｃ＋ｄ",
@@ -606,6 +607,7 @@
         "subject": "生理学",
         "questionNumber": 44,
         "question": "チェーン・ストークス呼吸を示すのはどれか。",
+        "questionImages": ["images/quiz/2005_1_q44.png"],
         "choices": [
             "画像1",
             "画像2",

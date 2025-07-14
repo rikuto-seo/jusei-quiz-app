@@ -774,6 +774,7 @@
         "subject": "解剖学",
         "questionNumber": 56,
         "question": "写真(別冊No.1)を別に示す。橈骨神経溝はどれか。",
+        "questionImages": ["images/quiz/2021_1_q56.png"],
         "choices": [
             "1",
             "2",
@@ -1026,6 +1027,7 @@
         "subject": "解剖学",
         "questionNumber": 74,
         "question": "舌筋の支配神経はどれか。",
+        "questionImages": ["images/quiz/2021_1_q74.png"],
         "choices": [
             "1",
             "2",
@@ -1180,6 +1182,7 @@
         "subject": "生理学",
         "questionNumber": 85,
         "question": "図の心電図の矢印が示す波形が反映するのはどれか。",
+        "questionImages": ["images/quiz/2021_1_q85.png"],
         "choices": [
             "心房の脱分極",
             "心房の再分極",

@@ -886,6 +886,7 @@
         "subject": "解剖学",
         "questionNumber": 64,
         "question": "腹壁の模式図を示す。虫垂の基部を反映するのはどれか。",
+        "questionImages": ["images/quiz/2024_1_q64.png"],
         "choices": [
             "1",
             "2",
@@ -998,6 +999,7 @@
         "subject": "解剖学",
         "questionNumber": 72,
         "question": "写真（別冊No.1）を別に示す。矢印で示す部位はどれか。",
+        "questionImages": ["images/quiz/2024_1_q72.png"],
         "choices": [
             "視床",
             "比較",
@@ -1096,6 +1098,7 @@
         "subject": "解剖学",
         "questionNumber": 79,
         "question": "写真（別冊No.2）を別に示す。拍動を触れているのはどれか。",
+        "questionImages": ["images/quiz/2024_1_q79.png"],
         "choices": [
             "前脛骨動脈",
             "後脛骨動脈",
@@ -1110,6 +1113,7 @@
         "subject": "解剖学",
         "questionNumber": 80,
         "question": "第３腰椎の高さの腹部CT像（別冊No.3）を別に示す。矢印で示す筋はどれか。",
+        "questionImages": ["images/quiz/2024_1_q80.png"],
         "choices": [
             "腰方形筋",
             "大腰筋",

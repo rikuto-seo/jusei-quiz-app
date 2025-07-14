@@ -1670,6 +1670,7 @@
         "subject": "衛生学・公衆衛生学",
         "questionNumber": 110,
         "question": "我が国における死因別死亡率の年次推移を図に示す。Ｄは何か。",
+        "questionImages": ["images/quiz/2011_1_q110.png"],
         "choices": [
             "肺炎",
             "心疾患",

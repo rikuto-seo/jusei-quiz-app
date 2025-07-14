@@ -760,6 +760,7 @@
         "subject": "解剖学",
         "questionNumber": 55,
         "question": "矢印で示す部位に付く筋を支配する神経はどれか。",
+        "questionImages": ["images/quiz/2020_1_q55.png"],
         "choices": [
             "三叉神経",
             "第6頸神経",
@@ -830,6 +831,7 @@
         "subject": "解剖学",
         "questionNumber": 60,
         "question": "矢印で示す動脈が栄養するのはどれか。",
+        "questionImages": ["images/quiz/2020_1_q60.png"],
         "choices": [
             "視床",
             "内包",
@@ -1012,6 +1014,7 @@
         "subject": "解剖学",
         "questionNumber": 73,
         "question": "ウェルニッケ野はどれか。",
+        "questionImages": ["images/quiz/2020_1_q73.png"],
         "choices": [
             "a",
             "b",
@@ -1026,6 +1029,7 @@
         "subject": "解剖学",
         "questionNumber": 74,
         "question": "写真(別冊NO.1)を別に示す。矢印で示す部位のドーパミン作動性ニューロンが投射するのはどれか。",
+        "questionImages": ["images/quiz/2020_1_q74.png"],
         "choices": [
             "歯状核",
             "オリーブ核",

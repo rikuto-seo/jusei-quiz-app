@@ -760,6 +760,7 @@
         "subject": "解剖学",
         "questionNumber": 55,
         "question": "写真(別冊 No. 1)に別に示す。矢印の部位に付く筋の支配神経はどれか。",
+        "questionImages": ["images/quiz/2022_1_q55.png"],
         "choices": [
             "長胸神経",
             "胸背神経",
@@ -984,6 +985,7 @@
         "subject": "解剖学",
         "questionNumber": 71,
         "question": "意識にのぼる深部感覚の伝導路はどれか。",
+        "questionImages": ["images/quiz/2022_1_q71.png"],
         "choices": [
             "1",
             "2",
@@ -1418,6 +1420,7 @@
         "subject": "生理学",
         "questionNumber": 102,
         "question": "図の血管A、Bで正しいのはどれか。",
+        "questionImages": ["images/quiz/2022_1_q102.png"],
         "choices": [
             "Aには動脈血が流れる。",
             "Bには動脈血が流れる。",

@@ -466,6 +466,7 @@
         "subject": "解剖学",
         "questionNumber": 34,
         "question": "図Aの矢印の部位を走行する腱が起始とするのは図Bのどれか。",
+        "questionImages": ["images/quiz/2017_1_q34.png"],
         "choices": [
             "a",
             "b",
@@ -536,6 +537,7 @@
         "subject": "解剖学",
         "questionNumber": 39,
         "question": "写真(別冊No.1)を別に示す。僧房弁はどれか。",
+        "questionImages": ["images/quiz/2017_1_q39.png"],
         "choices": [
             "a",
             "b",
@@ -718,6 +720,7 @@
         "subject": "解剖学",
         "questionNumber": 52,
         "question": "写真(別冊№2)を別に示す。視床はどれか。",
+        "questionImages": ["images/quiz/2017_1_q52.png"],
         "choices": [
             "a",
             "b",

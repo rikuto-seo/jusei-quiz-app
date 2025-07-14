@@ -452,6 +452,7 @@
         "subject": "生理学",
         "questionNumber": 33,
         "question": "心電図について誤っている組合せはどれか。",
+        "questionImages": ["images/quiz/2004_1_q33.png"],
         "choices": [
             "（ａ）房室間興奮伝導時間",
             "（ｂ）田原結節の脱分極",
@@ -634,6 +635,7 @@
         "subject": "生理学",
         "questionNumber": 46,
         "question": "神経細胞の活動電位を図で示す。(ａ)の時期に透過性が増大するのはどれか。",
+        "questionImages": ["images/quiz/2004_1_q46.png"],
         "choices": [
             "Na+",
             "K+",
@@ -648,6 +650,7 @@
         "subject": "生理学",
         "questionNumber": 47,
         "question": "強さ-時間曲線を図で示す。クロナキシーはどれか。",
+        "questionImages": ["images/quiz/2004_1_q47.png"],
         "choices": [
             "2.5mA",
             "5.0mA",
@@ -704,6 +707,7 @@
         "subject": "生理学",
         "questionNumber": 51,
         "question": "歩調取り細胞の活動電位はどれか。",
+        "questionImages": ["images/quiz/2004_1_q51.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -732,6 +736,7 @@
         "subject": "生理学",
         "questionNumber": 53,
         "question": "図のような視野の欠損（灰色部）を示す損傷部位はどれか。",
+        "questionImages": ["images/quiz/2004_1_q53.png"],
         "choices": [
             "視神経",
             "視交叉",
@@ -746,6 +751,7 @@
         "subject": "生理学",
         "questionNumber": 54,
         "question": "苦味に対する反応閾値が最も低い部位はどれか。",
+        "questionImages": ["images/quiz/2004_1_q54.png"],
         "choices": [
             "(ａ)",
             "(ｂ)",
@@ -788,6 +794,7 @@
         "subject": "運動学",
         "questionNumber": 57,
         "question": "図の状態で釣り合っているとき、上腕二頭筋の力Ｆはどれか。ただし、荷重点ｃにかかる重さＲは2.4kgw、支点aと力点ｂの距離と力点ｂと荷重点ｃの距離との比は2：13とする。",
+        "questionImages": ["images/quiz/2004_1_q57.png"],
         "choices": [
             "15.6kgw",
             "18.0kgw",

@@ -74,6 +74,7 @@
         "subject": "一般臨床医学",
         "questionNumber": 106,
         "question": "図の肢位をきたすのはどれか。",
+        "questionImages": ["images/quiz/2001_2_q106.png"],
         "choices": [
             "パーキンソン病",
             "先天性股関節脱臼",
@@ -914,6 +915,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 166,
         "question": "ベンネット骨折はどれか。",
+        "questionImages": ["images/quiz/2001_2_q166.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -1075,6 +1077,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 178,
         "question": "外傷性股関節前方（恥骨下）脱臼肢位はどれか。",
+        "questionImages": ["images/quiz/2001_2_q178.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -1127,6 +1130,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 182,
         "question": "第2指伸展位でＤＩＰ関節に屈曲が強制されて発生した伸筋腱付着部の剥離骨折による手指変形はどれか。",
+        "questionImages": ["images/quiz/2001_2_q182.png"],
         "choices": [
             "画像1",
             "画像2",

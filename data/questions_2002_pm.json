@@ -900,6 +900,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 165,
         "question": "図に示す手関節部の骨折で誤っているのはどれか。",
+        "questionImages": ["images/quiz/2002_2_q165.png"],
         "choices": [
             "外観はスミス骨折に類似する。",
             "整復は前腕回外位で末梢牽引する。",
@@ -914,6 +915,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 166,
         "question": "左手の損傷治癒後、指を屈曲したときに図のような変形がみられた。最も考えられるのはどれか。",
+        "questionImages": ["images/quiz/2002_2_q166.png"],
         "choices": [
             "第４中手骨骨幹部骨折",
             "第４指中央索断裂",
@@ -1026,6 +1028,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 174,
         "question": "右大腿骨頸部内側内転型骨折の下肢の肢位はどれか。",
+        "questionImages": ["images/quiz/2002_2_q174.png"],
         "choices": [
             "a",
             "b",
@@ -1222,6 +1225,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 188,
         "question": "シンスプリントの好発部位はどれか。",
+        "questionImages": ["images/quiz/2002_2_q188.png"],
         "choices": [
             "a",
             "b",
@@ -1236,6 +1240,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 189,
         "question": "肉離れの好発部位はどれか。　a．　b．　c．　d．",
+        "questionImages": ["images/quiz/2002_2_q189.png"],
         "choices": [
             "a、b",
             "a、d",
@@ -1334,6 +1339,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 196,
         "question": "10歳の男子。ジャングルジムから落下し手掌を地面についた。図のような変形を呈して来所した。最も考えられるのはどれか。",
+        "questionImages": ["images/quiz/2002_2_q196.png"],
         "choices": [
             "橈骨骨幹部骨折",
             "前腕両骨骨幹部骨折",
@@ -1376,6 +1382,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 199,
         "question": "18歳の男子。1か月前、柔道の試合中、大外刈りに対し体を反転し逃れた際、膝関節部を負傷した。本人は単なる捻挫と思い湿布をして様子をみていたが、膝関節不安定感を訴え来所した。Ａ、Ｂの検査は陰性で、Ｃ、Ｄの検査は陽性であった。考えられるのはどれか。　a．内側側副靭帯損傷　b．内側半月損傷　c．後十字靭帯損傷　d．前十字靭帯損傷",
+        "questionImages": ["images/quiz/2002_2_q199.png"],
         "choices": [
             "a、b",
             "a、d",

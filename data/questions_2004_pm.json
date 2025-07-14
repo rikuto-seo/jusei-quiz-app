@@ -109,6 +109,7 @@
         "subject": "一般臨床医学",
         "questionNumber": 108,
         "question": "心電図を示す。正しいのはどれか。",
+        "questionImages": ["images/quiz/2004_2_q108.png"],
         "choices": [
             "心房細動",
             "上室性期外収縮",
@@ -940,6 +941,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 165,
         "question": "伸展型モンテギア（Monteggia）骨折はどれか。",
+        "questionImages": ["images/quiz/2004_2_q165.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -1027,6 +1029,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 171,
         "question": "舟状骨骨折はどれか。",
+        "questionImages": ["images/quiz/2004_2_q171.png"],
         "choices": [
             "画像1",
             "画像2",

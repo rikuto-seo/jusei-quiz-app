@@ -702,6 +702,7 @@
     {
         "year": 2000,
         "subject": "柔道整復理論",
+        "questionImages": ["images/quiz/2000_2_q151.png"],
         "questionNumber": 151,
         "question": "重複骨折はどれか。",
         "choices": [
@@ -746,6 +747,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 154,
         "question": "ソルター・ハリス（Salter＆Harris）の骨端損傷分類で発生頻度の高いのはどれか。",
+        "questionImages": ["images/quiz/2000_2_q154.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -914,6 +916,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 166,
         "question": "橈骨骨幹部が円回内筋付着部の遠位で骨折している場合、正しい固定肢位はどれか。",
+        "questionImages": ["images/quiz/2000_2_q166.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -998,6 +1001,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 172,
         "question": "中節骨骨幹部が浅指屈筋腱付着部の近位で骨折している場合、最も適切な固定肢位はどれか。",
+        "questionImages": ["images/quiz/2000_2_q172.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -1096,6 +1100,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 179,
         "question": "図のテスト法で橈骨側方部の疼痛が増強した。該当する腱はどれか。",
+        "questionImages": ["images/quiz/2000_2_q179.png"],
         "choices": [
             "長母指外転筋腱・短母指伸筋腱",
             "長橈側手根伸筋腱・長母指外転筋腱",
@@ -1152,6 +1157,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 183,
         "question": "膝蓋骨に多くみられる骨折型はどれか。",
+        "questionImages": ["images/quiz/2000_2_q183.png"],
         "choices": [
             "画像1",
             "画像2",
@@ -1208,6 +1214,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 187,
         "question": "距腿関節脱臼の症状で誤っているのはどれか。",
+        "questionImages": ["images/quiz/2000_2_q187.png"],
         "choices": [
             "外側脱臼は内果が突出してみえる。",
             "内側脱臼は足部が内反位を呈する。",
@@ -1250,6 +1257,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 190,
         "question": "アキレス腱断裂の好発部位はどれか。",
+        "questionImages": ["images/quiz/2000_2_q190.png"],
         "choices": [
             "ａ",
             "ｂ",
@@ -1264,6 +1272,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 191,
         "question": "前距腓靭帯損傷時の圧痛点はどれか。",
+        "questionImages": ["images/quiz/2000_2_q191.png"],
         "choices": [
             "ａ",
             "ｂ",
@@ -1278,6 +1287,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 192,
         "question": "肩関節前方脱臼後、肩関節自動外転力が弱く、感覚脱失領域が確認された。考えられる神経損傷はどれか。",
+        "questionImages": ["images/quiz/2000_2_q192.png"],
         "choices": [
             "副神経",
             "腋窩神経",
@@ -1362,6 +1372,7 @@
         "subject": "柔道整復理論",
         "questionNumber": 198,
         "question": "膝の前内側部の圧痛と運動痛、外転運動で激痛、脛骨前方への動揺性。考えられる損傷部位はどれか。",
+        "questionImages": ["images/quiz/2000_2_q198.png"],
         "choices": [
             "1、2、3",
             "1、2、4",
