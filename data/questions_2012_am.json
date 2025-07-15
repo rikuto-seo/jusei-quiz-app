@@ -1,7 +1,7 @@
 [
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 1,
         "question": "細胞小器官でないのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 2,
         "question": "骨に存在しないのはどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 3,
         "question": "関節円板があるのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 4,
         "question": "脊髄で運動神経細胞が存在するのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 5,
         "question": "アミノ酸で構成されるのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 6,
         "question": "循環系で誤っているのはどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 7,
         "question": "ビタミンDが消化管での吸収に関与するのはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 8,
         "question": "筋収縮で筋の全長が一定なのはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 9,
         "question": "原因と疾患との組合せで誤っているのはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 10,
         "question": "WHOの健康の定義は、「健康は()にも()にも()にも調和がとれた良好な状態をいい、単に病気がないとか病弱でないということではない」である。()にあてはまらないのはどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 11,
         "question": "柔道整復師法の目的で正しいのはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 12,
         "question": "前腕支持部がある歩行補助具はどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 13,
         "question": "胸水で聴取される打診音はどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 14,
         "question": "黄疸が出現しやすい部位はどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 15,
         "question": "ショックの症状はどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 16,
         "question": "腰椎椎間板ヘルニアの所見で誤っているのはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 17,
         "question": "関節捻挫でみられないのはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 18,
         "question": "屈曲整復法が適応となるのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 19,
         "question": "徒手整復で末梢牽引が適切でないのはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 20,
         "question": "偽関節発生の局所原因でないのはどれか。",
         "choices": [
@@ -281,7 +281,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 21,
         "question": "関節唇損傷が起こりやすいのはどれか。",
         "choices": [
@@ -295,7 +295,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 22,
         "question": "上腕骨外科頸外転型骨折で正しいのはどれか。",
         "choices": [
@@ -309,7 +309,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 23,
         "question": "上腕骨顆上骨折伸展型で正しいのはどれか。",
         "choices": [
@@ -323,7 +323,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 24,
         "question": "手の舟状骨骨折で誤っているのはどれか。",
         "choices": [
@@ -337,7 +337,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 25,
         "question": "べネット(Bennet)骨折で正しいのはどれか。",
         "choices": [
@@ -351,7 +351,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 26,
         "question": "肘関節後方脱臼の症状で誤っているのはどれか。",
         "choices": [
@@ -365,7 +365,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 27,
         "question": "肘内障で正しいのはどれか。",
         "choices": [
@@ -379,7 +379,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 28,
         "question": "膝蓋骨外側脱臼の要因となるのはどれか。",
         "choices": [
@@ -393,7 +393,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 29,
         "question": "短腓骨筋が発症に関与するのはどれか。",
         "choices": [
@@ -407,7 +407,7 @@
     },
     {
         "year": 2012,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 30,
         "question": "足関節の内反強制で外果下部の裂隙が拡大するのはどれか。",
         "choices": [

@@ -1,7 +1,7 @@
 [
     {
         "year": 2023,
-        "subject": "柔道",
+        "subject": ["柔道","必修"],
         "questionNumber": 1,
         "question": "起倒流の師範はどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道",
+        "subject": ["柔道","必修"],
         "questionNumber": 2,
         "question": "柔道の理念で正々堂々を意味するのはどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 3,
         "question": "社会保険制度で正しいのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 4,
         "question": "受領委任で正しいのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 5,
         "question": "定型的鎖骨骨折の来所持の肢位で誤っているのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 6,
         "question": "成人の定型的鎖骨骨折ですべての固定を除去できる期間はどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 7,
         "question": "上腕骨外科頸外転型骨折で誤っているのはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 8,
         "question": "上腕骨骨幹部の三角筋付着部より遠位での骨折で転位に直接関係しないのはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 9,
         "question": "高齢者の橈骨遠位端骨折で誤っているのはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 10,
         "question": "コーレス（Colles）骨折の手関節固定肢位はどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 11,
         "question": "第5中手骨頸部骨折の関節固定角度で正しいのはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 12,
         "question": "肋骨骨折の絆創膏固定で正しいのはどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 13,
         "question": "肩鎖関節上方脱臼の症状で正しいのはどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 14,
         "question": "肩鎖関節上方脱臼固定の際、患者に対する助手の位置はどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 15,
         "question": "肩鎖関節上方脱臼の固定で綿花枕子を当てる部位はどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 16,
         "question": "肩関節烏口下脱臼整復後の確認で誤っているのはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 17,
         "question": "反復性肩関節脱臼の要因でないのはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 18,
         "question": "肩関節烏口下脱臼の固定で正しいのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 19,
         "question": "高所からの転落で肘に激しい腫脹と疼痛がある場合、最初に評価すべきでないのはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 20,
         "question": "肘関節後方脱臼に対する肘関節の固定肢位はどれか。",
         "choices": [
@@ -281,7 +281,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 21,
         "question": "肘内障でみられるのはどれか。",
         "choices": [
@@ -295,7 +295,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 22,
         "question": "肘内障の原因で前腕にかかる力はどれか。",
         "choices": [
@@ -309,7 +309,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 23,
         "question": "示指PIP関節背側脱臼の固定で誤っているのはどれか。",
         "choices": [
@@ -323,7 +323,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 24,
         "question": "肩腱板損傷で最も多いのはどれか。",
         "choices": [
@@ -337,7 +337,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 25,
         "question": "スラップ損傷で関節唇の断裂部位はどれか。",
         "choices": [
@@ -351,7 +351,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 26,
         "question": "ハムストリングス肉離れの検査はどれか。",
         "choices": [
@@ -365,7 +365,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 27,
         "question": "大腿部前面打撲で中等度損傷にあたるのはどれか。",
         "choices": [
@@ -379,7 +379,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 28,
         "question": "靱帯損傷の検査はどれか。",
         "choices": [
@@ -393,7 +393,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 29,
         "question": "回旋不安定性を評価するのはどれか。",
         "choices": [
@@ -407,7 +407,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 30,
         "question": "膝半月板単独損傷で正しいのはどれか。",
         "choices": [
@@ -421,7 +421,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 31,
         "question": "下腿三頭筋の肉離れの好発部位はどれか。",
         "choices": [
@@ -435,7 +435,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 32,
         "question": "アキレス腱断裂で施術の適応を決める際、特に慎重に判断を要するのはどれか。",
         "choices": [
@@ -449,7 +449,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 33,
         "question": "新鮮な足関節外側靱帯Ⅰ度損傷の所見はどれか。",
         "choices": [
@@ -463,7 +463,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 34,
         "question": "右足関節外側靱帯損傷の固定で正しいのはどれか。",
         "choices": [
@@ -477,7 +477,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 35,
         "question": "下腿骨骨幹部骨折の固定で誤っているのはどれか。",
         "choices": [
@@ -491,7 +491,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 36,
         "question": "副子の一時固定に用いるのはどれか。",
         "choices": [
@@ -505,7 +505,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 37,
         "question": "写真の名称はどれか",
         "choices": [
@@ -519,7 +519,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 38,
         "question": "生存権が規定されているのはどれか。",
         "choices": [
@@ -533,7 +533,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 39,
         "question": "医療過誤で誤っているのはどれか。",
         "choices": [
@@ -547,7 +547,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 40,
         "question": "医療保険の被用者保険で誤っているのはどれか。",
         "choices": [
@@ -561,7 +561,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 41,
         "question": "医療扶助が規定されているのはどれか。",
         "choices": [
@@ -575,7 +575,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 42,
         "question": "国民医療費（令和元年度）で正しいのはどれか。",
         "choices": [
@@ -589,7 +589,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 43,
         "question": "受領委任払いを取り扱う施術管理者の届出・申し出で正しいのはどれか。",
         "choices": [
@@ -603,7 +603,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 44,
         "question": "柔道整復師免許の欠格事由はどれか。",
         "choices": [
@@ -617,7 +617,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 45,
         "question": "柔道整復師の免許事項を登録するのはどれか。",
         "choices": [
@@ -631,7 +631,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 46,
         "question": "施術所の開設の届出で誤っているのはどれか。",
         "choices": [
@@ -645,7 +645,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 47,
         "question": "開設時の立ち入り検査で正しいのはどれか。",
         "choices": [
@@ -659,7 +659,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 48,
         "question": "柔道整復師法で誤っているのはどれか。",
         "choices": [
@@ -673,7 +673,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 49,
         "question": "名称独占である資格はどれか。",
         "choices": [
@@ -687,7 +687,7 @@
     },
     {
         "year": 2023,
-        "subject": "関係法規",
+        "subject": ["関係法規","必修"],
         "questionNumber": 50,
         "question": "医療法の広告で正しいのはどれか。",
         "choices": [
@@ -1109,7 +1109,7 @@
     },
     {
         "year": 2023,
-        "subject": "柔道整復学",
+        "subject": "解剖学",
         "questionNumber": 80,
         "question": "肩、臀部における筋肉注射で正しいのはどれか。",
         "choices": [

@@ -1,7 +1,7 @@
 [
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 1,
         "question": "神経筋接合部（運動終板）が存在するのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 2,
         "question": "関節をつくる組合せはどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 3,
         "question": "僧帽弁はどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 4,
         "question": "運動神経細胞が分布するのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 5,
         "question": "正常の心拍動における歩調とり部位はどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 6,
         "question": "ステロイドホルモンでないのはどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 7,
         "question": "副交感神経が興奮した時に起こる反応はどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 8,
         "question": "足関節の伸展（背屈）に作用するのはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 9,
         "question": "正しいのはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 10,
         "question": "皮膚面の消毒に適さないのはどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 11,
         "question": "施術所の構造設備基準で正しいのはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 12,
         "question": "補装具の目的で適切でないのはどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 13,
         "question": "後遺症としてマン・ウェルニッケ姿勢が最もよくみられるのはどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 14,
         "question": "バビンスキー反射がみられる病変部位はどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 15,
         "question": "59歳の男性。1年前に小さな脳動脈瘤を指摘された。今朝、突然後ろから金づちで殴られたような激しい頭痛が出現した。考えられるのはどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 16,
         "question": "筋挫傷で正しいのはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 17,
         "question": "骨折の固有症状はどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 18,
         "question": "脱臼でみられないのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 19,
         "question": "骨端軟骨損傷後の経過で最も注意を要するのはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 20,
         "question": "骨折の癒合に有利な条件はどれか。",
         "choices": [
@@ -281,7 +281,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 21,
         "question": "骨折整復の一般原則で誤っているのはどれか。",
         "choices": [
@@ -295,7 +295,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 22,
         "question": "脱臼の徒手整復で誤っているのはどれか。",
         "choices": [
@@ -309,7 +309,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 23,
         "question": "骨折の後療法で誤っているのはどれか。",
         "choices": [
@@ -323,7 +323,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 24,
         "question": "骨折の合併症とその原因との組合せで正しいのはどれか。",
         "choices": [
@@ -337,7 +337,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 25,
         "question": "介達外力で発生するのはどれか。",
         "choices": [
@@ -351,7 +351,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 26,
         "question": "鎖骨骨折で誤っているのはどれか。",
         "choices": [
@@ -365,7 +365,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 27,
         "question": "上腕骨顆上伸展型骨折で正しいのはどれか。",
         "choices": [
@@ -379,7 +379,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 28,
         "question": "肩鎖関節脱臼で誤っているのはどれか。",
         "choices": [
@@ -393,7 +393,7 @@
     },
     {
         "year": 2006,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 29,
         "question": "大腿骨頸部内側骨折で正しいのはどれか。",
         "choices": [
@@ -407,7 +407,7 @@
     },
     {
         "year": 2006,
-        "subject": "解剖学",
+        "subject": ["解剖学","必修"],
         "questionNumber": 30,
         "question": "習慣性膝蓋骨脱臼発生の素因でないのはどれか。",
         "choices": [

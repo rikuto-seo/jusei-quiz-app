@@ -1,7 +1,7 @@
 [
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 1,
         "question": "図の寛骨を構成する骨の組合せで正しいのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 2,
         "question": "隆椎はどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 3,
         "question": "上腕骨と大腿骨に共通する部位名はどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 4,
         "question": "体表から拍動を触知できるのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 5,
         "question": "ホメオスタシスの説明で正しいのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 6,
         "question": "安静時の呼吸で呼息終了時の肺容量はどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 7,
         "question": "カルシウム代謝に関与するのはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 8,
         "question": "翼状肩甲に関与するのはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 9,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 10,
         "question": "生活の質を意味する言葉はどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 11,
         "question": "医療従事者が医療の遂行において医療的準則に違反して患者に被害を発生させるのはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 12,
         "question": "重力に抗してかろうじて肘を全可動域に屈曲できる場合、徒手筋力テストにおける上腕二頭筋の筋力はどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 13,
         "question": "医療面接で開かれた質問(open question)はどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 14,
         "question": "マン・ウェルニッケ姿勢をとるのはどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 15,
         "question": "末梢血管抵抗減弱によるショックの原因はどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 16,
         "question": "誤っている組合せはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 17,
         "question": "骨折で正しいのはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 18,
         "question": "横骨折となるのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 19,
         "question": "反復性脱臼になりやすいのはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 20,
         "question": "小児骨折で正しいのはどれか。",
         "choices": [
@@ -281,7 +281,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 21,
         "question": "高齢者骨折で起こりやすいのはどれか。",
         "choices": [
@@ -295,7 +295,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 22,
         "question": "牽引直圧整復法で整復されにくいのはどれか。",
         "choices": [
@@ -309,7 +309,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 23,
         "question": "関節の運動を保持し被覆する包帯法はどれか。",
         "choices": [
@@ -323,7 +323,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 24,
         "question": "骨折の後遺症はどれか。",
         "choices": [
@@ -337,7 +337,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 25,
         "question": "肋骨骨折で正しいのはどれか。",
         "choices": [
@@ -351,7 +351,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 26,
         "question": "顎関節前方脱臼で正しいのはどれか。",
         "choices": [
@@ -365,7 +365,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 27,
         "question": "外固定の目的で正しいのはどれか。",
         "choices": [
@@ -379,7 +379,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 28,
         "question": "中手骨頸部骨折はどれか。",
         "choices": [
@@ -393,7 +393,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 29,
         "question": "指骨骨折で正しいのはどれか。",
         "choices": [
@@ -407,7 +407,7 @@
     },
     {
         "year": 2017,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 30,
         "question": "上腕二頭筋長頭腱炎のテスト法はどれか。",
         "choices": [

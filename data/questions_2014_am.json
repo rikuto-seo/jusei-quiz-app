@@ -1,7 +1,7 @@
 [
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 1,
         "question": "上腕を外転する筋はどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 2,
         "question": "骨格筋でないのはどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 3,
         "question": "動脈血を含むのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 4,
         "question": "中枢神経の支持細胞はどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 5,
         "question": "老化によって上昇・増加するのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 6,
         "question": "細胞外液より細胞内液の濃度が高いのはどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 7,
         "question": "筋の長さを検知するのはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 8,
         "question": "運動の欲求や動機付けに関与する大脳の部位はどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 9,
         "question": "骨折の治癒過程の順序で正しいのはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 10,
         "question": "柔道整復師で正しいのはどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 11,
         "question": "柔道整復師ができるのはどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 12,
         "question": "温熱療法で深達度が最も高いのはどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 13,
         "question": "パーキンソン(Parkinson)病に特徴的な姿勢はどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 14,
         "question": "腹部の分画を図に示す。季肋部はどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 15,
         "question": "急性炎症の徴候で誤っているのはどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 16,
         "question": "正しい組合せはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 17,
         "question": "骨折固有症状の異常可動性はどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 18,
         "question": "脱臼で正しいのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 19,
         "question": "骨折の治癒に好適な条件はどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 20,
         "question": "骨折の整復法で正しいのはどれか。",
         "choices": [
@@ -281,7 +281,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 21,
         "question": "骨折における外固定の目的で適切でないのはどれか。",
         "choices": [
@@ -295,7 +295,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 22,
         "question": "オーバーラッピングフィンガーの主な要因はどれか。",
         "choices": [
@@ -309,7 +309,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 23,
         "question": "脱臼の合併症で誤っているのはどれか。",
         "choices": [
@@ -323,7 +323,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 24,
         "question": "肋骨の単発骨折で正しいのはどれか。",
         "choices": [
@@ -337,7 +337,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 25,
         "question": "顎関節前方脱臼で正しいのはどれか。",
         "choices": [
@@ -351,7 +351,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 26,
         "question": "鎖骨骨折で正しいのはどれか。",
         "choices": [
@@ -365,7 +365,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 27,
         "question": "肘内障で誤っているのはどれか。",
         "choices": [
@@ -379,7 +379,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 28,
         "question": "腱板損傷の検査法はどれか。",
         "choices": [
@@ -393,7 +393,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 29,
         "question": "大腿骨頸部内側骨折で正しいのはどれか。",
         "choices": [
@@ -407,7 +407,7 @@
     },
     {
         "year": 2014,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 30,
         "question": "膝関節損傷と検査法との組合せで適切なのはどれか。",
         "choices": [

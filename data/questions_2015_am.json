@@ -1,7 +1,7 @@
 [
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 1,
         "question": "横突孔で正しいのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 2,
         "question": "複関節はどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 3,
         "question": "股関節を屈曲するのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 4,
         "question": "屈筋支帯より表層を通るのはどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 5,
         "question": "ヘモグロビンを含有するのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 6,
         "question": "小循環に属するのはどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 7,
         "question": "ホルモンを運搬するのはどれか。",
         "choices": [
@@ -99,7 +99,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 8,
         "question": "関節運動の表示で正しいのはどれか。",
         "choices": [
@@ -113,7 +113,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 9,
         "question": "カタル性炎で正しいのはどれか。",
         "choices": [
@@ -127,7 +127,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 10,
         "question": "インフォームドコンセントで正しいのはどれか。",
         "choices": [
@@ -141,7 +141,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 11,
         "question": "名称独占はないが業務独占は有する資格はどれか。",
         "choices": [
@@ -155,7 +155,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 12,
         "question": "物理療法と禁忌との組合せで誤っているのはどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 13,
         "question": "意識障害を表す用語でないのはどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 14,
         "question": "眼球突出がみられるのはどれか。",
         "choices": [
@@ -197,7 +197,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 15,
         "question": "ショックをきたす病態とその治療との組合せで正しいのはどれか。",
         "choices": [
@@ -211,7 +211,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 16,
         "question": "大腿骨頸部内側型骨折が難治性になる理由で誤っているのはどれか。",
         "choices": [
@@ -225,7 +225,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 17,
         "question": "骨折転位を角度で表すのはどれか。",
         "choices": [
@@ -239,7 +239,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 18,
         "question": "脱臼と判断できるのはどれか。",
         "choices": [
@@ -253,7 +253,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 19,
         "question": "靭帯の第1度損傷で受傷直後に確認できるのはどれか。",
         "choices": [
@@ -267,7 +267,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 20,
         "question": "骨折の治療で手術療法と比較して保存療法の特徴となるのはどれか。",
         "choices": [
@@ -281,7 +281,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 21,
         "question": "コーレス(Colles)骨折の屈曲整復法で最初に遠位骨片を屈曲する方向はどれか。",
         "choices": [
@@ -295,7 +295,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 22,
         "question": "骨折の治療で緊急度の高いのはどれか。",
         "choices": [
@@ -309,7 +309,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 23,
         "question": "腋窩線上の第7肋骨骨折で疼痛が増強しにくいのはどれか。",
         "choices": [
@@ -323,7 +323,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 24,
         "question": "顎関節前方脱臼で片側性脱臼だけにみられる所見はどれか。",
         "choices": [
@@ -337,7 +337,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 25,
         "question": "上腕骨外科頸外転型骨折で正しいのはどれか。",
         "choices": [
@@ -351,7 +351,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 26,
         "question": "上腕骨顆上骨折で正しいのはどれか。",
         "choices": [
@@ -365,7 +365,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 27,
         "question": "肩鎖関節上方脱臼で正しいのはどれか。",
         "choices": [
@@ -379,7 +379,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 28,
         "question": "小児肘内障で整復の確認に使われないのはどれか。",
         "choices": [
@@ -393,7 +393,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 29,
         "question": "大腿骨頸部内側型骨折で正しいのはどれか。",
         "choices": [
@@ -407,7 +407,7 @@
     },
     {
         "year": 2015,
-        "subject": "柔道整復学",
+        "subject": "必修",
         "questionNumber": 30,
         "question": "傷害と検査との組合せで正しいのはどれか。",
         "choices": [
