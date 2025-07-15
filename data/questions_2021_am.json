@@ -29,7 +29,7 @@
     },
     {
         "year": 2021,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 3,
         "question": "患者への病状・治療方針の説明で誤っているのはどれか。",
         "choices": [
@@ -519,7 +519,7 @@
     },
     {
         "year": 2021,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 38,
         "question": "患者の権利で正しいのはどれか。",
         "choices": [
@@ -533,7 +533,7 @@
     },
     {
         "year": 2021,
-        "subject": ["関係法規","必修"],
+        "subject": ["関係法規","必修","医療概論"],
         "questionNumber": 39,
         "question": "個人情報の保護に関する法律で正しいのはどれか。",
         "choices": [
@@ -547,7 +547,7 @@
     },
     {
         "year": 2021,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 40,
         "question": "医療事故調査制度で医療事故の報告先はどれか。",
         "choices": [

@@ -519,7 +519,7 @@
     },
     {
         "year": 2023,
-        "subject": ["関係法規","必修"],
+        "subject": ["関係法規","医療概論","必修"],
         "questionNumber": 38,
         "question": "生存権が規定されているのはどれか。",
         "choices": [
@@ -533,7 +533,7 @@
     },
     {
         "year": 2023,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 39,
         "question": "医療過誤で誤っているのはどれか。",
         "choices": [

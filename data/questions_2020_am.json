@@ -519,7 +519,7 @@
     },
     {
         "year": 2020,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 38,
         "question": "インフォームド・コンセントはどれか。",
         "choices": [
@@ -533,7 +533,7 @@
     },
     {
         "year": 2020,
-        "subject": ["関係法規","必修"],
+        "subject": ["関係法規","必修","医療概論"],
         "questionNumber": 39,
         "question": "個人情報の保護に関する法律で個人情報取扱事業者になるのはどれか。",
         "choices": [
@@ -547,7 +547,7 @@
     },
     {
         "year": 2020,
-        "subject": ["関係法規","必修"],
+        "subject": ["必修","医療概論"],
         "questionNumber": 40,
         "question": "医療現場においてインシデントはどれか。",
         "choices": [
@@ -561,7 +561,7 @@
     },
     {
         "year": 2020,
-        "subject": ["関係法規","必修"],
+        "subject": ["必修","医療概論"],
         "questionNumber": 41,
         "question": "医療におけるリスクマネジメントの概念で誤っているのはどれか。",
         "choices": [

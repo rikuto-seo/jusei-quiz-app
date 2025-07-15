@@ -29,7 +29,7 @@
     },
     {
         "year": 2022,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 3,
         "question": "医療倫理の四原則で誤っているのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2022,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 4,
         "question": "施術者の態度で誤っているのはどれか。",
         "choices": [
@@ -519,7 +519,7 @@
     },
     {
         "year": 2022,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 38,
         "question": "患者の権利(リスボン宣言)で規定されていないのはどれか。",
         "choices": [
@@ -589,7 +589,7 @@
     },
     {
         "year": 2022,
-        "subject": ["関係法規","必修"],
+        "subject": ["医療概論","必修"],
         "questionNumber": 43,
         "question": "医療訴訟で誤っているのはどれか。",
         "choices": [

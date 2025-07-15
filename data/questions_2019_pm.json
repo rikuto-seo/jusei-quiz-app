@@ -1,7 +1,7 @@
 [
     {
         "year": 2019,
-        "subject": "関係法規",
+        "subject": "医療概論",
         "questionNumber": 121,
         "question": "患者の権利として誤っているのはどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2019,
-        "subject": "関係法規",
+        "subject": ["関係法規","医療概論"],
         "questionNumber": 122,
         "question": "個人情報保護法で正しいのはどれか。",
         "choices": [

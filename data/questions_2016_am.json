@@ -141,7 +141,7 @@
     },
     {
         "year": 2016,
-        "subject": "必修",
+        "subject": ["必修","医療概論"],
         "questionNumber": 11,
         "question": "医療危機管理の概念でないのはどれか。",
         "choices": [
