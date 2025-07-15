@@ -50,19 +50,23 @@
       <ul id="subject-list"></ul>
     </details>
 
-    <details class="accordion open">
+    <details class="accordion">
       <summary>年度＋科目別で解く</summary>
 
-      <div style="margin: 1em 0; display: flex; flex-wrap: wrap; gap: 1em; align-items: center;">
-        <label for="year-select">年度：</label>
-        <select id="year-select">
-          <option value="">-- 年度を選択 --</option>
-        </select>
+      <div style="margin: 1em 0;">
+        <div style="margin-bottom: 0.5em;">
+          <label for="year-select">年度：</label><br />
+          <select id="year-select">
+            <option value="">-- 年度を選択 --</option>
+          </select>
+        </div>
 
-        <label for="subject-select">科目：</label>
-        <select id="subject-select">
-          <option value="">-- 科目を選択 --</option>
-        </select>
+        <div>
+          <label for="subject-select">科目：</label><br />
+          <select id="subject-select">
+            <option value="">-- 科目を選択 --</option>
+          </select>
+        </div>
       </div>
 
       <div id="filtered-links" style="margin-top: 1em;"></div>

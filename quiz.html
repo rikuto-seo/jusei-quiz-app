@@ -38,6 +38,25 @@
             right: 20px;
         }
 
+        .scroll-button::before {
+            content: '';
+            display: inline-block;
+            width: 0;
+            height: 0;
+            border-left: 8px solid transparent;
+            border-right: 8px solid transparent;
+        }
+
+        .scroll-top::before {
+            border-bottom: 12px solid white;
+            /* 上向き矢印 */
+        }
+
+        .scroll-bottom::before {
+            border-top: 12px solid white;
+            /* 下向き矢印 */
+        }
+
         .back-button {
             margin-top: 2em;
             background-color: #555;
@@ -78,9 +97,9 @@
 
     <!-- スクロールボタン -->
     <button class="scroll-button scroll-top" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })"
-        title="一番上へ">⬆</button>
+        title="一番上へ"></button>
     <button class="scroll-button scroll-bottom"
-        onclick="window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' })" title="一番下へ">⬇</button>
+        onclick="window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' })" title="一番下へ"></button>
 
     <script src="js/quiz.js"></script>
 

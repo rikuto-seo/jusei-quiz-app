@@ -1,7 +1,10 @@
 [
     {
         "year": 2024,
-        "subject": ["柔道","必修"],
+        "subject": [
+            "柔道",
+            "必修"
+        ],
         "questionNumber": 1,
         "question": "講道館柔道の修行の目的でないのはどれか。",
         "choices": [
@@ -11,11 +14,16 @@
             "社会への貢献"
         ],
         "answer": 2,
-        "tags": ["必修"]
+        "tags": [
+            "必修"
+        ]
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 2,
         "question": "施術所の業務に関する情報開示で同意が必要でないのはどれか。",
         "choices": [
@@ -29,7 +37,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 3,
         "question": "医療事故調査制度の調査対象はどれか。",
         "choices": [
@@ -43,7 +54,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 4,
         "question": "インシデントはどれか。",
         "choices": [
@@ -57,7 +71,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 5,
         "question": "仕事上の病気・けがの公的保険はどれか。",
         "choices": [
@@ -71,7 +88,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 6,
         "question": "国民医療費に含まれるのはどれか。",
         "choices": [
@@ -519,7 +539,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 38,
         "question": "インフォームド・コンセントを説明しているのはどれか。",
         "choices": [
@@ -533,7 +556,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 39,
         "question": "医療におけるリスクマネジメントで正しいのはどれか。",
         "choices": [
@@ -547,7 +573,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 40,
         "question": "介護保険制度で正しいのはどれか。",
         "choices": [
@@ -561,7 +590,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 41,
         "question": "柔道整復師の療養費受領委任で誤っているのはどれか。",
         "choices": [
@@ -575,7 +607,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 42,
         "question": "柔道整復師の免許制度で正しいのはどれか。",
         "choices": [
@@ -589,7 +624,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 43,
         "question": "柔道整復師免許で正しいのはどれか。",
         "choices": [
@@ -603,7 +641,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 44,
         "question": "柔道整復師法で指定登録機関を指定するのはどれか。",
         "choices": [
@@ -617,7 +658,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 45,
         "question": "柔道整復師の業務で正しいのはどれか。",
         "choices": [
@@ -631,7 +675,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 46,
         "question": "都道府県知事が施術所に命じることができないのはどれか。",
         "choices": [
@@ -645,7 +692,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 47,
         "question": "柔道整復師が取り扱う保険の支払い方式で誤っているのはどれか。",
         "choices": [
@@ -659,7 +709,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 48,
         "question": "医師法で正しいのはどれか。",
         "choices": [
@@ -673,7 +726,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 49,
         "question": "国家試験と業務の組み合わせで正しいのはどれか。",
         "choices": [
@@ -687,7 +743,10 @@
     },
     {
         "year": 2024,
-        "subject": ["関係法規","必修"],
+        "subject": [
+            "関係法規",
+            "必修"
+        ],
         "questionNumber": 50,
         "question": "医師法で医療提供施設でないのはどれか。",
         "choices": [
@@ -886,7 +945,9 @@
         "subject": "解剖学",
         "questionNumber": 64,
         "question": "腹壁の模式図を示す。虫垂の基部を反映するのはどれか。",
-        "questionImages": ["images/quiz/2024_1_q64.png"],
+        "questionImages": [
+            "images/quiz/2024_1_q64.png"
+        ],
         "choices": [
             "1",
             "2",
@@ -999,10 +1060,12 @@
         "subject": "解剖学",
         "questionNumber": 72,
         "question": "写真（別冊No.1）を別に示す。矢印で示す部位はどれか。",
-        "questionImages": ["images/quiz/2024_1_q72.png"],
+        "questionImages": [
+            "images/quiz/2024_1_q72.png"
+        ],
         "choices": [
             "視床",
-            "比較",
+            "被殻",
             "淡蒼球",
             "尾状核"
         ],
@@ -1098,7 +1161,9 @@
         "subject": "解剖学",
         "questionNumber": 79,
         "question": "写真（別冊No.2）を別に示す。拍動を触れているのはどれか。",
-        "questionImages": ["images/quiz/2024_1_q79.png"],
+        "questionImages": [
+            "images/quiz/2024_1_q79.png"
+        ],
         "choices": [
             "前脛骨動脈",
             "後脛骨動脈",
@@ -1113,7 +1178,9 @@
         "subject": "解剖学",
         "questionNumber": 80,
         "question": "第３腰椎の高さの腹部CT像（別冊No.3）を別に示す。矢印で示す筋はどれか。",
-        "questionImages": ["images/quiz/2024_1_q80.png"],
+        "questionImages": [
+            "images/quiz/2024_1_q80.png"
+        ],
         "choices": [
             "腰方形筋",
             "大腰筋",
@@ -1403,7 +1470,7 @@
         "answer": 0,
         "tags": []
     },
-        {
+    {
         "year": 2024,
         "subject": "生理学",
         "questionNumber": 101,
