@@ -1042,6 +1042,7 @@
         "subject": "解剖学",
         "questionNumber": 75,
         "question": "腰神経叢の模式図を示す。大腿内転筋群を支配するのはどれか。",
+        "questionImages": ["images/quiz/2023_1_q75.JPEG"],
         "choices": [
             "1",
             "2",
