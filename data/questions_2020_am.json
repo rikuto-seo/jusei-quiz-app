@@ -1377,7 +1377,7 @@
     },
     {
         "year": 2020,
-        "subject": ["生理学","運動学"],
+        "subject": ["生理学"],
         "questionNumber": 99,
         "question": "伝導速度が最も速いのはどれか。",
         "choices": [
@@ -1391,7 +1391,7 @@
     },
     {
         "year": 2020,
-        "subject": "運動学",
+        "subject": "生理学",
         "questionNumber": 100,
         "question": "アドレナリン作動性線維はどれか。",
         "choices": [
@@ -1405,7 +1405,7 @@
     },
     {
         "year": 2020,
-        "subject": "運動学",
+        "subject": "生理学",
         "questionNumber": 101,
         "question": "一次運動野で最も内側に再現されている身体部位はどれか。",
         "choices": [
@@ -1419,7 +1419,7 @@
     },
     {
         "year": 2020,
-        "subject": "運動学",
+        "subject": "生理学",
         "questionNumber": 102,
         "question": "骨格筋の収縮時に長さが変わらないのはどれか。",
         "choices": [
@@ -1433,7 +1433,7 @@
     },
     {
         "year": 2020,
-        "subject": "運動学",
+        "subject": "生理学",
         "questionNumber": 103,
         "question": "ゴルジ腱紡錘(腱器官)を受容器とするのはどれか。",
         "choices": [
@@ -1447,7 +1447,7 @@
     },
     {
         "year": 2020,
-        "subject": "運動学",
+        "subject": "生理学",
         "questionNumber": 104,
         "question": "近くの対象を見るときの眼の調節で正しいのはどれか。",
         "choices": [
@@ -1461,7 +1461,7 @@
     },
     {
         "year": 2020,
-        "subject": "運動学",
+        "subject": "生理学",
         "questionNumber": 105,
         "question": "左下肢の温度覚を伝える線維が上行する部位はどれか。",
         "choices": [
