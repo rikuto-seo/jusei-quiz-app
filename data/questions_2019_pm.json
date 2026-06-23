@@ -288,7 +288,7 @@
     },
     {
         "year": 2019,
-        "subject": ["リハビリテーション医学","一般臨床医学"],
+        "subject": "リハビリテーション医学",
         "questionNumber": 141,
         "question": "45歳の男性。高所からの転落で頸髄損傷を受傷した。職業はパソコン操作によるデスクワークだが、自家用車での通勤が必要である。改造自動車を用いた運転が可能な損傷レベルはどれか。",
         "choices": [
@@ -316,7 +316,7 @@
     },
     {
         "year": 2019,
-        "subject": "栄養学",
+        "subject": "一般臨床医学",
         "questionNumber": 143,
         "question": "栄養状態で正しいのはどれか。",
         "choices": [
@@ -617,7 +617,7 @@
     },
     {
         "year": 2019,
-        "subject": "一般臨床医学",
+        "subject": "外科学概論",
         "questionNumber": 164,
         "question": "機械的損傷はどれか。",
         "choices": [
@@ -631,7 +631,7 @@
     },
     {
         "year": 2019,
-        "subject": "一般臨床医学",
+        "subject": "外科学概論",
         "questionNumber": 165,
         "question": "Ⅲ度の広範囲熱傷の治療で適切でないのはどれか。",
         "choices": [

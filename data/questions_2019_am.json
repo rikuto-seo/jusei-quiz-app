@@ -1,7 +1,7 @@
 [
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["解剖学","必修"],
         "questionNumber": 1,
         "question": "恥骨結合の連結様式はどれか。",
         "choices": [
@@ -15,7 +15,7 @@
     },
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["解剖学","必修"],
         "questionNumber": 2,
         "question": "蝶番関節はどれか。",
         "choices": [
@@ -29,7 +29,7 @@
     },
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["解剖学","必修"],
         "questionNumber": 3,
         "question": "関節と内部構造の組合せで正しいのはどれか。",
         "choices": [
@@ -43,7 +43,7 @@
     },
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["解剖学","必修"],
         "questionNumber": 4,
         "question": "股関節の外転に働く筋の支配神経はどれか。",
         "choices": [
@@ -57,7 +57,7 @@
     },
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["解剖学","必修"],
         "questionNumber": 5,
         "question": "ATPの合成に関与しているのはどれか。",
         "choices": [
@@ -71,7 +71,7 @@
     },
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["解剖学","必修"],
         "questionNumber": 6,
         "question": "心室収縮時、左心室からの血液の逆流を防止する弁はどれか。",
         "choices": [
@@ -85,7 +85,7 @@
     },
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["解剖学","必修"],
         "questionNumber": 7,
         "question": "一次視覚野があるのはどれか。",
         "choices": [
@@ -169,7 +169,7 @@
     },
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["一般臨床医学","必修"],
         "questionNumber": 13,
         "question": "喫煙が危険因子でない疾患はどれか。",
         "choices": [
@@ -183,7 +183,7 @@
     },
     {
         "year": 2019,
-        "subject": "必修",
+        "subject": ["生理学","必修"],
         "questionNumber": 14,
         "question": "低血圧を起こすのはどれか。",
         "choices": [
